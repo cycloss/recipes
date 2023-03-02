@@ -32,15 +32,16 @@ Untested: [Easy Fall-Apart Roasted Pork Shoulder Recipe &mdash; The Mom 100](htt
 
 **Serves 5**
 
-- 1 onion, sliced
-- 50g butter
 - 200g smoked lardon, or diced bacon
-- 1 cabbage
+- 50g butter
+- 1 onion, diced
+- 2 garlic cloves, minced 
+- 1 cabbage, cut in half, then down the middle, and across in 1cm strips 
 - 150ml boiling water
 
-Fry the onion in butter for 2 mins, then add the bacon and cook for a few mins more until golden.
+Fry the bacon and cook on medium-high until browned. Add the onion, garlic, and butter, cooking for a further 2-3 mins until the onion softens.
 
-Stir in the cabbage and boiling water. Cook for 2 mins over a medium heat until wilted, then cover, turn the heat to low and cook for another 5 mins.
+Stir in the cabbage and boiling water to deglaze the bacon fond. Cook for 2 mins over a medium heat until wilted, then cover, turn the heat to low and cook for another 5 mins.
 
 Uncover and stir well; the cabbage should have a little colour. If not, increase the heat and cook for a few moments more. Season to taste.
 

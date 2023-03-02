@@ -217,3 +217,48 @@
 7. Taste test and add more salt or water according to your preference.
 
 8. Serve with chopped coriander and rice.
+
+# Thai Cashew Chicken Stir Fry
+
+![](Images/2022-12-18-11-12-09-image.png)
+
+#### Serves 4 - 30 mins
+
+**Stir Fry**
+
+- 2 tbsp plain oil
+- 1 cup raw cashews, unsalted
+- 2 garlic clove, minced
+- 1 brown onion, cut into wedges (halved, cut lengthways 4-5 times into segments, then cut across) 
+- 400g chicken thighs, skinless and boneless, sliced into 1cm thin strips
+- 4 green onions, cut into 2.5cm lengths (not sliced), white part separated from green part
+- 1 red chilli, deseeded and finely sliced
+
+**Sauce**
+
+- 2 tbsp oyster sauce
+- 1 tbsp **dark** soy sauce
+- 4 tsp fish sauce
+- 2 tsp white sugar
+- 50ml water (add more if too dry or if you want it more saucy)
+
+**To Serve**
+
+- Red chilli, finely sliced (optional garnish)
+- Rice
+
+#### Directions
+
+1. Chop all the ingredients and mix all the Sauce ingredients in a small bowl.
+
+2. Heat oil over medium heat in a wok or large skillet. Add cashews and cook for 5 minutes until they become a dark golden colour and crunchy (be careful not to burn them!). Remove from skillet with a slotted spoon.
+
+3. Add the onion and cook for 1 min. Add the chicken and cook for 1 minute until the outside changes from pink to white.
+
+4. Add the white part of the green onion, garlic, and chilli. Cook for 1 minute until chicken is just cooked through.
+
+5. Add the sauce, cooking for 1 minute until it reduces down to a syrup, coating the chicken nicely.
+
+6. Add green part of green onions and cashews. Toss for 30 seconds.
+
+7. Transfer to serving dish. Serve with rice and garnish with extra red chilli.

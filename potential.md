@@ -12,8 +12,6 @@ https://scrummylane.com/spanish-omelette-tortilla-de-patatas/
 
 [Coq au Vin | RecipeTin Eats](https://www.recipetineats.com/coq-au-vin/#wprm-recipe-container-25070)
 
-[Leek and Potato Soup | RecipeTin Eats](https://www.recipetineats.com/leek-and-potato-soup/#wprm-recipe-container-23935)
-
 [Bourride (Fish Stew with Aïoli) | Saveur](https://www.saveur.com/article/recipes/classic-french-fish-stew-with-aioli/)
 
 [Beef Bourguignon (Beef Burgundy) | RecipeTin Eats](https://www.recipetineats.com/beef-bourguignon-beef-burgundy/#wprm-recipe-container-57415)
@@ -81,3 +79,7 @@ Okonomiyaki
 https://www.youtube.com/watch?v=4ZdaEdo73cs
 
 https://www.amazon.co.uk/dp/B016M6K17M/?coliid=I2SC2R755EGLQI&colid=2EDYGIELV6EGA&psc=1&ref_=lv_ov_lig_dp_it
+
+[Honey Soy Wings | RecipeTin Eats](https://www.recipetineats.com/honey-soy-wings/#wprm-recipe-container-78456)
+
+[Our Secret Family Quick Ramen | RecipeTin Eats](https://www.recipetineats.com/our-secret-family-quick-ramen/) - you can see the recipe in the video

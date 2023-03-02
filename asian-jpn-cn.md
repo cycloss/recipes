@@ -274,7 +274,7 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 
 #### Serves 4 - 30 mins
 
-- 500g chicken, sliced into small strip pieces
+- ~500g chicken, sliced into small strip pieces
 
 - Rice to serve
 
@@ -282,11 +282,11 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 
 - 1 tsp coriander powder
 - 1 tsp cumin powder
-- 0.5 tsp turmeric powder
-- 0.5 tsp chilli powder
-- 3 tsp curry Powder
-- 1 tsp salt
-- 0.5 tsp white pepper
+- 1/2 tsp turmeric powder
+- 1/2 tsp chilli powder
+- 1 tbsp curry Powder
+- 1/2 tsp salt
+- 1/4 tsp white pepper
 
 **Satay Sauce**
 
@@ -301,9 +301,9 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 **Stir Fry**
 
 - 2 tbsp plain oil (vegetable, sunflower)
-- 2 onion, finely chopped
+- 1 onion, finely chopped
 - 4 garlic cloves, minced
-- Spring onions (garnish)
+- Spring onions (garnish, optional)
 
 #### Directions
 
@@ -313,12 +313,13 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 
 3. Place all the sauce ingredients in a bowl **separate to the chicken**, add the remaining Seasoning and mix
 
-4. Heat oil in a skillet over high heat. Add the chicken and fry for 1 minute on each side, then transfer to a plate.
+4. Heat oil in a skillet over high heat. Add the chicken and fry for 1 minute on each side.
 
-5. Reduce to medium and fry the onion until translucent, then add the garlic and fry until the onion is soft.
+5. Reduce to medium and add the onion, frying for 2-3mins until translucent and soft (keep the lid on the pan as it helps to soften it). Add the garlic half way through.
 
-6. Lower the heat, then add Sauce and chicken. Stir until it reduce down and becomes thicker - 1 to 1 1/2 minutes. Add water if too thick.
-- Serve immediately with rice and garnish with sliced spring onions.
+6. Lower the heat, then add the sauce. Stir until it reduce down and becomes thicker - 1 to 1 1/2 minutes. Add water if too thick.
+
+7. Serve immediately with rice and garnish with sliced spring onions.
 
 ## Chinese Pepper Steak
 
@@ -389,10 +390,10 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 - 3 tbsp soy sauce (regular)
 - 250 ml water
 - 1 1/2 tbsp Shaoxing wine (Chinese cooking wine) / Mirin
-- 3 tbsp oyster sauce (Note 3)
+- 3 tbsp oyster sauce (the Tesco brand stuff is great)
 - 2 tsp sesame oil
 - 1 tsp honey
-- 1 tsp white pepper (sub black)
+- 1/4 tsp white pepper (sub black)
 
 **Stir-fry**
 
@@ -532,7 +533,7 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 
 - 1/2 Cup (125m) - Chicken Stock
 
-- 1 1/2 tbsp (12g) - Corn Flour
+- 1 1/2 tbsp (12g) - Cornflour
 
 - 1 Lemon, Juiced (last time was 2 and was a bit sour)
 
