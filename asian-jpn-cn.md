@@ -618,3 +618,57 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 4. Add the remaining vegetable oil together with the sesame oil, and add the rice, separating the grains with a wooden spatula so that there are no large lumps, and stir-fry for two to three minutes.
 
 5. Pour the soy sauce (and mirin?) along the edge of the pan and mix. Season with the white pepper and shichimi tougarashi and stir to mix well. Serve
+
+## Niku Jaga (Japanese stew)
+
+#### Serves 4 - 1 hr
+
+**Prepare**
+
+- ~700g of all purpose potatoes, randomly chopped
+
+- 2 large carrots, randomly chopped
+
+- 2 onions, petal cut
+
+- ~400g of pork (medallions do fine), sliced thinly
+
+**Broth**
+
+- 400ml water
+
+- 2 tbsp sugar
+
+- 4 tbsp soy sauce
+
+- 4 tbsp cooking sake (sub shaoxing wine) 
+
+- 4 tbsp soy sauce
+
+- 4 tbsp mirin
+
+- 10g (1/2 tbsp) grandulated dashi
+
+**Finish**
+
+- 150g of greens (beans, snow peas, midget trees etc)
+
+- 4 tbsp of hontsuyu
+
+- 400ml water
+
+- Rice
+
+#### Directions
+
+1. Chop the potatoes, carrots, and onions, putting them aside into a large bowl, then slice the pork.
+
+2. Heat oil in a large skillet pan to medium, then cook the pork for 1 minute each side with the lid on. 
+
+3. Add the vegetables, mixing to cover them with oil from the pork, and fry for a few minutes with the lid on. While frying, mix and then add the broth ingredients.
+
+4. Put the rice on, and when it's 5 minutes from being done, add the greens to the pan.
+
+5. Once the rice is done, pour off the broth from the stew, and add another 400ml(?) of water to it, along with the hontsuyu
+
+N.B: store the broth separate from the vegetables, otherwise they will absorb all the liquid

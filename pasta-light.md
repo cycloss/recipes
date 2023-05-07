@@ -126,29 +126,34 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 ## Carbonara
 
-![](Images/2022-01-27-11-19-28-image.png)
+![](Images/carbonara.jpeg)
 
-**Serves 4**
+**Serves 3**
 
-- 3 tablespoons garlic infused olive oil (light if none)
-- 2 cloves of garlic (5 if no garlic oil)
-- 1 pack of bacon, sliced
-- 2 packs of fresh linguine, or 500g dry
-- 4 egg and 2 egg yolks
-- lots of parmesan
+- 175g guanciale or pancetta or streaky bacon in order or preference
+- Optional: 250g sliced mushrooms
+- 3 garlic cloves, minced
+- 2 large eggs and 2 egg yolks
+- 100g parmigiano / pecorino, finely grated (50-50 split is best)
+- 1/4 tsp black pepper
+- 400g spaghetti
+- 1 tbsp salt for pasta water (as salty as the med)
 
 Tip: Put water on, then chop bacon
 
 **Method**
 
-1. Fill a large saucepan with water and bring to the boil
-2. Fry bacon until coloured
-3. Add garlic and garlic oil and fry until garlic cooked
-4. Add drained linguine into the dish and toss well, save some of the water
-5. Turn off the heat, add some of the hot water to the egg mixture to temper it, then add it to the pasta. Be **very** careful it isn't too hot that it curdles the egg
-6. adding some of the pasta-cooking water (and optional egg), drop by cautious drop, for lubrication as you need it.
-7. Mix in parmesan to taste with S&P.
-8. Add a sprinkling of roughly scissored parsley
+1. **Prep:** cut the gunciale/bacon into small pieces, and mince the garlic. Place the eggs and yolks in a large bowl and whisk to combine, then grate and stir in the cheese and pepper.
+
+2. Put 4 litres of water to the boil with the salt.
+
+3. Place guanciale in a cool non stick pan and bring up to medium high heat. Cook for 4 to 5 minutes until golden. If using bacon, add a touch of oil. Turn off the heat and add the garlic, stirring to combine.
+
+4. While the guanciale is frying, put on the pasta, and once done, scoop out 1 cup of pasta cooking water, then drain the pasta. Add some of the pasta water to the sauce mix to temper it (makes it less likely to curdle)
+
+5. Tip the hot pasta into the pan and mix to coat in the guanciale / garlic fat. Quickly transfer the pasta to the large bowl with the sauce mix, along with 1/2 a cup of the pasta water (do not transfer the mix to the pan as it will likely be too hot and scramble). Stir vigorously using the handle of a wooden spoon for 1 minute and watch as the sauce transforms from watery to creamy. Add more pasta water if required and check for seasoning.
+
+6. Serve immediately, garnished with a little extra parmigiana reggiano, some pepper, and finely chopped parsley.
 
 ## Creamy Chicken Pasta
 
@@ -422,3 +427,47 @@ Tip: Put water on, then chop bacon
 3. Add the pasta, stock, ¾ teaspoon of salt and 200ml of water, and bring to a simmer. Reduce the heat to medium, cover with the lid and cook for 12–14 minutes, or until the pasta is al dente.
 
 4. Stir in the remaining parsley mixture, drizzle with the remaining 2 tablespoons of oil and garnish with the reserved chickpeas and a good grind of pepper.
+
+## Seafood Gratin Pasta Bake
+
+![](Images/seafood-bake.png)
+
+#### Serves 4 - 1 hr
+
+**Fry**
+
+- 300g pasta (macaroni is fine)
+- 1.5 tbsp olive oil
+- ~500g of mixed seafood: salmon, smoked haddock, prawns etc. Small prawns preferred as they disperse better
+- 3 leeks, sliced into semi-circles
+- 3 garlic cloves, minced
+
+**White Sauce**
+
+- 50g butter
+- 3 tbsp flour
+- 2.5 cups milk
+- 1 chicken stock cube (could try 1 cube of fish stock as well?)
+- 0.5 cups of double cream
+- Salt and Pepper
+
+**Topping**
+
+- Panko breadcrumbs
+- Grated parmesan cheese
+
+#### Directions
+
+1. Chop the the leeks and drain the seafood. Put the pasta water on to boil with 1/2 a tbsp of salt.
+
+2. Heat 1 tbsp of oil in a non stick pan over high heat, and sear the seafood for 30 seconds on each side, put aside in the baking dish, then fry the leeks and garlic until they are soft (3-5 mins), and put them with the seafood in the baking dish
+
+3. Put the pasta on when the water is boiling, and cook it for 4 minutes less than the instructions say. Once it is done, add it to the baking dish.
+
+4. Preheat the oven to 180c.
+
+5. Melt the butter in the pan on low heat, then add the flour, cooking for 1 minute. Add the milk slowly to make the white sauce, then add the stock cube crumbled.  Cook for around 5 minutes, stirring regularly until it thickens (coats the back of a spoon). Add the cream, check for seasoning and add the salt and pepper, then pour it into the baking dish.
+
+6. Mix everything together, and top with the panko and then parmesan.
+
+7. Bake for 20 minutes, then finish in the grill.

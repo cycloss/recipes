@@ -2,8 +2,6 @@
 
 [Supreme Soy Noodles (NEW recipe – finally!) | RecipeTin Eats](https://www.recipetineats.com/supreme-soy-noodles/#wprm-recipe-container-70822) with beansprouts and hakusai/cabbage
 
-[Thai Cashew Chicken Stir Fry | RecipeTin Eats](https://www.recipetineats.com/thai-cashew-chicken-stir-fry/#wprm-recipe-container-60496)
-
 https://scrummylane.com/spanish-omelette-tortilla-de-patatas/
 
 [Meat Pie recipe! | RecipeTin Eats](https://www.recipetineats.com/meat-pie-recipe/)
@@ -46,8 +44,6 @@ https://www.hairybikers.com/recipes/view/chicken-korma brown sugar instead of ca
 
 [Swedish Meatballs (homemade Ikea Meatballs) | RecipeTin Eats](https://www.recipetineats.com/swedish-meatballs/#wprm-recipe-container-20596)
 
-[Yakisoba (Japanese Stir Fried Noodles) - RecipeTin Japan](https://japan.recipetineats.com/yakisoba-japanese-stir-fried-noodles/)
-
 [Yakitori (Japanese Skewered Chicken) - RecipeTin Japan](https://japan.recipetineats.com/yakitori-japanese-skewered-chicken/)
 
 Okonomiyaki
@@ -76,10 +72,18 @@ Okonomiyaki
 
 [Chicken Fried Rice | RecipeTin Eats](https://www.recipetineats.com/chicken-fried-rice/#wprm-recipe-container-39795)
 
-https://www.youtube.com/watch?v=4ZdaEdo73cs
-
 https://www.amazon.co.uk/dp/B016M6K17M/?coliid=I2SC2R755EGLQI&colid=2EDYGIELV6EGA&psc=1&ref_=lv_ov_lig_dp_it
 
 [Honey Soy Wings | RecipeTin Eats](https://www.recipetineats.com/honey-soy-wings/#wprm-recipe-container-78456)
 
 [Our Secret Family Quick Ramen | RecipeTin Eats](https://www.recipetineats.com/our-secret-family-quick-ramen/) - you can see the recipe in the video
+
+[Carbonara | RecipeTin Eats](https://www.recipetineats.com/carbonara/)
+
+Oyakodon [How to make Oyakodon - a simple Japanese chicken and egg rice bowl recipe - YouTube](https://www.youtube.com/watch?v=iBSKWTtzumg&t=199s)
+
+Yakisoba [Easy &amp; Basic Yakisoba | Japanese Street Food Noodles](https://www.chefslabo.com/post/easy-basic-yakisoba-japanese-street-food-noodles)
+
+Cream stew [Japanese cream stew | White stew　[Improved version]](https://www.chefslabo.com/post/japanese-cream-stew-white-stew-improved-version)
+
+Beef stew [Japanese Beef Stew [Improved Version]](https://www.chefslabo.com/post/japanese-beef-stew-improved-version)

@@ -240,7 +240,8 @@
 - 1 tbsp **dark** soy sauce
 - 4 tsp fish sauce
 - 2 tsp white sugar
-- 50ml water (add more if too dry or if you want it more saucy)
+- ~100ml water (add more if too dry or if you want it more saucy)
+- 1-2 tbsp cornflower
 
 **To Serve**
 
