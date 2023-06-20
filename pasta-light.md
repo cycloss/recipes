@@ -38,7 +38,7 @@ Then grill on medium until the top is brown
 
 ![](Images/putanesca.jpeg)
 
-Serves 4, Time 30 mins
+#### Serves 4 - 30 mins
 
 - 400g spaghetti
 
@@ -72,7 +72,7 @@ When there is 15 mins left for the sauce, put the spaghetti on. When ready, serv
 
 ![](Images/2022-01-17-08-20-55-image.png)
 
-**Serves 3**
+#### Serves 3 - 1 hr
 
 - 1 1/2 tbsp olive oil
 - 2 garlic cloves , minced
@@ -471,3 +471,65 @@ Tip: Put water on, then chop bacon
 6. Mix everything together, and top with the panko and then parmesan.
 
 7. Bake for 20 minutes, then finish in the grill.
+
+## Vinaigrette
+
+![](Images/2023-05-31-22-35-22-image.png)
+
+#### Serves 4 - 5 mins
+
+- 5 tbsp extra virgin olive oil
+
+- 1 tbsp apple cider vinegar
+
+- 0.5 tbsp lemon juice
+
+- 1 tsp smooth dijon mustard
+
+- 0.75 tsp sugar
+
+- 0.5 tsp salt
+
+- 0.5 tsp pepper
+
+#### Directions
+
+1. Mix everything together in a container that can be shaken and shake
+
+## Vibrant Crunchy Wild Rice Salad
+
+#### Serves 4 - 40 mins
+
+- 2 cups of black rice (possibly can get away with the white and black mix)
+
+- 100g each of midget trees, snow peas, and green beans (2 packs of the Tesco's tenderstem mix is perfect)
+
+- 300g asparagus
+
+- 50g toasted and crushed hazelnuts
+
+- 50g sunflower seeds
+
+- 2 spigs of mint (untested) roughly chopped
+
+- 1 portion of vinaigrette (see recipe above)
+
+- 2 spring onions sliced diagonally
+
+#### Goes well with
+
+- Japanese Salmon (see jpn cn recipes)
+
+#### Directions
+
+1. Put the rice on.
+
+2. Chop the vegetables diagonally into 2-3cm pieces (discard the tough stems), and slice the spring onions diagonally and thinly.
+
+3. Put the some water on to boil (salt with 0.5 tbsp) and make the vinaigrette
+
+4. Once the water boils, boil the vegetables for 5 minutes or until tender, then plunge into cold water. Drain and repeat until they are cold, then drain.
+
+5. Cook the salmon if making it.
+
+6. Once the rice is done, combine everything apart from the spring onions in a large bowl, transfer to a serving plate, and top with the spring onions.
