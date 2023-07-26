@@ -16,15 +16,13 @@ Jane Lovett - Salmon, courgette, asparagus, caper n oodles thing. p127 the get a
 
 Jane Lovett - Bang Bang Chicken. p123 the get ahead cook
 
-[Rick Stein Poulette Mussels | BBC2 Rick Stein's Secret France](https://thehappyfoodie.co.uk/recipes/rick-steins-mussels-with-poulette-sauce/)
+[Rick Stein Poulette Mussels | BBC2 Rick Stein's Secret France](https://thehappyfoodie.co.uk/recipes/rick-steins-mussels-with-poulette-sauce/) but white wine instead of cidre
 
 [Omurice (Japanese Rice Omelette) - RecipeTin Japan](https://japan.recipetineats.com/omurice-japanese-rice-omelette/)
 
 [Quesadilla!!! | RecipeTin Eats](https://www.recipetineats.com/quesadilla/#wprm-recipe-container-30274)
 
 [Asian Steak | RecipeTin Eats](https://www.recipetineats.com/asian-steak/#wprm-recipe-container-20045)
-
-<https://www.hairybikers.com/recipes/view/chicken-korma> brown sugar instead of caster, and add a touch of tomato paste for v light red
 
 [Noodle Salad with Sesame Peanut Dressing (Work lunch idea!) | RecipeTin Eats](https://www.recipetineats.com/noodle-salad-creamy-sesame-peanut-dressing/#wprm-recipe-container-26418)
 
@@ -42,8 +40,6 @@ Okonomiyaki
 
 [Mie Goreng (Mee Goreng - Indonesian noodles) | RecipeTin Eats](https://www.recipetineats.com/mie-goreng/) - Remember DO NOT sub light for dark soy
 
-[The Easiest Stir Fry Dish (Drunken Noodles) - YouTube](https://www.youtube.com/watch?v=Ds-3VyRIyCU)
-
 [The Perfect Homemade Omelet (3 Ways) - YouTube](https://www.youtube.com/watch?v=p3EwVIpzFjI)
 
 [Saltimbocca | RecipeTin Eats](https://www.recipetineats.com/saltimbocca/)
@@ -52,14 +48,10 @@ Okonomiyaki
 
 [Chicken Fried Rice | RecipeTin Eats](https://www.recipetineats.com/chicken-fried-rice/#wprm-recipe-container-39795)
 
-<https://www.amazon.co.uk/dp/B016M6K17M/?coliid=I2SC2R755EGLQI&colid=2EDYGIELV6EGA&psc=1&ref_=lv_ov_lig_dp_it>
-
 [Honey Soy Wings | RecipeTin Eats](https://www.recipetineats.com/honey-soy-wings/#wprm-recipe-container-78456)
-
-Oyakodon [How to make Oyakodon - a simple Japanese chicken and egg rice bowl recipe - YouTube](https://www.youtube.com/watch?v=iBSKWTtzumg&t=199s)
 
 Cream stew [Japanese cream stew | White stew　[Improved version]](https://www.chefslabo.com/post/japanese-cream-stew-white-stew-improved-version)
 
 [Chicken Parmigiana | RecipeTin Eats](https://www.recipetineats.com/chicken-parmigiana/#wprm-recipe-container-50229)Beef stew [Japanese Beef Stew [Improved Version]](https://www.chefslabo.com/post/japanese-beef-stew-improved-version)
 
-<https://www.chefslabo.com/post/oyakodon-親子丼>
+maki tamagoyaki

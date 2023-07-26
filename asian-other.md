@@ -118,7 +118,7 @@
 
 **Paste**
 
-- 2 medium spice chillis, finely chopped
+- 2 medium spice red chillis, finely chopped
 - 2 lemongrass stems (chop off bottom, and top green, peel outside layer, chop very finely
 - 2 shallots , roughly chopped
 - 1.5 tbsp ground turmeric
@@ -181,11 +181,11 @@
 
 - 600 - 800g raw king prawns (or small prawns)
 - 2 green peppers cut into small 1cm squares
-- 6-8 shallot onions (preferable as softer) / 3 onions finely diced
-- 8 cloves garlic finely chopped / minced
-- 3cm piece of ginger?
+- 6-8 shallot onions (preferable as softer) / 2 onions finely diced
+- 1.5 tsp garlic (5 cloves or so)s
+- 1.5 tsp ginger
 - 1 can (400g) chopped tomatoes
-- 4 tsp tomato puree
+- 1 tbsp tomato puree
 - 3 tbsp vegetable oil
 - Coriander roughly chopped
 - 250 - 350ml of water
@@ -193,12 +193,14 @@
 
 **Spices**
 
-- 2 tsp chilli powder
+- 1 tsp chilli powder
+- 1 tsp paprika
 - 1 tsp turmeric
-- 2 tsp curry powder (mild)
+- 2 tsp curry powder
 - 1 tsp coriander powder
-- 0.5 tsp cumin powder
-- 2 tsp salt
+- 1/2 tsp cumin powder
+- 1/2 tsp salt
+- 1 tsp sugar?
 
 #### Directions
 
@@ -263,3 +265,77 @@
 6. Add green part of green onions and cashews. Toss for 30 seconds.
 
 7. Transfer to serving dish. Serve with rice and garnish with extra red chilli.
+
+## Chicken Korma
+
+![Screenshot 2023-07-15 at 20.30.42.jpg](Images/d65b3a6ba183182cb35fd3d490251498e595d73f.jpg)
+
+#### Serves 4 - 40 mins
+
+- 2 tbsp cooking oil
+
+- 2 brown onions, diced finely
+
+- 4 garlic cloves, chopped finely (not minced)
+
+- 1 tsp ginger paste
+
+**Spices**
+
+- 6 cardamom pods, seeds taken out of pods and crushed / chopped
+
+- 1 tbsp ground cumin
+
+- 1 tbsp ground coriander
+
+- 3/4 tsp ground turmeric
+
+- 1/2 tsp mild chilli powder - trial 1 tsp?
+
+- 1 bay leaf
+
+- 4 cloves, round bits on the end pinched off with fingers and crushed, long bits discarded
+
+**Simmer**
+
+- 1 tbsp plain ﬂour
+
+- 50g finely chopped almonds
+
+- 300ml water
+
+- small pinch of saﬀron
+
+- 1 tbsp light brown sugar
+
+- 1/2 tsp ﬁne sea salt - trial 3/4 tsp?
+
+**Chicken**
+
+- 1 tbsp oil
+
+- 600g chicken (breast or thigh), chopped into bite sized pieces
+
+- 2 tbsp plain yoghurt (greek or natural)
+
+**Finish**
+
+- 60ml double cream
+
+- fresh coriander, roughly chopped, to garnish (optional)
+
+- Rice to serve.
+
+#### Directions
+
+1. Dice the onions, put a medium sized pan on medium low, add the oil, and fry the onions with a bit of salt covered for 5 minutes until softening, stirring every few minutes. Add the garlic and ginger and fry for another 5 minutes covered.
+
+2. Prepare all the spices, then when the onion mixture is done, add them and cook for 5 minutes uncovered. Add the plain flower and chopped almonds and cook for 2 minutes. Slowly add the water, stirring constantly to dissolve the fond on the bottom of the pan, and add the saffron, sugar, and salt. Simmer covered for 10 minutes.
+
+3. While the sauce simmers, put the rice on, and then chop the chicken.
+
+4. When the sauce is done, remove the bay leaf and transfer it to a bowl / jug suitable for a stick blender (I use the jug I measure the water with), scraping the pan as clean as you can with a spatula. Put the pan back on the burner on medium high heat with oil, add the chicken when hot, and spoon on and mix in the yoghurt. Cook the chicken until almost cooked through with a little color if you can, but it's not necessary.
+
+5. While the chicken cooks, use a stick blender to blend the sauce until a grainy consistency.
+
+6. When the chicken is cooked, reduce the heat to medium low, wait for the pan to reach that temperature, then add the blended sauce back. Simmer covered for 10 minutes. While simmering, chop the coriander. Once simmered, add the cream and stir through for a minute or so, then serve with rice and the coriander. 

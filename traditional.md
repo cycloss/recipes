@@ -641,37 +641,33 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 - 750g minced lamb (shepherds) OR beef (cottage)
 - 1/4 cup (35g) flour , plain/all purpose
 - 1/4 cup (55g) tomato paste
-- 2 cups (500ml) beef stock (**2 - 3** cubes)
+- 2 cups (500ml) beef stock (**3** cubes)
 - 1/2 cup (125ml) red wine (or water)
-- 1 tbsp Worcestershire sauce
+- 1.5 tbsp Worcestershire sauce
 - 2 dried bay leaves
-- Salt and pepper
+- Salt, pepper, and sriracha (optional)
 - 1 cup frozen peas
 
 **Mash**
 
-- 1.2kg potatoes, peeled and cut into 2.5cm / 1" cubes
+- 1 kg potatoes, peeled and chopped
 - 2/3 cup (165 ml) milk (whole or low fat)
 - 2 tbsp (30g) butter
 
 **Crust**
 
 - 2 – 3 tbsp grated parmesan , optional
-- 2 tbsp (30g) butter , melted
 - Chopped chives to garnish
 
 #### Directions
 
 1. Heat oil in a large skillet over medium high heat. Add onion and garlic, cook for 1 minute. Then add carrots, celery, thyme and rosemary. Cook for 3 minutes or until softened and sweet.
 2. Turn heat up to high. Add lamb/beef and cook, breaking it up as you go, until browned.
-3. Add flour and mix in. Add tomato paste, stock, red wine, Worcestershire sauce and bay leaves. Stir well.
-4. Bring to simmer, then turn down heat so it is simmering rapidly - I have it on medium. Cook for 30 minutes, stirring occasionally, until it reduces down to a thick gravy consistency (Note 1) (see video).
-5. While simmering the mince, cook potatoes in boiling water for 15-20 minutes or until soft. Drain then return to pot on turned off stove. Allow to steam dry for 30 seconds or so (prevents it making the mince watery). Add butter and mash until melted, then add milk, salt and pepper. Mash until it's soft and smooth (ie spreadable, but not sloppy), adjusting with a touch more milk if required.
-6. Preheat oven to 180C/350F.
-7. When mince has finished simmering, adjust salt and pepper to taste, then transfer to 1.5 litre baking dish (could try doing it in the pan the mince is currently in if it is large). Stir through peas. Cover, then refrigerate to cool for 1 - 2 hours or overnight (optional)
-8. Spread mash onto pie, use a fork to draw squiggles over the surface. Sprinkle with parmesan, drizzle with butter.
-9. Bake for 30 - 40 minutes or until deep golden on top and bubbling on the edges. Stick a knife into the middle to ensure it is piping hot.
-10. Stand for 5 minutes before serving, garnished with chives if desired.
+3. Add flour and mix in. Add tomato paste, stock, red wine, Worcestershire sauce and bay leaves. Bring to simmer, then turn down heat so it is simmering rapidly - I have it on medium. Cook for 30 minutes, stirring occasionally, until it reduces down to a thick gravy consistency.
+4. Once the mince is simmering, put water on to boil, chop the potatoes. When the water is boiling preheat oven to 180C/350F and and then cook the potatoes in boiling water for 15-20 minutes or until soft. Drain then return to pot on turned off stove. Allow to steam dry for 30 seconds or so (prevents it making the mince watery). Add butter, milk, and salt, and mash until a spreadable consistency.
+5. When mince has finished simmering, adjust salt and pepper to taste (add a small amount of sriracha for an almost undetectable hum), then transfer to 1.5 litre baking dish (could try doing it in the pan the mince is currently in if it is large). Stir through peas.
+6. Spread mash onto pie, use a fork to draw squiggles over the surface. Sprinkle with parmesan.
+7. Bake for 30 - 40 minutes or until deep golden on top and bubbling on the edges. Stick a knife into the middle to ensure it is piping hot. Garnished with chives if desired and serve.
 
 ## Toad in the Hole with Onion Gravy
 

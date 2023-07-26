@@ -62,7 +62,7 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 
 - A few shakes of ajinomoto
 
-- 1/2 tsp pepper (be generous)
+- 1/4 tsp pepperp
 
 **To Serve:**
 
@@ -373,3 +373,123 @@ N.B: store the broth separate from the vegetables, otherwise they will absorb al
 3. Once the bacon has good colour (not full crispy though), still on medium high add the cabbage, spring onion, and the paste mix and fry for a few mins until the cabbage wilts a bit, mixing regularly. While waiting, mix everything in the sauce into a small bowl. Once the veg has wilted a bit, add the sake and mix in for 20 secs to burn off the alcohol, then put everything aside onto a plate.
 
 4. Put the pan back on the heat (still medium high) with 1-2 tbsp of oil, and add the noodles, swirling them around to coat in oil. Keep frying on one side until they go partially golden brown (this is key), then flip them and fry the other side. Once fried, separate the noodles, add the bacon and veg mixture back, mix together, then add the sauce mixture, stirring for 30 secs to reduce it a bit. Serve.
+
+## Oyakodon
+
+![Screenshot 2023-07-13 at 18.24.23.jpg](Images/d3bf0d2f623db0277e490751ad5034940f303f97.jpg)
+
+#### Serves 2 - 30 mins
+
+- 300g chicken thigh - chopped into bite sized pieces
+
+- 1 onion - chopped into 1cm thin petals
+
+- 1tsp ginger
+
+- 4 eggs
+
+- Rice to serve
+
+**Sauce**
+
+- 100ml water
+
+- 2 tsp Sugar
+
+- 2.5 tbsp soy sauce
+
+- 1.5 tbsp sake
+
+- 2 tsp mirin
+
+#### Directions
+
+1. Put the rice on
+
+2. Mix the sauce, then chop the chicken and marinade it in the sauce
+
+3. Chop the onion, then add it with the ginger to a medium non-stick pan with some oil. Cook until it starts to soften for 4 mins or so.
+
+4. Add the chicken and boil for 7-8 mins until cooked, whilst the chicken is cooking whisk the eggs.
+
+5. Add half the egg making sure to pour it evenly around the pan, wait till it has gone solid, then add the rest of the egg, wait until it is half solid, then serve on top of the rice.
+
+## Simple Side Dishes
+
+#### Serves 2 each - 10 mins
+
+These are useful side dishes to eat with a rice bowl for lunch.
+
+#### Marinaded Tomatoes
+
+![Screenshot 2023-07-13 at 22.14.05.jpg](Images/a737037ae0973915dbcd24ffb11f44b3fe680aa2.jpg)
+
+- 250g medium tomatoes, chopped into quarters
+
+- 1/2 clove of garlic, minced
+
+- 1 tsp sugar
+
+- 2 tsp rice vinegar
+
+- 2 tsp soy sauce
+
+- 1 tsp olive oil
+
+- 10 or so basil leaves - chopped medium
+
+Mix the sauce, add the tomatoes and basil, then mix again.
+
+#### Pickled Cucumber
+
+![Screenshot 2023-07-13 at 22.16.22.jpg](Images/e44c681871b367c9ef5986f93d930295b7ad4175.jpg)
+
+- 1 cucumber - crushed (so the flavours get into the cracks), then chopped into half moons
+
+- 1/4 tsp salt
+
+- 2 spring onions (white and pale green parts), sliced with the tip of a knife in both diagonals not all the way through, then horizontal all the way through so it becomes minced.
+
+- 1 tsp sesame seeds
+
+- 1/2 clove of garlic
+
+- 1 tsp ginger
+
+- 1 tsp chilli paste
+
+- 2 tbsp sesame oil
+
+- 2 tsp soy sauce
+
+- 1 tsp rice wine vinegar
+
+- 1 sheet of nori - cut into small pieces with scissors  
+
+Crush the cucumber with something flat, chop the cucumber, then in a bowl add it with the salt. Mix the onion, sesame seeds, garlic, ginger, and chilli paste into a small heat proof bowl. Heat the sesame oil in a small pan until just smoking then pour into the bowl, it should sizzle. Leave for 10 secs or so, then add the soy sauce and vinegar. Add it to the cucumber with the nori pieces and mix well.
+
+#### Melty Aubergine
+
+![Screenshot 2023-07-13 at 22.34.55.jpg](Images/d5924c13223072e2754453ea989ae0a73a5c8b47.jpg)
+
+- 1 aubergine, cut into batons like thick cut chips about a finger in length 
+
+- 2 tbsp sesame oil
+
+- 1 tsp dashi powder
+
+- 1 tbsp sugar
+
+- 1 tbsp vinegar
+
+- 1 tbsp mirin
+
+- 1 tbsp soy sauce
+
+- 1 tsp grated ginger
+
+- 1 spring onion, chopped
+
+- 1 tsp sesame seeds
+
+Chop the aubergine, and fry with the sesame oil on medium heat in a non stick pan until slightly brown and soft. While frying, mix the sauce ingredients. Once fried, reduce to low heat and add the sauce along with the spring onion and sesame seeds.
