@@ -1,39 +1,5 @@
 # Pasta and Light
 
-## Potato and Pea Frittata
-
-![](Images/frittata.jpeg)
-
-Time: 30mins, Serves 3
-
-- 6 small potatoes, (3 medium)
-
-- 1 large onion, (2 small) diced
-
-- 75g frozen peas
-
-- 10 large eggs, (16 bantam)
-
-- salt and pepper
-
-- 4 tablespoons freshly grated parmesan
-
-- 3 tablespoons olive oil
-
-- Assorted toppings (ham, blue cheese)
-
-Bring the diced potatoes to the boil in salted water and boil briskly for 5 minutes, then drain, using the water to boil the peas.
-
-Fry the onion until it begins to soften, then add the potatoes and cook for about 10 minutes.
-
-Add the drained peas for the last couple of minutes of cooking. Break the eggs into the bowl, and beat to mix. Season with salt and pepper and add the parmesan. Pour egg mixture into the frying pan; it should still be nice and oily.
-
-Add any other toppings lying around like ham and blue cheese
-
-Then cook over a medium heat for about 8 minutes, or until the frittata is set more or less, save for a still-gooey top.
-
-Then grill on medium until the top is brown
-
 ## Pasta Putanesca
 
 ![](Images/putanesca.jpeg)
@@ -111,8 +77,8 @@ When there is 15 mins left for the sauce, put the spaghetti on. When ready, serv
 - 3 cloves garlic, roughly chopped
 - 1 scant tablespoon maldon salt
 - 1 large red chilli
-- 200 grams white crab meat
-- 100 grams brown crab meat
+- 200 grams white crab meat (do not use canned)
+- 100 grams brown crab meat (do not use canned)
 - 125 millilitres extra virgin olive oil
 - zest and juice of 1 lemon
 - 2 packs fresh, or 500g grams dry linguine
@@ -130,28 +96,24 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 **Serves 3**
 
-- 175g guanciale or pancetta or streaky bacon in order or preference
-- Optional: 250g sliced mushrooms
-- 3 garlic cloves, minced
+- 175g guanciale or pancetta or 300g of streaky bacon in order or preference
+- 3 garlic cloves, minced / 1 tsp garlic paste
 - 2 large eggs and 2 egg yolks
-- 100g parmigiano / pecorino, finely grated (50-50 split is best)
-- 1/4 tsp black pepper
+- 100g pecorino
+- 1/2 tsp black pepper
 - 400g spaghetti
-- 1 tbsp salt for pasta water (as salty as the med)
-
-Tip: Put water on, then chop bacon
 
 **Method**
 
-1. **Prep:** cut the gunciale/bacon into small pieces, and mince the garlic. Place the eggs and yolks in a large bowl and whisk to combine, then grate and stir in the cheese and pepper.
+1. Place the eggs and yolks in a large bowl and whisk to combine, then grate and stir in the cheese and pepper.
 
-2. Put 4 litres of water to the boil with the salt.
+2. Put 3 litres of water on to boil and chop the guanciale.
 
 3. Place guanciale in a cool non stick pan and bring up to medium high heat. Cook for 4 to 5 minutes until golden. If using bacon, add a touch of oil. Turn off the heat and add the garlic, stirring to combine.
 
-4. While the guanciale is frying, put on the pasta, and once done, scoop out 1 cup of pasta cooking water, then drain the pasta. Add some of the pasta water to the sauce mix to temper it (makes it less likely to curdle)
+4. While the guanciale is frying, put on the pasta, and once done, scoop out 1 cup of pasta cooking water, then drain the pasta, letting it sit for 30 secs so it's not too hot. Add some of the pasta water to the sauce mix to temper it (makes it less likely to curdle)
 
-5. Tip the hot pasta into the pan and mix to coat in the guanciale / garlic fat. Quickly transfer the pasta to the large bowl with the sauce mix, along with 1/2 a cup of the pasta water (do not transfer the mix to the pan as it will likely be too hot and scramble). Stir vigorously using the handle of a wooden spoon for 1 minute and watch as the sauce transforms from watery to creamy. Add more pasta water if required and check for seasoning.
+5. Tip the pasta into the pan and mix to coat in the guanciale / garlic fat. Quickly transfer the pasta to the large bowl with the sauce mix, along with 1/2 a cup of the pasta water (do not transfer the mix to the pan as it will likely be too hot and scramble). Stir vigorously using the handle of a wooden spoon for 1 minute and watch as the sauce transforms from watery to creamy. Add more pasta water if required and check for seasoning.
 
 6. Serve immediately, garnished with a little extra parmigiana reggiano, some pepper, and finely chopped parsley.
 
@@ -247,7 +209,7 @@ Tip: Put water on, then chop bacon
 
 ##### Ingredients
 
-- 750ml stock (1 cube vegetable and 1 cube fish)
+- 750ml stock (2 cube vegetable and 1 cube fish)
 - 2 tbsp sunflower oil
 - 1 small fennel bulb, trimmed and finely chopped
 - 2 garlic cloves, minced
@@ -422,7 +384,7 @@ Tip: Put water on, then chop bacon
 
 1. Put the first six ingredients (to fry) and a half teaspoon of salt into a large sauté pan, for which you have a lid, and place on a medium-high heat. Fry for 12 minutes, stirring every now and then, until the chickpeas are slightly crisp – you may need to turn the heat down a little if they start to colour too much. Remove one-third of the chickpeas and set aside to use as a garnish.
 
-2. In a small bowl, combine the parsley, lemon zest, capers and olives. Add two-thirds of this parsley mixture to the sauté pan, along with the cherry tomatoes, sugar and caraway seeds, and cook for 2 minutes on a medium high heat, stirring often. 
+2. In a small bowl, combine the parsley, lemon zest, capers and olives. Add two-thirds of this parsley mixture to the sauté pan, along with the cherry tomatoes, sugar and caraway seeds, and cook for 2 minutes on a medium high heat, stirring often.
 
 3. Add the pasta, stock, ¾ teaspoon of salt and 200ml of water, and bring to a simmer. Reduce the heat to medium, cover with the lid and cook for 12–14 minutes, or until the pasta is al dente.
 
@@ -510,7 +472,7 @@ Tip: Put water on, then chop bacon
 
 - 50g sunflower seeds
 
-- 2 spigs of mint (untested) roughly chopped
+- 2 sprigs of mint (untested) roughly chopped
 
 - 1 portion of vinaigrette (see recipe above)
 
@@ -533,3 +495,65 @@ Tip: Put water on, then chop bacon
 5. Cook the salmon if making it.
 
 6. Once the rice is done, combine everything apart from the spring onions in a large bowl, transfer to a serving plate, and top with the spring onions.
+
+## French Omelette
+
+![Screenshot 2023-09-02 at 20.58.38.jpg](Images/acc4c84b8d9fa621f1635086e94c08e3746dba31.jpg)
+
+#### Serves 1 - 10 mins
+
+- 4 eggs
+
+- Just under 1/4 tsp salt
+
+- Butter
+
+- Optional: fillings (go easy on the cheese), chopped chives
+
+#### Directions
+
+1. Crack the eggs, add the salt, and then beat them well until completely homogenised with no whites.
+
+2. Put a non-stick pan on medium-low heat with a good nob of butter. Once the butter is just about completely melted (it should not be bubbling) add the egg and start scraping the bottom quickly around and around with a silicone spatula.
+
+3. The idea is to make a runny scrambled egg first. The curds should not form too quickly; if they are forming too quickly, reduce the heat / take the pan off of the heat. See [this video](https://www.youtube.com/watch?v=p3EwVIpzFjI&t=212s) for technique. Once the egg is at a custardy consistency, reduce the heat to low, tip most of it towards the far edge of the pan, and spread out the rest in a thin layer over the rest of the pan. Add the fillings where most of the egg is at the edge of the pan, and then gently start to roll the thin layer towards that edge.
+
+4. Once rolled all the way to the edge, tip onto a plate, grind over pepper, add the chopped chives and serve.
+
+## Meatless Bolognaise
+
+![Screenshot 2023-09-03 at 19.04.28.jpg](Images/49b935cf8232823b06fcccd7a2841458396f2296.jpg)
+
+#### Serves 6-8 - 1.5 hrs
+
+- 3 carrots, peeled and chopped into large chunks (250g)
+- 2 onions, peeled and chopped into large chunks (300g)
+- 300g oyster mushrooms, roughly chopped
+- 40g dried porcini
+- 4 garlic cloves, crushed
+- 3–4 plum tomatoes, chopped into large chunks (350g)
+- 120ml olive oil
+- 70g white miso paste
+- 40g rose harissa (adjust according to the brand you are using)
+- 4 tbsp tomato paste
+- 90ml soy sauce
+- 2 tsp cumin powder
+- 180g dried brown or green lentils
+- 100g pearl barley
+- 1 litre vegetable stock (about 4 cubes)
+- 160g coconut cream
+- 100ml red wine
+- salt and black pepper
+- Fresh tagliatelle pasta
+
+#### Directions
+
+1. Preheat the oven to 190°C fan.
+
+2. Put the first six ingredients into a food processor and pulse until everything is very finely chopped (similar in size to bits of mince).
+
+3. Put the chopped vegetables into a large, 36cm x 28cm (it's very important that it's this size of larger as it allows proper browning) high-sided baking tray with the oil, miso, harissa, tomato paste, soy sauce and cumin seeds and mix very well. Bake for 40 minutes, stirring halfway through, until browned around the edges and bubbling.
+
+4. Reduce the heat to 180°C fan.
+
+5. Add all the remaining ingredients to the tray, along with 150ml of water, ⅓ teaspoon of salt and a very generous grind of black pepper. Stir very well, scraping the crispy sides and bottom with a spatula. Cover tightly with foil and bake for another 40 minutes. Remove the foil and bake for a final 5 minutes. Set aside to rest for 15 minutes for the sauce to be absorbed a little before serving. While resting, cook the fresh pasta.

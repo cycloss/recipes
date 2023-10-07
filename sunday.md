@@ -71,7 +71,7 @@ Uncover and stir well; the cabbage should have a little colour. If not, increase
 
 - a large knob of butter, melted
 
-- 300ml lamb or chicken (1 cube)
+- 300ml lamb or chicken stock (2 cubes)
 
 - Greens (peas / broccoli etc)
 
@@ -138,3 +138,7 @@ Uncover and stir well; the cabbage should have a little colour. If not, increase
 9. Rest for 15 minutes – don’t cover, skin becomes wet.
 10. Discard the garlic and onion, and add the juices and some water to a pan, adding gravy granules to make a gravy.
 11. Cut the wings and legs off, as well as the whole breast. Slice breasts horizontally (see this video [RecipieTin Eats Roast Chicken - YouTube](https://www.youtube.com/watch?v=GiyOpq_C7fw&t=81s) to see how to carve easily)
+
+## Bang Bang Chicken
+
+![Screenshot 2023-09-03 at 18.58.16.jpg](Images/1487c927f58c5d87808de9015f4a316cf9e09844.jpg)

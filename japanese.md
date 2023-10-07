@@ -90,33 +90,37 @@ Increase the heat and while stirring very regularly, bring the mixture up to the
 
 - 1 large onion diced finely
 
-- 1 tablespoon extra virgin olive oil
+- 1 tbs oil
 
-- 1/2 teaspoon of salt
-
-- 4 teaspoons of miso
-
-- 1 teaspoon of teriyaki sauce
+**Sauce**
 
 - 1 can of chopped tomatoes
 
-- 1 large tomato chopped
+- 1 tbsp of miso
+
+- 1 tsp hot paprika powder / mild chilli powder
+
+- 1 tbsp of teriyaki sauce
+
+- ~100ml water
+
+**Finishing**
 
 - 4 burgers
 
 - Japanese white rice to serve
 
-- Optional soft boiled eggs
+- Optional: 2 eggs
 
 #### Directions
 
-- Fry the oil, onion and garlic on low heat until transparent
+- Put the rice on
 
-- Add the miso, salt, and teriyaki, mixing it all together
+- Fry the oil, onion, and garlic on medium heat until transparent
 
-- Add the chopped tomatoes and chopped tomato and simmer
+- Add the sauce ingredients, mix well, and simmer with a lid on
 
-- Fry the burgers and serve when done
+- 5 minutes before the rice is done, fry the burgers and serve when done. 3 minutes before the rice is done make two wells in the sauce and crack an egg into each, and replace the lid.
 
 ## Japanese Chinese-style Fried Rice (チャーハン)
 
@@ -384,7 +388,7 @@ N.B: store the broth separate from the vegetables, otherwise they will absorb al
 
 - 1 onion - chopped into 1cm thin petals
 
-- 1tsp ginger
+- 1 tsp ginger
 
 - 4 eggs
 
@@ -493,3 +497,61 @@ Crush the cucumber with something flat, chop the cucumber, then in a bowl add it
 - 1 tsp sesame seeds
 
 Chop the aubergine, and fry with the sesame oil on medium heat in a non stick pan until slightly brown and soft. While frying, mix the sauce ingredients. Once fried, reduce to low heat and add the sauce along with the spring onion and sesame seeds.
+
+## Cream Stew
+
+![Screenshot 2023-10-07 at 21.09.09.jpg](Images/72b15ebe553988418e8247eb7435478401b1a74e.jpg)
+
+#### Serves 6 - 1 hour
+
+- 500g chicken thighs, chopped into bite sized pieces
+
+- 100g bacon, diced
+
+- 1 tbsp oil
+
+- Untested: 1 glug of white wine to deglaze?
+
+- 1 Onion ~200g, halved, cut 3 times lengthways, then into 1.5cm thick pieces
+
+- 2 Carrots ~300g, rangiri, bite size
+
+- 3 Potatoes ~500g, rangiri, bite size
+
+- 750ml chicken stock
+
+- 1.5 tsp soy sauce
+
+- 1/4 tsp white pepper
+
+- 2 bayleaves
+
+- 60g butter
+
+- 60g plain flour
+
+- 500ml milk
+
+- 1 head of broccoli, chopped into bite sized pieces
+
+- Black pepper
+
+- 1/2 tsp salt
+
+- Optional: 50ml double cream to finish
+
+- Rice to serve
+
+#### Directions
+
+1. Peel the carrots and potatoes, and peel the onion, then put the rice on.
+
+2. Chop the chicken and bacon. Put a large skillet on high heat with a tablespoon of oil. Add the chicken and bacon when hot,  and fry until they have some colour. While the chicken and bacon is frying, chop the vegetables and prepare the stock.
+
+3. Add the vegetables, mix well, and fry for a few minutes. Reduce the heat to medium, add the stock, soy sauce, white pepper and bayleaves, put the lid on, and set a timer for 10 minutes.
+
+4. Chop the broccolli into bite sized pieces and add it to the stew when the 10 minute timer is done. Add another five minutes to the timer and replace the lid.
+
+5. Melt the butter in a small saucepan on low heat, add the flour, and then slowly add the milk stirring vigorously to create a roux.
+
+6. When the stew timer is done, check the potatoes are cooked through, and then add the roux, mixing well. Check for seasoning, likely adding the 1/2 tsp of salt, and a good few grids of black pepper. Add the double cream if using, and serve with rice.

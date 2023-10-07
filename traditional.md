@@ -444,12 +444,13 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 - 3 generous thyme sprigs (or 1/2 tsp dried thyme)
 - 2 garlic cloves, finely minced
 - 30 g plain flour (2 heaped tbsp)
-- 750 ml chicken stock (2 cubes)
+- 750 ml chicken stock (4 cubes)
 - 125 ml white wine
 - 1/4 tsp flake salt
 - 1/4 tsp black pepper
 - 2 tbsp parsley, chopped
 - 185 ml double cream
+- Gravy browning
 - Rice / mash / pasta to serve
 
 #### Directions
@@ -462,7 +463,7 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 - Add wine and chicken stock. Stir, scraping the base of the pot to dissolve the brown residue stuck to the pan ("fond") into the sauce, then return chicken to sauce, skin side up.
 - Simmer covered for 10 minutes bubbling constantly but not rapidly (6), and if using rice, put it on now as soon as you can.
 - Remove lid and let it simmer for a further 20 minutes.
-- Add cream and stir. Once it comes up to a simmer, taste sauce, and add more salt / msg if desired..
+- Add cream and stir. Once it comes up to a simmer, taste sauce, and add more salt / msg if desired, and gravy browning to get it to a good color.
 - Plate up with with rice / mash / pasta and sprinkle with parsley
 
 ## Creamy salmon, leek & potato traybake
@@ -718,3 +719,33 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 4. While the toad is cooking, add 1 tbsp of vegetable oil to a small saucepan on medium head, then add the onions, put the lid back on and sweat them until softened. Add the onion marmalade and wine, boiling to reduce by half (about 5 mins). Add the water, and slowly add the gravy granules until the desired consistency is reached.
 
 5. Serve when the toad is done with mash and peas.
+
+## Aubergine Dumpling Parmigiana
+
+- 1¼ cups (90 g) dried breadcrumbs
+- 4 eggplants (~1 kg), cut into 1-inch cubes
+- ½ cup + 2 tbsp (150 ml) olive oil
+- salt and black pepper
+- 6 tbsp (100 g) ricotta
+- 2.5 oz (75 g) grated parmesan cheese, plus more to serve
+- 1 large egg
+- 1 large egg yolk
+- 4.5 tsp all purpose flour
+- 6 garlic cloves, grated
+- ¾ cup (15 g) basil leaves, roughly chopped
+- 28 oz cans whole peeled tomatoes, blitzed until smooth
+- 1½ tsp tomato paste
+- 1½ tsp sugar
+- ¼ tsp red pepper flakes
+- ¾ tsp paprika
+- 1 tsp dried oregano
+- 1⅔ cups (400 ml) water
+1. Heat oven to 450F.
+2. Line a large baking sheet with parchment paper. Add the chopped eggplant to the pan and toss with 5 tbsp olive oil, ½ tsp salt, and black pepper to taste. Spread out into as even a layer as possible and place in the oven. Bake for 30 minutes, tossing halfway through.
+3. Remove the eggplants from the oven and chop until they break down and form a chunky mash. Scoop into a large bowl and refrigerate for 10-15 minutes or until cooled to at least room temperature.
+4. Once cool, add the ricotta, parmesan, egg, egg yolk, flour, breadcrumbs, a third of the garlic, ½ cup of the basil, ¼ tsp salt, and black pepper to the bowl. Mix well. Season to taste with more salt, if needed.
+5. Grease your hands and then scoop the eggplant mixture into sixteen golf-ball sized dumplings.
+6. Heat 2 tbsp of olive oil in a large nonstick pan over medium-high heat. Add half of the dumplings to the pan and fry for 3-4 minutes or until golden and crispy all over. Transfer to a plate. Add another tbsp of oil to the pan and repeat with the remaining dumplings. Set aside.
+7. Heat oven to 400F.
+8. To make the sauce, put the remaining 2 tbsp of olive oil into a large pan over medium-high heat. Add the remaining garlic to the pan and saute until fragrant, about 1 minute. Add in the tomatoes, tomato paste, sugar, chile flakes, paprika, oregano, 1 tsp salt, and black pepper. Cook for 8 minutes, or until thickened. Pour in the water. Bring to a simmer, then lower to medium and simmer for 10 more minutes.
+9. Pour the sauce into a 9x13-inch baking dish in an even layer. Top with the dumplings, nestling them into the sauce as needed. Place in the oven and bake for 20 minutes, or until the sauce is bubbling. Remove from the oven and sprinkle with basil and more parmesan cheese just before serving.

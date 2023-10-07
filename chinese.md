@@ -222,7 +222,7 @@
 - 1 1/2 tbsp Shaoxing wine (Chinese cooking wine) / Mirin
 - 3 tbsp oyster sauce (the Tesco brand stuff is great)
 - 2 tsp sesame oil
-- 1 tsp honey
+- 2 tsp honey
 - 1/4 tsp white pepper (sub black)
 
 **Stir-fry**

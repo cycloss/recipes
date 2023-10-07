@@ -159,3 +159,41 @@
    1. Whisk together the Sauce ingredients. Keep warm or reheat just prior to using.
    2. Mash the blue cheese with sour cream until smooth (or to your taste), then add the remaining ingredients and mix well until combined, using milk to get it to the consistency you want.
 8. When the chicken is done, toss with the hot sauce and serve immediately with Blue Cheese Dip and celery sticks. They can be served plain, with a dipping sauce or tossed in sauce. Wings also reheat crispy!
+
+## Chicken Fajitas
+
+![Screenshot 2023-10-01 at 14.34.38.jpg](Images/d8a259d1af58ca06712e6ece0738ffbdbb1b8c8a.jpg)
+
+#### Serves 4 - 30 mins
+
+- 2 tbsp oil
+
+- 500g chicken breast, sliced into thin strips 
+
+- 1 red onion, quartered and sliced
+
+- 1 red and 1 yellow pepper, sliced
+
+- 1 pack of Old El Passo smokey bbq seasoning
+
+**To Serve**
+
+- 8 Tortillas (in pack)
+
+- Sour cream
+
+- Grated cheese
+
+- Guacamole (in pack)
+
+- Salsa (in pack)
+
+#### Directions
+
+1. Heat a large stainless steel pan on high with 2 tablespoons of oil and then sear the chicken for a few minutes until a bit browned. Remove to a plate.
+
+2. Reduce to medium high, add the onions, and when they are starting to soften add the pepper, cooking until they soften.
+
+3. Add the chicken back, tip in the BBQ seasoning, stir, and add a bit of water to make in a touch saucy.
+
+4. Serve with toppings.
