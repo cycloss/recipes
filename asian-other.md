@@ -12,7 +12,7 @@
 - 1 tbsp coriander
 - 2 tsp cumin
 - 1 tsp turmeric
-- 3/8 tsp cloves
+- 4 cloves, round bits on the end pinched off with fingers and crushed, long bits discarded
 - 6 cloves garlic ,chopped in half
 - 1 tbsp fresh ginger ,chopped a bit
 - 1 1/2 tbsp tamarind puree (Note 3)

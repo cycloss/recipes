@@ -14,17 +14,17 @@
 
 - 4 cloves garlic chopped
 
-- 1 fresh red chilli, de-seeded and chopped
+- 1/4 tsp chilli flakes / 1 fresh red chilli, de-seeded and chopped
 
-- 2 dessertspoon chopped fresh basil
+- 2 tbsp fresh basil, chopped
 
 - 2 heaped tablespoons of capers
 
-- 2 cans of chopped tinned tomatoes
+- 2 x 400g tins of chopped tinned tomatoes
 
 - 2 rounded tablespoons of tomato purée
 
-- 100g of anchovies,
+- 100g of anchovies, (a jar / tin)
 
 - 175g pitted black olives (optional) chopped
 
@@ -552,8 +552,37 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 2. Put the first six ingredients into a food processor and pulse until everything is very finely chopped (similar in size to bits of mince).
 
-3. Put the chopped vegetables into a large, 36cm x 28cm (it's very important that it's this size of larger as it allows proper browning) high-sided baking tray with the oil, miso, harissa, tomato paste, soy sauce and cumin seeds and mix very well. Bake for 40 minutes, stirring halfway through, until browned around the edges and bubbling.
+3. Put the chopped vegetables into a large, 36cm x 28cm (it's very important that it's this size of larger as it allows proper browning) high-sided baking tray with the oil, miso, harissa, tomato paste, soy sauce and cumin, and mix very well. Bake for 40 minutes, stirring halfway through, until browned around the edges and bubbling.
 
 4. Reduce the heat to 180°C fan.
 
-5. Add all the remaining ingredients to the tray, along with 150ml of water, ⅓ teaspoon of salt and a very generous grind of black pepper. Stir very well, scraping the crispy sides and bottom with a spatula. Cover tightly with foil and bake for another 40 minutes. Remove the foil and bake for a final 5 minutes. Set aside to rest for 15 minutes for the sauce to be absorbed a little before serving. While resting, cook the fresh pasta.
+5. Add all the remaining ingredients to the tray, along with 150ml of water, 1/3 teaspoon of salt and a very generous grind of black pepper. Stir very well, scraping the crispy sides and bottom with a spatula. Cover tightly with foil and bake for another 40 minutes. Remove the foil and bake for a final 5 minutes. Set aside to rest for 15 minutes for the sauce to be absorbed a little before serving. While resting, cook the fresh pasta.
+
+## Tomato, Bacon & Butter Fusilli
+
+![Screenshot 2023-10-12 at 20.47.25.jpg](Images/769b755b5a721b3968f140defbb74b3bad71636f.jpg)
+
+#### Serves 3 - 30 mins
+
+- 400g fusilli pasta
+- 150g (half a pack) of smoked streaky bacon, finely sliced
+- 1 can tinned tomatoes
+- 1/2 (3/4?) tsp sugar
+- 1/2 tsp salt
+- 1 tsp oregano
+- 1 tsp smoked paprika
+- 1/2 tsp chilli flakes?
+- 1/2 tsp black pepper, freshly cracked
+- 1 tsp garlic paste / 4 cloves minced
+- 45g butter
+- Cheese and chopped basil to serve
+
+#### Directions
+
+1. Finely chop the bacon and add it to a cold non stick pan on medium high heat with a tbsp of oil, making sure to break it up evenly. Fry until crispy.
+
+2. Put the water on to boil, and open the can of tomatoes, adding the sugar, salt, oregano, paprika, chilli flakes, and garlic paste to it, so it's ready to pour into the pan.
+
+3. If using minced garlic, just before the bacon is crispy, lower the heat and add it to the pan, cooking it until translucent. Add the tomato mix and butter, and simmer covered on low heat until the pasta is done.
+
+4. When the pasta is done, reserve 250ml of pasta water, drain the pasta, and then add it to the tomato sauce, stirring well. Judiciously add the pasta water, to add silkiness (usually only need 125ml). Mix well again and serve with the cheese and basil.

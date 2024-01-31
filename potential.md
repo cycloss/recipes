@@ -30,13 +30,9 @@ Jane Lovett - Bang Bang Chicken. p123 the get ahead cook
 
 [Pad See Ew (Thai Stir Fried Noodles) | RecipeTin Eats](https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/)
 
-[Swedish Meatballs (homemade Ikea Meatballs) | RecipeTin Eats](https://www.recipetineats.com/swedish-meatballs/#wprm-recipe-container-20596)
-
 Okonomiyaki
 
 [Homemade Miso Soup 味噌汁 • Just One Cookbook](https://www.justonecookbook.com/homemade-miso-soup/)
-
-[Mie Goreng (Mee Goreng - Indonesian noodles) | RecipeTin Eats](https://www.recipetineats.com/mie-goreng/) - Remember DO NOT sub light for dark soy
 
 [Saltimbocca | RecipeTin Eats](https://www.recipetineats.com/saltimbocca/)
 
@@ -44,8 +40,8 @@ Okonomiyaki
 
 [Chicken Fried Rice | RecipeTin Eats](https://www.recipetineats.com/chicken-fried-rice/#wprm-recipe-container-39795)
 
-Cream stew [Japanese cream stew | White stew　[Improved version]](https://www.chefslabo.com/post/japanese-cream-stew-white-stew-improved-version) - with chicken stock instead of just water
+[Chicken Parmigiana | RecipeTin Eats](https://www.recipetineats.com/chicken-parmigiana/#wprm-recipe-container-50229)
 
-[Chicken Parmigiana | RecipeTin Eats](https://www.recipetineats.com/chicken-parmigiana/#wprm-recipe-container-50229)Beef stew [Japanese Beef Stew [Improved Version]](https://www.chefslabo.com/post/japanese-beef-stew-improved-version)
+[Beef Stew | RecipeTin Eats](https://www.recipetineats.com/beef-stew/#wprm-recipe-container-28246)
 
 maki tamagoyaki

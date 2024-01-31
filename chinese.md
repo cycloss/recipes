@@ -325,17 +325,17 @@
 
 **Sauce**
 
-- 1/2 Cup (125m) - Chicken Stock
+- 250ml - Chicken Stock
 
-- 1 1/2 tbsp (12g) - Cornflour
+- 2 tbsp+ (12g) - Cornflour
 
-- 1 Lemon, Juiced (last time was 2 and was a bit sour)
+- 3 tbsp lemon juice
 
-- 1 tsp (2.5g) - Onion Powder
+- 1 tsp onion powder
 
 - 3 - Garlic Cloves, Minced
 
-- 3 tbsp - Soy Sauce
+- 4 tbsp - Soy Sauce
 
 - 2 tsp - Sesame Oil
 
@@ -345,7 +345,7 @@
 
 - 1/2 tsp white pepper
 
-- Optional: 1 tsp each of black and white sesame seeds
+- 1 tsp each of black and white sesame seeds
 
 **To Serve**
 

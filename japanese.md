@@ -1,46 +1,36 @@
 # Japanese & Chinese
 
-## Easy Japanese Curry
+## Japanese Curry
 
-![](Images/japaneseCurry.jpeg)
+![](Images/japanese-curry.png)
 
-#### Serves 3 - 35 mins
+#### Serves 8 - 35 mins
 
-- 1 tbsp olive oil
+- 2tbsp Vegetable oil
 
-- 5 spring onions
+- 500g chicken, chopped into bite sized pieces
 
-- Finely sliced small bunch of coriander
+- 500g potatoes, chopped into bite sized pieces
 
-- 3 cloves garlic
+- 500g brown onions, chopped into ~2cm pieces
 
-- Finely chopped 3cm fresh ginger
+- 1440ml (6 cups) of water
 
-- 1 large potato, peeled and cut into 1.5cm cubes
-
-- 1 large carrot, cut into 1cm cubes
-
-- 8 boneless and skinless chicken thighs, cut into 3cm chunks
-
-- 1 heaped tbsp curry powder
-
-- 1 tsp mild chilli powder
-
-- 1 tbsp soy sauce
-
-- 1 tbsp plain flour
-
-- 300ml chicken stock (one cube)
+- 200g Japanese curry roux blocks (S&B Torokeru etc)
 
 - rice, to serve
 
 #### Directions
 
-Put the oil in a large saucepan over a medium to high heat. When it is hot, add the spring onions and half of the coriander, garlic, ginger, potato and carrot. Stir-fry for 2 minutes.
+1. Chop the chicken, potatoes, and brown onions.
 
-Slide in all of the chopped chicken and fry for a further minute. Reduce the heat a little, sprinkle in both the curry powder and the chilli powder and continue to fry, stirring almost constantly for 1 minute. Drop in the flour and continue to stir-fry for a further 30 seconds before pouring in the stock and soy sauce.
+2. Heat a large saucepan on medium heat, and stir fry the chopped ingredients for 5 minutes.
 
-Increase the heat and while stirring very regularly, bring the mixture up to the boil. Lower to a simmer and cook for 15 minutes, until the potato and carrots are cooked through, while still holding their shape, and the chicken thigh pieces are fully cooked. Top the curry with the remaining coriander leaves and serve with rice.
+3. Add the water and bring to a boil, then reduce the heat, cover, and simmer for 20 minutes.
+
+4. Add the roux blocks, stirring until melted, and simmer for 5 minutes stirring constantly.
+
+5. Serve with rice.
 
 ## Japanese Garlic Butter Rice
 
@@ -524,6 +514,8 @@ Chop the aubergine, and fry with the sesame oil on medium heat in a non stick pa
 
 - 1/4 tsp white pepper
 
+- 1/4 tsp nutmeg?
+
 - 2 bayleaves
 
 - 60g butter
@@ -538,9 +530,7 @@ Chop the aubergine, and fry with the sesame oil on medium heat in a non stick pa
 
 - 1/2 tsp salt
 
-- Optional: 50ml double cream to finish
-
-- Rice to serve
+- To serve: rice or buttered sourdough toast
 
 #### Directions
 
@@ -550,8 +540,68 @@ Chop the aubergine, and fry with the sesame oil on medium heat in a non stick pa
 
 3. Add the vegetables, mix well, and fry for a few minutes. Reduce the heat to medium, add the stock, soy sauce, white pepper and bayleaves, put the lid on, and set a timer for 10 minutes.
 
-4. Chop the broccolli into bite sized pieces and add it to the stew when the 10 minute timer is done. Add another five minutes to the timer and replace the lid.
+4. Chop the broccoli into bite sized pieces and add it to the stew when the 10 minute timer is done. Add another five minutes to the timer and replace the lid.
 
 5. Melt the butter in a small saucepan on low heat, add the flour, and then slowly add the milk stirring vigorously to create a roux.
 
 6. When the stew timer is done, check the potatoes are cooked through, and then add the roux, mixing well. Check for seasoning, likely adding the 1/2 tsp of salt, and a good few grids of black pepper. Add the double cream if using, and serve with rice.
+
+## Omurice
+
+![Screenshot 2024-01-31 at 16.00.53.jpg](Images/309eb8db2ca7864cd4285675505e7471261824bf.jpg)
+
+#### Serves 2 - 30 mins
+
+- 1 cup of Japanese rice
+
+- 3 good knobs of butter
+
+- 1 small brown onion, diced
+
+- 200g cooked chicken breast, chopped into small pieces
+
+- Optional: 1/2 tsp tube garlic
+
+**Sauce**
+
+- 100ml water
+
+- 1 tsp sugar
+
+- 1 chicken stock cube
+
+- 2 tbsp ketchup
+
+- 1 tsp Worcestershire sauce (?)
+
+- 1 tsp soy sauce (?)
+
+**Finishing**
+
+- Black pepper
+
+- 1 cup of frozen peas
+
+- 2 x 1/5 tsp salt
+
+- 6 eggs
+
+- Broccoli / salad to serve
+
+#### Directions
+
+1. Put on the rice to cook
+
+2. Heat a knob of butter on medium heat in a non stick frying pan, then add the onion and fry until translucent. While the onion is frying, add all the sauce ingredients together in a small bowl.
+
+3. Add the chopped chicken and garlic, fry for a minute, then add the sauce ingredients. Boil off most of the water to leave a thick mixture, then add the peas and a good amount of black pepper.
+
+4. While the rice is finishing, whisk together 3 eggs and 1/5 tsp salt for the first omelette.
+
+5. When the rice is done, add it to the frying pan and fold through until coated with the mixture. Pour it out on a plate and set it aside.
+
+6. Put the broccoli on
+
+7. Rinse the frying pan, and follow the instructions to make an omelette from the `lasta-light.md` file (make scrambled egg first etc). When the scrambled egg mixture is custardy has mostly been moved to the far third of the pan, put half of the rice mixture on that far third in a roughly almond shape. Then when the omelette starts to set, fold the near side up on top of the rice with a spatula, then tilt the pan away from you and keep rolling and shuffling everything towards the far edge of the pan with a spatula, tucking in the corners to make the almond shape. When it's been rolled so that it's resting on the far edge of the pan and the pan is at a high angle of tilt, make sure with the spatula that it is ready to release, and then flip it onto a plate, hoping it will keep its shape!
+
+8. Repeat with the rest of the egg and rice, and serve with broccoli / salad

@@ -122,44 +122,6 @@ After 20 minutes, carefully remove the lid and scatter the green beans over the 
 
 Stir in the crème fraiche and bring the sauce to the boil one last time. Scatter with the chopped chives and serve.
 
-## Chicken, Sausage, and Fennel Tray Bake
-
-![IMG_6583.jpeg](Images/IMG_6583.jpeg)
-
-#### Serves 4 - 1 hr
-
-- ½ tbsp light oil
-
-- 4 chicken thighs, bone-in and skin-on
-
-- salt and pepper
-
-- 12 sausages
-
-- 1 red onion, cut into 8 wedges
-
-- 2 fennel bulbs, outer layer removed, cut into 8 wedges each
-
-- 4 cloves garlic, bashed and left whole
-
-- 2 courgettes, cut into 2cm chunks
-
-- 4 sprigs of thyme
-
-- 180g halloumi, cut into 2cm chunks
-
-- 16 cherry tomatoes, on the vine if possible
-
-#### Directions
-
-Preheat your oven to 190°C (fan 170°C/gas mark 5). Dollop the oil onto a roasting tray and slide it into the oven to heat for 10 minutes.
-
-Season chicken thighs all over with salt and pepper. Carefully slide the tray out and lay the chicken thighs in, skin-side down. Place the sausages, fennel, and courgettes around the thighs. **Make sure that the tray isn't crowded** and is only one layer. Slide the tray back into the oven and roast the meat for 15 minutes.
-
-Take the tray out of the oven and flip over the sausages, keeping the chicken thighs cooking skin-side down. Scatter over the red onion, and chuck in the garlic, thyme sprigs, and chunks of halloumi. Give the mixture a rough stir around, being careful not to turn the thighs. Slide the tray back into the oven and continue to roast for 25 minutes.
-
-Remove the tray from the oven again and give everything good stir. Flip over the chicken thighs. Plonk the a cherry tomatoes on top and slide the tray back into the oven for a final 10-minute blast.
-
 ## Crunchy Sausage Casserole
 
 ![IMG_6611.jpeg](Images/IMG_6611.jpeg)
@@ -395,7 +357,11 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 ## Pheasant Stew
 
-- 6 pheasant breasts
+![Screenshot 2023-12-08 at 21.42.28.jpg](Images/b3fa2b770efb30e75ec2fbf07507098e080d8f67.jpg)
+
+#### Serves 4 - 2 hrs
+
+- 6 pheasant breasts (could probably do chicken)
 - 2 tbsp oil
 - 100g smoked streaky bacon, cut into small pieces
 - 1 onion, roughly chopped (not diced)
@@ -720,32 +686,87 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 5. Serve when the toad is done with mash and peas.
 
-## Aubergine Dumpling Parmigiana
+## Swedish Meatballs
 
-- 1¼ cups (90 g) dried breadcrumbs
-- 4 eggplants (~1 kg), cut into 1-inch cubes
-- ½ cup + 2 tbsp (150 ml) olive oil
-- salt and black pepper
-- 6 tbsp (100 g) ricotta
-- 2.5 oz (75 g) grated parmesan cheese, plus more to serve
-- 1 large egg
-- 1 large egg yolk
-- 4.5 tsp all purpose flour
-- 6 garlic cloves, grated
-- ¾ cup (15 g) basil leaves, roughly chopped
-- 28 oz cans whole peeled tomatoes, blitzed until smooth
-- 1½ tsp tomato paste
-- 1½ tsp sugar
-- ¼ tsp red pepper flakes
-- ¾ tsp paprika
-- 1 tsp dried oregano
-- 1⅔ cups (400 ml) water
-1. Heat oven to 450F.
-2. Line a large baking sheet with parchment paper. Add the chopped eggplant to the pan and toss with 5 tbsp olive oil, ½ tsp salt, and black pepper to taste. Spread out into as even a layer as possible and place in the oven. Bake for 30 minutes, tossing halfway through.
-3. Remove the eggplants from the oven and chop until they break down and form a chunky mash. Scoop into a large bowl and refrigerate for 10-15 minutes or until cooled to at least room temperature.
-4. Once cool, add the ricotta, parmesan, egg, egg yolk, flour, breadcrumbs, a third of the garlic, ½ cup of the basil, ¼ tsp salt, and black pepper to the bowl. Mix well. Season to taste with more salt, if needed.
-5. Grease your hands and then scoop the eggplant mixture into sixteen golf-ball sized dumplings.
-6. Heat 2 tbsp of olive oil in a large nonstick pan over medium-high heat. Add half of the dumplings to the pan and fry for 3-4 minutes or until golden and crispy all over. Transfer to a plate. Add another tbsp of oil to the pan and repeat with the remaining dumplings. Set aside.
-7. Heat oven to 400F.
-8. To make the sauce, put the remaining 2 tbsp of olive oil into a large pan over medium-high heat. Add the remaining garlic to the pan and saute until fragrant, about 1 minute. Add in the tomatoes, tomato paste, sugar, chile flakes, paprika, oregano, 1 tsp salt, and black pepper. Cook for 8 minutes, or until thickened. Pour in the water. Bring to a simmer, then lower to medium and simmer for 10 more minutes.
-9. Pour the sauce into a 9x13-inch baking dish in an even layer. Top with the dumplings, nestling them into the sauce as needed. Place in the oven and bake for 20 minutes, or until the sauce is bubbling. Remove from the oven and sprinkle with basil and more parmesan cheese just before serving.
+![Screenshot 2023-12-08 at 21.24.19.jpg](Images/0b9a42615cf1f1bf01a20b78459151374e6ebf85.jpg)
+
+#### Serves 4 - 1 hr
+
+- 2 slices white sandwich bread, crusts removed, chopped into small 2cm cubes
+- 1 brown onion, grated (removes the need to fry the onion to soften it)
+- 300g beef mince
+- 300g pork mince
+- 1 egg
+- 1/4 tsp ground nutmeg
+- 1/4 tsp All Spice powder
+- 1/4 tsp black pepper
+- 3/4 tsp salt
+- 1 tbsp oil
+
+**Gravy**
+
+- 40g / 3 tbsp butter , unsalted
+- 3 tbsp flour
+- 2 cups beef stock
+- 1/2 cup double cream
+- 2 tsp soy sauce, 1 tsp dijon mustard? (from ikea recipe)
+
+**Serve with**
+
+- Lingonberry / cranberry jam
+
+- Mash and greens
+
+#### Directions
+
+1. Grate the onion using a standard box grater, scrape onion and juices into bowl. Chop and then add the bread and mix well – onion juice should make bread soggy (if not, add a tiny splash of milk). Set aside to soak for 1 minute. Add remaining Meatball ingredients EXCEPT the oil. Mix well, and then make 25 – 30 meatballs about the size of a finger pinched to thumb.
+
+2. Heat 1 tbsp oil in a skillet over medium high heat. Add half the meatballs and brown all over (but raw inside still) – about 3 minutes. Remove onto plate, then brown the remaining batch. If there is lots of oil, pour off excess and discard. Lower heat to medium.
+
+3. Add the butter into the skillet and melt, then add flour and stir in, cooking for 1 minute. Add about 1/4 of the beef broth – it will thicken quickly. Then gradually add remaining beef broth, stirring as you go. When the liquid is simmering, add back the meatballs and juices, and cook for 8 – 10 minutes or until the liquid thickens into a thin gravy, stirring occasionally. Add cream, simmer for a further 2 minutes then serve.
+
+## Saucy Meatballs
+
+![Screenshot 2023-12-08 at 22.07.06.jpg](Images/45de168d7cab0e3e4d7231f5c78cd4f74e9d4aeb.jpg)
+
+## Chorizo & Chickpea Stew
+
+![Screenshot 2023-12-08 at 22.28.44.jpg](Images/d131c44dc94507fba5734cb63584fbda5468ecba.jpg)
+
+#### Serves 4 - 20 mins
+
+- 1 chorizo sausage, sliced into half moons
+
+- 2 red onions, sliced
+
+- 4 garlic cloves, chopped
+
+- 1 tsp thyme
+
+- 1/4 - 1/2 tsp chilli flakes
+
+- 2 tsp smoked paprika
+
+- 2 tsp cumin seeds
+
+- 2 cans tinned tomatoes
+
+- 2 cans chickpeas
+
+- 1 cup chicken stock
+
+- A pack of spinach
+
+- Pepper to season
+
+#### Directions
+
+1. **Sauté chorizo –** Heat olive oil in a large saucepan or small pot over medium high heat. Add chorizo and cook for 3 minutes or until golden.
+
+2. **Sauté aromatics –** Add garlic, thyme, chilli flakes, paprika, and cumin, then stir for 1 minute.
+
+3. **Add everything else –** Add tomato, chickpeas, chicken stock, and pepper. Stir, bring to a simmer then lower the heat down to medium low so it is simmering very gently.
+
+4. **Cook for 15 minutes** (no lid), stirring regularly to ensure the base does not catch, until the sauce has reduced and thickened, then add the spinach until wilted
+
+## French Sausage & Bean Casserole

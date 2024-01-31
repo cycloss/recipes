@@ -38,10 +38,11 @@ Untested: [Easy Fall-Apart Roasted Pork Shoulder Recipe &mdash; The Mom 100](htt
 - 2 garlic cloves, minced 
 - 1 cabbage, cut in half, then down the middle, and across in 1cm strips 
 - 150ml boiling water
+- 1 tbsp soy sauce
 
 Fry the bacon and cook on medium-high until browned. Add the onion, garlic, and butter, cooking for a further 2-3 mins until the onion softens.
 
-Stir in the cabbage and boiling water to deglaze the bacon fond. Cook for 2 mins over a medium heat until wilted, then cover, turn the heat to low and cook for another 5 mins.
+Stir in the cabbage, boiling water, and soy sauce to deglaze the bacon fond. Cook for 2 mins over a medium heat until wilted, then cover, turn the heat to low and cook for another 5 mins.
 
 Uncover and stir well; the cabbage should have a little colour. If not, increase the heat and cook for a few moments more. Season to taste.
 
@@ -142,3 +143,40 @@ Uncover and stir well; the cabbage should have a little colour. If not, increase
 ## Bang Bang Chicken
 
 ![Screenshot 2023-09-03 at 18.58.16.jpg](Images/1487c927f58c5d87808de9015f4a316cf9e09844.jpg)
+
+## Aubergine Dumpling Parmigiana
+
+![.](Images/f3a1427289cc0276d9bd813bde6dc4cf779004e9.jpg)
+
+#### Serves 4 - 2 hrs
+
+- 1¼ cups (90 g) dried breadcrumbs
+- 4 eggplants (~1 kg), cut into 1-inch cubes
+- ½ cup + 2 tbsp (150 ml) olive oil
+- salt and black pepper
+- 6 tbsp (100 g) ricotta
+- 2.5 oz (75 g) grated parmesan cheese, plus more to serve
+- 1 large egg
+- 1 large egg yolk
+- 4.5 tsp all purpose flour
+- 6 garlic cloves, grated
+- ¾ cup (15 g) basil leaves, roughly chopped
+- 28 oz cans whole peeled tomatoes, blitzed until smooth
+- 1½ tsp tomato paste
+- 1½ tsp sugar
+- ¼ tsp red pepper flakes
+- ¾ tsp paprika
+- 1 tsp dried oregano
+- 1⅔ cups (400 ml) water
+
+#### Directions
+
+1. Heat oven to 450F.
+2. Line a large baking sheet with parchment paper. Add the chopped eggplant to the pan and toss with 5 tbsp olive oil, ½ tsp salt, and black pepper to taste. Spread out into as even a layer as possible and place in the oven. Bake for 30 minutes, tossing halfway through.
+3. Remove the eggplants from the oven and chop until they break down and form a chunky mash. Scoop into a large bowl and refrigerate for 10-15 minutes or until cooled to at least room temperature.
+4. Once cool, add the ricotta, parmesan, egg, egg yolk, flour, breadcrumbs, a third of the garlic, ½ cup of the basil, ¼ tsp salt, and black pepper to the bowl. Mix well. Season to taste with more salt, if needed.
+5. Grease your hands and then scoop the eggplant mixture into sixteen golf-ball sized dumplings.
+6. Heat 2 tbsp of olive oil in a large nonstick pan over medium-high heat. Add half of the dumplings to the pan and fry for 3-4 minutes or until golden and crispy all over. Transfer to a plate. Add another tbsp of oil to the pan and repeat with the remaining dumplings. Set aside.
+7. Heat oven to 400F.
+8. To make the sauce, put the remaining 2 tbsp of olive oil into a large pan over medium-high heat. Add the remaining garlic to the pan and saute until fragrant, about 1 minute. Add in the tomatoes, tomato paste, sugar, chile flakes, paprika, oregano, 1 tsp salt, and black pepper. Cook for 8 minutes, or until thickened. Pour in the water. Bring to a simmer, then lower to medium and simmer for 10 more minutes.
+9. Pour the sauce into a 9x13-inch baking dish in an even layer. Top with the dumplings, nestling them into the sauce as needed. Place in the oven and bake for 20 minutes, or until the sauce is bubbling. Remove from the oven and sprinkle with basil and more parmesan cheese just before serving.
