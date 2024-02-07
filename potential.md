@@ -18,12 +18,6 @@ Jane Lovett - Bang Bang Chicken. p123 the get ahead cook
 
 [Rick Stein Poulette Mussels | BBC2 Rick Stein's Secret France](https://thehappyfoodie.co.uk/recipes/rick-steins-mussels-with-poulette-sauce/) but white wine instead of cidre
 
-[Omurice (Japanese Rice Omelette) - RecipeTin Japan](https://japan.recipetineats.com/omurice-japanese-rice-omelette/)
-
-[Express Your Love! Omu-rice! | Itadakimasu Anime!](https://itadakimasuanime.wordpress.com/2013/02/26/omu-rice/)
-
-[Quesadilla!!! | RecipeTin Eats](https://www.recipetineats.com/quesadilla/#wprm-recipe-container-30274)
-
 [Asian Steak | RecipeTin Eats](https://www.recipetineats.com/asian-steak/#wprm-recipe-container-20045)
 
 [Noodle Salad with Sesame Peanut Dressing (Work lunch idea!) | RecipeTin Eats](https://www.recipetineats.com/noodle-salad-creamy-sesame-peanut-dressing/#wprm-recipe-container-26418)

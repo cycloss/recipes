@@ -180,3 +180,27 @@ Uncover and stir well; the cabbage should have a little colour. If not, increase
 7. Heat oven to 400F.
 8. To make the sauce, put the remaining 2 tbsp of olive oil into a large pan over medium-high heat. Add the remaining garlic to the pan and saute until fragrant, about 1 minute. Add in the tomatoes, tomato paste, sugar, chile flakes, paprika, oregano, 1 tsp salt, and black pepper. Cook for 8 minutes, or until thickened. Pour in the water. Bring to a simmer, then lower to medium and simmer for 10 more minutes.
 9. Pour the sauce into a 9x13-inch baking dish in an even layer. Top with the dumplings, nestling them into the sauce as needed. Place in the oven and bake for 20 minutes, or until the sauce is bubbling. Remove from the oven and sprinkle with basil and more parmesan cheese just before serving.
+
+## Tartiflette
+
+![](Images/2022-01-17-10-37-38-image.png)
+
+#### Serves 5
+
+- 2 kilograms floury potatoes (such as King Edward or Maris Piper) peeled and cut into 1cm thick slices
+- 600 millilitres full fat milk
+- 600 millilitres double cream
+- 1 onion (peeled)
+- 2 onions (sliced thinly)
+- 1 pack of streaky bacon (diced)
+- 1 Reblochon (or camenbert) sliced
+- 2 cloves garlic (minced)
+- 1 tablespoon soft sea salt flakes
+- approx. 50 grams butter
+
+#### Directions
+
+1. Preheat the oven to 240°C/220°C Fan/gas mark 8/450ºF.
+2. Put the sliced potatoes into a large saucepan with the milk, cream, onion, minced garlic and salt. Bring to the boil and cook at a robust simmer or gentle boil (however you like to think of it) until verging on tender, but not dissolving into mush.
+3. Meanwhile, put the fry the diced bacon until it has some browning on it, then add the sliced onion and fry until soft
+4. Use some of the butter to grease a large roasting tin (37 x 30cm / 15 x 12 inches) and then, after removing the onion, pour the almost sludgy milk and potato mixture into it. Add the fried bacon and onion. Dot with remaining butter, lay Reblochon slices on top, and cook in the oven for 15 minutes or until the potato is bubbly and browned on top.

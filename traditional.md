@@ -156,30 +156,6 @@ Stir in the crème fraiche and bring the sauce to the boil one last time. Scatte
 
 Chop the shallots, garlic, fennel, celery and courgette. Line up your chipolatas on the grill pan and grill for about 5 minutes on each side until well browned and cooked through. When the sausages are in, stir-fry all chopped veg for 2 minutes or until just starting to soften. Add the tinned tomatoes and the tomato puree, and a good pinch of s&p, then keep stirring for another minute. Pour in the chicken to a stock and bring to the boil, then reduce simmer. Put on the pasta water. Cut the cooked chipolatas in half and put them into the pan and let the whole lot bubble away for 5 minutes or so. Put the pasta on. Serve when pasta done.
 
-## Tartiflette
-
-![](Images/2022-01-17-10-37-38-image.png)
-
-#### Serves 5
-
-- 2 kilograms floury potatoes (such as King Edward or Maris Piper) peeled and cut into 1cm thick slices
-- 600 millilitres full fat milk
-- 600 millilitres double cream
-- 1 onion (peeled)
-- 2 onions (sliced thinly)
-- 1 pack of streaky bacon (diced)
-- 1 Reblochon (or camenbert) sliced
-- 2 cloves garlic (minced)
-- 1 tablespoon soft sea salt flakes
-- approx. 50 grams butter
-
-#### Directions
-
-1. Preheat the oven to 240°C/220°C Fan/gas mark 8/450ºF.
-2. Put the sliced potatoes into a large saucepan with the milk, cream, onion, minced garlic and salt. Bring to the boil and cook at a robust simmer or gentle boil (however you like to think of it) until verging on tender, but not dissolving into mush.
-3. Meanwhile, put the fry the diced bacon until it has some browning on it, then add the sliced onion and fry until soft
-4. Use some of the butter to grease a large roasting tin (37 x 30cm / 15 x 12 inches) and then, after removing the onion, pour the almost sludgy milk and potato mixture into it. Add the fried bacon and onion. Dot with remaining butter, lay Reblochon slices on top, and cook in the oven for 15 minutes or until the potato is bubbly and browned on top.
-
 ## Chorizo Goulash
 
 ![](Images/2022-02-01-10-32-13-image.png)
@@ -729,6 +705,76 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 ![Screenshot 2023-12-08 at 22.07.06.jpg](Images/45de168d7cab0e3e4d7231f5c78cd4f74e9d4aeb.jpg)
 
+#### Serves 4 - 1.5 hrs
+
+**Sauce**
+
+- 2 tbsp extra-virgin olive oil
+
+- 1 small brown onion, diced finely
+
+- 2 garlic cloves, minced
+
+- 1 bay leaf
+
+- 1/4 tsp dried thyme
+
+- 1/4 tsp dried oregano
+
+- 3 tbsp tomato paste
+
+- 1/3 cup (85ml) white wine
+
+- 1 400g can of tomatoes
+
+- 500ml vegetable stock (2 cubes)
+
+- 3/4 tsp white sugar
+
+- 1/2 tsp salt
+
+- 1/4 tsp black pepper
+
+**Meatballs**
+
+- 1 tbsp olive oil
+
+- 500g pork mince
+
+- 60g panko breadcrumbs
+
+- 1 egg
+
+- 2 green onion stems, finely chopped
+
+- 1/4 tsp dried thyme
+
+- 1 tsp ground sage
+
+- 1 tsp onion powder
+
+- 1/2 tsp black pepper
+
+- 3/4 tsp salt
+
+**To Finish**
+
+- 100g grated mozzarella
+
+- 2 tsp chopped chives / parsley (optional)
+
+- 400g spaghetti or other pasta
+
+#### Directions
+
+1. Preheat the oven to 220 degrees fan.
+
+2. Heat the oil in a large stainless steel (oven proof) saucepan over medium heat, then add all of the ingredients up to and including the oregano, cooking for 3-4 mins until the onion is translucent. Add the tomato paste and stir for 1 minute, then stir in the wine, and increase to high heat until mostly evaporated (2 mins). Then everything else in the sauce list and simmer on medium-low for 20 mins.
+
+3. While the sauce is simmering, place all the meatball ingredients in a bowl, and mix well with hands. Then make ~2 tbsp balls 3.5cm in size out of it, and place them on a rack, and bake in the oven for 15 minutes until lightly brown (still raw on inside).
+
+4. When the sauce has simmered for 20 mins, blitz it with a stick blender, then turn the heat to low until the meatballs are done. When they are done, place them in the sauce, sprinkle with the mozzarella, and bake for 25 mins on 160 degrees fan. Once done, serve with the pasta, sprinkled with chives.
+
 ## Chorizo & Chickpea Stew
 
 ![Screenshot 2023-12-08 at 22.28.44.jpg](Images/d131c44dc94507fba5734cb63584fbda5468ecba.jpg)
@@ -770,3 +816,63 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 4. **Cook for 15 minutes** (no lid), stirring regularly to ensure the base does not catch, until the sauce has reduced and thickened, then add the spinach until wilted
 
 ## French Sausage & Bean Casserole
+
+![Screenshot 2024-02-07 at 15.53.46.jpg](Images/2028461763c9dc37e51d4bb97e8e985fd8be1130.jpg)
+
+#### Serves 4 - 1 hr
+
+- 2 tbsp extra-virgin olive oil
+
+- 200g bacon, chopped
+
+- 8-10 pork sausages
+
+- 2 brown onions, diced
+
+- 3 garlic cloves, minced
+
+- 2 carrots, peeled, quartered lengthways, sliced into 1cm thick pieces
+
+- 1 tbsp tomato paste
+
+- 1 tsp dried thyme
+
+- 1 tsp dried rosemary
+
+- 2 bay leaves
+
+- 1/4 cup (60ml) white wine
+
+- 3 x 400g cans of cannellini beans, drained
+
+- 500ml chicken stock (2 cubes)
+
+- 1/4 tsp salt
+
+- 1/2 tsp black pepper
+
+- 12 cherry tomatoes
+
+**Topping**
+
+- 30g panko breadcrumbs
+
+- 2 tsp dried parsley
+
+- 2 tbsp extra virgin olive oil
+
+- 1/4 tsp salt
+
+#### Directions
+
+1. Preheat the oven to 180 degrees fan
+
+2. Put the bacon in a large cold stainless steel pan, then turn the heat to medium-high and crisp. Put it aside, and then brown the sausages. Put aside with the bacon (though keep them apart), and then add the onion, garlic, and carrot, stirring for ~3 mins until the onion is softened.
+
+3. While frying, mix the topping ingredients in a small bowl.
+
+4. Add the tomato paste, thyme, rosemary, and bayleaves, stir for one minute, and then add the wine and simmer for 1 minute until reduced by half while stirring to deglaze the pan. Put the beans, stock, salt, pepper, and bacon in, stir, and then place the cherry tomatoes and sausages into the mixture. Sprinkle over the topping, avoiding the sausages and tomatoes so they can brown.
+
+5. Bring to a simmer, then place in the oven, uncovered, for 30 mins. If the topping is still not browned then use the grill to brown it.
+
+6. Serve with mash, rice, or pasta.

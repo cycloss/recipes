@@ -96,7 +96,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 **Serves 3**
 
-- 175g guanciale or pancetta or 300g of streaky bacon in order or preference
+- 300g of streaky bacon, or 175g of guanciale or pancetta if you have it
 - 3 garlic cloves, minced / 1 tsp garlic paste
 - 2 large eggs and 2 egg yolks
 - 100g pecorino

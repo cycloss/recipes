@@ -197,3 +197,71 @@
 3. Add the chicken back, tip in the BBQ seasoning, stir, and add a bit of water to make in a touch saucy.
 
 4. Serve with toppings.
+
+## Quesedillas
+
+![Screenshot 2024-02-06 at 19.31.03.jpg](Images/214ee5eccc4edf4ef98c7ba81003e259efec945b.jpg)
+
+#### Serves 4 - 45 mins
+
+**Filling**
+
+- 1 tbsp olive oil
+- 2 garlic cloves, minced
+- 1/2 onion, diced finely
+- 500g beef mince
+- 1 red bell peppers, diced
+- 1 small ~200g can of sweetcorn
+- 2 tbsp tomato paste
+- 1/4 cup (65 ml) water
+
+**Spice Mix**
+
+- 1 tsp each onion powder, dried oregano, salt
+- 2 tsp each cumin powder, paprika
+- 1/4 tsp each black pepper, cayenne pepper
+
+**Assembly**
+
+- 8 flour tortillas
+- ~200g Grated cheddar cheese
+- 1 handful of roughly chopped corriander
+- 1 lot of avocado sauce (see recipe below)
+
+#### Directions
+
+1. Heat oil in a non stick pan over high heat. Add onion and garlic, cook for 2 minutes.
+
+2. Add beef and cook, breaking it up as you go. Chop the pepper and put all the spice mix ingredients into a small bowl. Once the mince changes from pink to brown, add pepper, sweetcorn, tomato paste, water, and spice mix. Cook for 2 minutes. Transfer to bowl, and clean the pan.
+
+3. Make the avocado sauce.
+
+4. Assemble the quesedilla by sprinkling on a layer of cheese onto one half a torilla, then a layer of mince, then some corriander, then another layer of cheese, then fold over the other half of the tortilla.
+
+5. Put the cleaned non stick pan onto low heat, and then fry the quesedilla on each side until golden brown. While frying make another, and repeat until all are done. Serve cut in half on a serving plate with the avocado sauce.
+
+## Avocado Dipping Sauce
+
+![Screenshot 2024-02-06 at 20.02.02.jpg](Images/59c3623bc5585dea5dce599919b44e0f837c66f4.jpg)
+
+#### Serves 4 - 5 mins
+
+- 1 large ripe avocado
+
+- 1 small clove garlic, finely chopped
+
+- 1/4 tsp salt
+
+- 1/4 tsp pepper
+
+- 1.5 tbsp lemon juice
+
+- 1 tbsp olive oil
+
+- 1/3 cup (80ml) of yoghurt
+
+- 1 handful ~7g of roughly chopped corriander
+
+#### Directions
+
+1. Put all of the ingredients into a bowl and blend with a stick blender, adjusting the consistency with water.
