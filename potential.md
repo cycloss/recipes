@@ -1,7 +1,5 @@
 # Potential Recipes
 
-<https://scrummylane.com/spanish-omelette-tortilla-de-patatas/>
-
 [Meat Pie recipe! | RecipeTin Eats](https://www.recipetineats.com/meat-pie-recipe/)
 
 [Coq au Vin | RecipeTin Eats](https://www.recipetineats.com/coq-au-vin/#wprm-recipe-container-25070)
@@ -39,3 +37,5 @@ Okonomiyaki
 [Beef Stew | RecipeTin Eats](https://www.recipetineats.com/beef-stew/#wprm-recipe-container-28246)
 
 maki tamagoyaki
+
+[Chicken Pot Pie | RecipeTin Eats](https://www.recipetineats.com/chicken-pot-pie/#wprm-recipe-container-32100)

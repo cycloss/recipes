@@ -47,7 +47,7 @@
 
 5. Throw the noodles into the water and set a timer to cook them 1 minute under done (they will cook further when added to the vegetables).
 
-6. Add all the other vegetables with some water and steam/fry for 3-4 minutes or until noodles are done.
+6. Add all the other vegetables to the pan with some water and steam/fry for 3-4 minutes or until noodles are done.
 
 7. Make the sauce.
 

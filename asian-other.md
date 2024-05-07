@@ -8,7 +8,8 @@
 
 **CURRY PASTE:**
 
-- 2 tbs smoked paprika 1/2 tsp chilli powder
+- 2 tbs smoked paprika 
+- 1/2 tsp chilli powder
 - 1 tbsp coriander
 - 2 tsp cumin
 - 1 tsp turmeric
@@ -38,7 +39,7 @@
 
 **GARNISHES / SERVING:**
 
-- 1/4 cup fresh coriander/cilantro leaves
+- Chopped coriander
 - Basmati rice
 
 #### DIRECTIONS
