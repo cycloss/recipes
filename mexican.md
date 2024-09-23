@@ -14,6 +14,7 @@
 - 2 tsp garlic powder
 - 2 tsp onion powder (sub Aromat)
 - 2 tsp oregano
+- 1 tsp salt
 
 **Chilli**
 

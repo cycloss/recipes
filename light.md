@@ -45,27 +45,27 @@
 
 **Frying Ingredients**
 
-- 1 aubergine, cut into 1.5cm (~450g)
+- 1 large / 2 small aubergines, cut into 1.5cm (~450g)
 - 1/2 tsp salt for sweating the aubergine
-- 6 tbsp extra virgin olive oil
+- 2 tbsp vegetable oil
+- 4 tbsp extra virgin olive oil
 - 1 red and 1 yellow bell pepper, diced into 2cm pieces
 - 2 medium courgettes, diced into 1.5cm pieces (~200g each)
-- 4 garlic cloves (~3 tsp), finely chopped (not minced as will burn)
+- 4 garlic cloves, minced
 - 2 brown onions, chopped coarsely into 1.5cm pieces
 
 **Stewing Ingredients**
 
 - 1 can of chopped tomatoes
-- 20 black olives, pitted, halved (about 4 tbsp of pre sliced)
-- 2 tsp fresh thyme leaves, chopped (more if can't taste, be generous)
-- 1 tsp salt, cooking/kosher salt
-- black pepper
-- 1 tbsp balsamic vinegar
+- 2 tsp dried/fresh thyme leaves
+- 1 tsp salt
+- 1/3 tsp black pepper
+- Try leave out next time or use only 1/4 tbsp balsamic vinegar
 - 1 tbsp tomato paste
 - 1 tsp white sugar
 - 1 tsp sweet paprika?
 - 1/4 tsp oregano?
-- For serving consider the following: rustic bread / fried egg / fish
+- For serving consider the following: rustic bread / fried egg / fish / rice
 
 ##### Directions
 
@@ -73,13 +73,13 @@
 
 2. Chop all of the other frying ingredients
 
-3. Heat 2 tbsp oil in a large skillet over medium high heat (8). Add the aubergine and courgette, and cook for 4 minutes, stirring occasionally, trying to get a bit of colour on the vegetables. Transfer to a large pot (**important** as otherwise won't stew properly).
+3. Heat 2 tbsp vegetable oil in a large skillet over high heat. Add the courgette and cook until a bit coloured, then add the aubergine and cook for 4 minutes, stirring occasionally, trying to get a bit of colour on everything.
 
-4. Add another 1 tbsp of olive oil and cook the peppers with a pinch of salt for 3 minutes. Add to pot.
+4. Add another 1 tbsp of olive oil and cook the peppers with a pinch of salt for 3 minutes.
 
 5. Reduce to a medium heat, add another 1 tbsp olive oil, then add the onion with a pinch of the salt, cooking it for 2 minutes, then add the garlic and cook for a further minute.
 
-6. Add all the stewing ingredients into the large pot and mix. Once the mixture is hot, reduce heat to a low simmer, and cook for 20 – 25 minutes with the pot lid off, stirring every now and then, until all the vegetables are cooked through and the liquid has reduced. The mixture should be thick enough so you can pile it on a plate (ie. not watery), but still very moist and juicy.
+6. Add another tbsp of olive oil and all the stewing ingredients into the large pot and mix. Once the mixture is hot, reduce heat to a low simmer, and cook for 20 – 25 minutes with the pot lid off, stirring every now and then, until all the vegetables are cooked through and the liquid has reduced. The mixture should be thick enough so you can pile it on a plate (ie. not watery), but still very moist and juicy.
 
 7. Once stewed, taste and add more salt if needed. Stir through basil then serve immediately, drizzled with extra virgin olive oil and a sprinkle of extra basil on top, if desired
 
@@ -214,6 +214,7 @@
 
 - 2x400g tins crushed tomatoes
 - 2 tbsp tomato paste
+- 1 tbsp soy sauce
 - 1 cup / 250 ml chicken or vegetable stock
 - 2 tsp paprika
 - 2 tsp cumin
@@ -224,6 +225,7 @@
 
 **Finish**
 
+- Optional: spinach
 - 8 eggs
 - Coriander, roughly chopped
 - Crusty bread / pasta to serve
@@ -238,3 +240,49 @@
 3. Make indentations in the mixture and carefully crack the eggs in. Put the lid on the pan and leave to cook for for a few minutes (~3) until almost set (they will likely continue cooking).
 
 4. Scattered with the coriander, and serve with crusty bread or pasta.
+
+## Josh's Bird Food
+
+#### Serves 3 as a side - 15 mins
+
+- 1 cup of short grain brown rice (or brown rice in general)
+
+**Dice**
+
+- 1 beetroot
+
+- 1/2 cucumber
+
+- 1 red/yellow pepper
+
+- 2 sticks of celery
+
+- 1/2 pack of greek feta (sub 1/2 block halloumi)
+
+- 1/2 a jar of black olives (can do green)
+
+- 2 tomatoes
+
+- 1/2 red onion
+
+**Seasoning**
+
+- 4 tbsp extra virgin olive oil
+
+- 1/2 tsp paprika
+
+- 1 tsp of ginger powder
+
+- 1/2 tsp garlic granules
+
+- 1 tsp mixed herbs
+
+- 1/4 tsp of black pepper 
+
+**Directions**
+
+1. Put the rice on
+
+2. Finely dice all the **dice** ingredients into 1cm cubes
+
+3. Once cooked, add the rice and **seasoning** ingredients, mix well and serve

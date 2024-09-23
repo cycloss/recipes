@@ -4,9 +4,9 @@
 
 ![](Images/2022-03-04-10-11-57-image.png)
 
-#### SERVES 4 - Prep 20mins, Cook 15mins
+#### Serves 4 - 1 hr
 
-**CURRY PASTE:**
+**Curry Paste**
 
 - 2 tbs smoked paprika 
 - 1/2 tsp chilli powder
@@ -20,7 +20,7 @@
 - 1/2 red onion , chopped
 - 90 ml water (plus more, as needed)
 
-**CURRY:**
+**Curry**
 
 - 3 tbsp vegetable oil
 - 1/2 tsp black mustard seeds (Note 4)
@@ -37,36 +37,32 @@
 - 1 tomato , cut into 8 wedges then into 2.5cm chunks
 - 600g firm-fleshed white fish , cut into 3cm cubes
 
-**GARNISHES / SERVING:**
+**To Serve**
 
 - Chopped coriander
 - Basmati rice
 
-#### DIRECTIONS
+#### Directions
 
-**CURRY PASTE**
+1. **Make the paste** Place the dry curry paste ingredients in a micro blender and whizz until fine, then add the water and tamarind and whizz to a pulp.
 
-- Place the dry curry paste ingredients in a micro blender and whizz until fine, then add the water and tamarind and whizz to a pulp
+2. **Sizzle black mustard seeds:** Heat oil over medium heat in a large pot. Add black mustard seeds and let them sizzle for 30 seconds - careful, they might pop!
 
-**CURRY**
+3. **Saute onion:** Add red onion and cook for 3 minutes until edges start to tinge with gold.
 
-- **Sizzle black mustard seeds:** Heat oil over medium heat in a large pot. Add black mustard seeds and let them sizzle for 30 seconds - careful, they might pop!
+4. **Cook off curry paste:** Add curry paste and cook for 3 minutes - to evaporate water, make spices bloom and cook garlic & ginger.
 
-- **Saute onion:** Add red onion and cook for 3 minutes until edges start to tinge with gold.
+5. **Cook off tomato:** Turn heat up to medium high. Add tomato paste and tomato pulp, cook for 2 minutes.
 
-- **Cook off curry paste:** Add curry paste and cook for 3 minutes - to evaporate water, make spices bloom and cook garlic & ginger.
+6. **Coconut milk:** Add water, coconut milk, sugar, salt and chilli powder if using. Stir, then bring to simmer, low heat so it's bubbling gently.
 
-- **Cook off tomato:** Turn heat up to medium high. Add tomato paste and tomato pulp, cook for 2 minutes.
+7. **Simmer 2 minutes, add tomato & green chilli:** Simmer for 2 minutes, add tomato and green chilli.
 
-- **Coconut milk:** Add water, coconut milk, sugar, salt and chilli powder if using. Stir, then bring to simmer, low heat so it's bubbling gently.
+8. **Simmer 3 minutes:** Simmer for another 3 minutes, stirring every now and then - sauce should be thickened (not watery), it gets looser again when fish is added (because fish will drop some juices = even more flavour!).
 
-- **Simmer 2 minutes, add tomato & green chilli:** Simmer for 2 minutes, add tomato and green chilli.
+9. **Add fish:** Add fish, stir, cook for 3 to 4 minutes until fish easily flakes.
 
-- **Simmer 3 minutes:** Simmer for another 3 minutes, stirring every now and then - sauce should be thickened (not watery), it gets looser again when fish is added (because fish will drop some juices = even more flavour!).
-
-- **Add fish:** Add fish, stir, cook for 3 to 4 minutes until fish easily flakes.
-
-- **Garnish & serve:** Remove from stove and transfer to serving bowl. Garnish with coriander/cilantro and fresh green chillies if desired. Serve with [basmati rice](https://www.recipetineats.com/how-to-cook-basmati-rice/)!
+10. **Garnish & serve:** Remove from stove and transfer to serving bowl. Garnish with coriander/cilantro and fresh green chillies if desired. Serve with [basmati rice](https://www.recipetineats.com/how-to-cook-basmati-rice/)!
 
 ## Butter Chicken
 
@@ -164,15 +160,23 @@
 
 #### Directions
 
-- Prepare the curry paste ingredients
-- Put the rice on
-- Putting all the paste ingredients in a small food processor, add a bit of water, and blitz until smooth
-- Cook the paste on medium heat for 4 minutes in a large skillet, meanwhile, prepare the carrot and potato
-- Add the chicken stock, stir in, and simmer for 1 minute
-- Add the tamarind, fish sauce, and sugar, stirring everything in, then add the coconut cream, carrot and potato.
-- Simmer for 15 minutes until potato is soft, add 1-2 tsp cornflour if not thick enough.
-- Add the prawns and bamboo shoots, cook for 3 minutes (do **not** overcook), then adjust sauce with fish sauce and salt to taste.
-- Serve with rice, topping curry with torn Thai basil leaves, and crispy onion pieces
+1. Prepare the curry paste ingredients.
+
+2. Put the rice on.
+
+3. Putting all the paste ingredients in a small food processor, add a bit of water, and blitz until smooth.
+
+4. Cook the paste on medium heat for 4 minutes in a large skillet, meanwhile, prepare the carrot and potato.
+
+5. Add the chicken stock, stir in, and simmer for 1 minute.
+
+6. Add the tamarind, fish sauce, and sugar, stirring everything in, then add the coconut cream, carrot and potato.
+
+7. Simmer for 15 minutes until potato is soft, add 1-2 tsp cornflour if not thick enough.
+
+8. Add the prawns and bamboo shoots, cook for 3 minutes (do **not** overcook), then adjust sauce with fish sauce and salt to taste.
+
+9. Serve with rice, topping curry with torn Thai basil leaves, and crispy onion pieces.
 
 ## King Prawn Bhuna
 
@@ -340,3 +344,102 @@
 5. While the chicken cooks, use a stick blender to blend the sauce until a grainy consistency.
 
 6. When the chicken is cooked, reduce the heat to medium low, wait for the pan to reach that temperature, then add the blended sauce back. Simmer covered for 10 minutes. While simmering, chop the coriander. Once simmered, add the cream and stir through for a minute or so, then serve with rice and the coriander. 
+
+## Chicken Curry
+
+![Screenshot 2024-07-16 at 19.27.24.jpg](Images/b9437abaa6ab7ebd9fea6f4822bd8213c6741ade.jpg)
+
+#### Serves 5 - 45 mins
+
+- 2 tbsp vegetable oil
+- 3-4 chicken breasts, chopped into bite-size chunks
+- 1 large onion (or 2 small), finely chopped
+
+**Spices**
+
+- 1 tsp sugar
+- 2 tbsp mild curry powder go hotter if you prefer
+- 1 tbsp ground coriander
+- 1/2 tbsp ground cumin
+- 1 tsp paprika
+- 1/2 tsp ground cinnamon
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 2 cloves garlic minced / 1tsp garlic paste
+- 2 tsp minced ginger / paste
+
+**Stewing**
+
+- 1 tbsp soy sauce
+- 2 tbsp tomato paste
+- 1 tin chopped tomatoes
+- 250ml chicken stock
+- 1 can (400ml) coconut milk
+
+**To Finish**
+
+- 1 tbsp cornflower mixed with water to make a slurry
+- 60g baby spinach
+- Rice
+
+#### Directions
+
+1. Put the rice on
+
+2. Heat the oil in a large pan on medium high, add the chicken and onion, cook for 5 minutes.
+
+3. Add all the spices and cook for a minute or so.
+
+4. Add all the stewing ingredients and simmer for 10 minutes.
+
+5. Add the cornflour if it needs thickening, then stir in the spinach until it wilts and serve with the rice.
+
+## Thai Green Curry
+
+![Screenshot 2024-09-23 at 20.30.08.jpg](Images/c230b10948e7c52a295121b857510e1a98c78354.jpg)
+
+#### Serves 4 - 30 mins
+
+- ~200g Jar of Thai green curry paste
+
+- 1 tsp garlic paste / 2 cloves minced
+
+- 2 tsp ginger paste
+
+- 2 tsp lemon grass paste
+
+- 400ml coconut milk
+
+- 250ml chicken stock
+
+- 1 tbsp fish sauce
+
+- 1 tsp sugar
+
+- 6 makrut / kaffir lime leaves
+
+- ~600g chicken thigh, chopped into small pieces
+
+- 1 large aubergine, chopped into small strips (chop into layers vertically, chop them in half vertically, and then each layer across into strips)
+
+- 1 pack of mangetout, roughly chopped in half
+
+- 20 basil leaves
+
+- 1.5 tsp lime / lemon juice
+
+- Rice to serve
+
+#### Directions
+
+1. Put the rice on
+
+2. Heat the oil in a large pan over medium heat, add the curry paste, garlic, ginger, and lemon grass, cooking them for 2-3 mins until reduced a bit. While that's cooking, chop the chicken.
+
+3. Add the coconut milk, chicken stock, fish sauce, sugar, lime leaves, and chicken pieces, and simmer for 7 minutes with the lid on. While that's cooking, chop the aubergines.
+
+4. Add the aubergines and cook for 5 minutes with the lid on, and while that's cooking, pinch the tough stems off the mangetout.
+
+5. Add the mangetout, and cook for 2 minutes.
+
+6. Turn off the heat, stir in the basil leaves and lime / lemon juice. The sauce should be on the thin side. Serve with the rice.

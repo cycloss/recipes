@@ -110,7 +110,7 @@
 
 **Satay Seasoning**
 
-- 1 tsp coriander powder
+- 1 tsp ground coriander
 - 1 tsp cumin powder
 - 1/2 tsp turmeric powder
 - 1/2 tsp chilli powder
@@ -125,7 +125,7 @@
 - 1.3 tbsp light soy sauce
 - 1.3 tbsp rice (wine) vinegar
 - 1 scant tbsp Sriracha (or other hot sauce)
-- 1 tsp lemongrass paste, or dash of demon juice
+- 1 tsp lemongrass paste, or dash of lemon juice
 - 1 can cup coconut milk (full fat)
 
 **Stir Fry**

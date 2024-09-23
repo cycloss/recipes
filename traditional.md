@@ -793,7 +793,7 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 - 2 tsp smoked paprika
 
-- 2 tsp cumin seeds
+- 2 tsp ground cumin
 
 - 2 cans tinned tomatoes
 
@@ -876,3 +876,95 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 5. Bring to a simmer, then place in the oven, uncovered, for 30 mins. If the topping is still not browned then use the grill to brown it.
 
 6. Serve with mash, rice, or pasta.
+
+## Chicken Stew
+
+![Screenshot 2024-05-07 at 22.31.04.jpg](Images/392d63794007c68ccda4ccc55c383b55c063537d.jpg)
+
+#### Serves 6 - 1.5 hrs
+
+- 1 tbsp olive oil
+- 1 kg of chicken thigh, cut into large-ish chunks
+- Salt and pepper
+- 2 onions, quartered and sliced
+- 2 garlic cloves, minced
+- 3 large carrots, cut into half moons
+- 4 celery stalks , cut into 1cm chunks
+- 1/2 cup (125 ml) white wine (or water)
+- 3 tbsp (35g) flour
+- 3 cups (750 ml) chicken stock
+- 2 tbsp tomato paste
+- 2 tsp Worcestershire sauce
+- 3 sprigs thyme, or 1 tsp dried
+- 2 bay leaves
+- ~1 tsp(?) salt
+- 600g baby potatoes, halved, or quartered for large ones
+- Crusty bread to serve
+
+#### Directions
+
+1. Preheat oven to 180C.
+
+2. Heat oil in a large oven proof pot/skillet over medium heat, add onion and garlic, and cook for 2 minutes until onion is translucent. Add the carrots and celery, cook for 1 minute. 
+
+3. Add the wine, the stir for 1 minute until liquid is mostly gone, then sprinkle flour across surface and stir until incorporated. Add the stock, tomato paste, Worcestershire sauce, thyme, bay leaves, and salt. Stir to dissolve tomato paste.
+
+4. Add the chicken, then bring to simmer, then cover and bake for 45 minutes.
+
+5. Remove from oven, and add the potatoes, pushing them into the liquid, then return to oven without the lid for a further 40 minutes until the potatoes are soft and the sauce is thickened.
+
+6. Taste sauce and adjust salt and pepper to taste, and serve with warm crusty bread on the side to dunk in the sauce.
+
+## Portobello Steaks and Butter Bean Mash
+
+![Screenshot 2024-06-28 at 22.34.29.jpg](Images/2ff0645e33a87d0f2339ee5ef2d776c1c8660768.jpg)
+
+#### Serves 4 - 1.5 hrs
+
+- 1 onion (150g), peeled and cut into 6 wedges
+
+- 7 garlic cloves, peeled but whole
+
+- 8 large / 12 medium portobello mushrooms (about 650g), stems removed
+
+- Broccoli to serve
+
+**Sauce**
+
+- 250ml olive oil
+
+- 1 tbsp chipotle chilli flakes
+
+- 1 tbsp ground cumin seeds
+
+- 1 tbsp ground coriander seeds
+
+- 2 tbsp tomato paste
+
+- 1 tsp salt
+
+**Mash**
+
+- 4 tins (1kg drained weight) good-quality jarred butter beans - drained
+
+- 1½ tbsp lemon juice
+
+- 2 tbsp olive oil
+
+- 3/4 tsp+ salt
+
+- Water
+
+- Pepper
+
+#### Directions
+
+1. Preheat the oven to 150°C fan.
+
+2. Put all the sauce ingredients into a large ovenproof pan with a lid, and mix them together. The add the garlic and onion, and arrange the mushrooms on top so they are domed side up. Cover with the lid, then transfer to the oven for 1 hour. 
+
+3. While the mushrooms are cooking, add all of the mash ingredients to a medium saucepan, and use a stick blender to blend until smooth, adjusting the salt where required. Leave cold for now.
+
+4. Once the mushrooms have had an hour, take them out and turn them over, replacing the lid, and return to the oven for 20 minutes more. Start heating the butter bean mash on gentle heat.
+
+5. Once the mushrooms have finished, remove them with tongs and put them on chopping board. Pour the sauce (including garlic and onion) into a heat proof bowl and blitz it with a food processor until fairly smooth. Return the mixture to the saucepan, place the mushrooms on top, and then cook for about 5 minutes for all the flavours to come together. While this is cooking, put the broccoli on, and when done serve everything.

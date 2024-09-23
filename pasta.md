@@ -44,6 +44,7 @@ When there is 15 mins left for the sauce, put the spaghetti on. When ready, serv
 - 2 garlic cloves , minced
 - 1 onion , finely chopped (brown, yellow or white)
 - 500g beef mince (ground beef) OR half pork, half beef (Note 1)
+- 125ml (1/2 cup) of red wine
 - 2 beef stock cubes
 - 2 cans tinned tomatoes
 - 2 tbsp tomato paste
@@ -51,7 +52,10 @@ When there is 15 mins left for the sauce, put the spaghetti on. When ready, serv
 - 2 tsp Worcestershire sauce
 - 2 dried bay leaves
 - 2 sprigs fresh thyme (or 1/2 tsp dried thyme or oregano)
-- Salt and pepper
+- 1/2 tsp smoked paprika
+- 1/2 tsp chilli flakes
+- 3/4 tsp salt
+- Good grind of pepper
 
 #### TO SERVE
 
@@ -358,11 +362,11 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 #### Serves 6-8 - 1.5 hrs
 
 - 3 carrots, peeled and chopped into large chunks (250g)
-- 2 onions, peeled and chopped into large chunks (300g)
+- 2 onions, peeled and chopped into quarters (300g)
+- 4 garlic cloves, crushed
 - 300g oyster mushrooms, roughly chopped
 - 40g dried porcini
-- 4 garlic cloves, crushed
-- 3–4 plum tomatoes, chopped into large chunks (350g)
+- 1 tin of chopped tomatoes (350g)
 - 120ml olive oil
 - 70g white miso paste
 - 40g rose harissa (adjust according to the brand you are using)
@@ -381,9 +385,9 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 1. Preheat the oven to 190°C fan.
 
-2. Put the first six ingredients into a food processor and pulse until everything is very finely chopped (similar in size to bits of mince).
+2. Put the carrot, onion, and garlic into a food processor and pulse until everything is very finely chopped (similar in size to bits of mince) and tip out into a large, 36cm x 28cm (it's very important that it's this size of larger as it allows proper browning) high-sided baking tray. Then do the same for the oyster mushrooms and dried porcini.
 
-3. Put the chopped vegetables into a large, 36cm x 28cm (it's very important that it's this size of larger as it allows proper browning) high-sided baking tray with the oil, miso, harissa, tomato paste, soy sauce and cumin, and mix very well. Bake for 40 minutes, stirring halfway through, until browned around the edges and bubbling.
+3. Add to the tray the chopped tomatoes, oil, miso, harissa, tomato paste, soy sauce and cumin, and mix very well. Bake for 20 minutes, take out and stir, then bake for another 20 minutes until browned around the edges and bubbling.
 
 4. Reduce the heat to 180°C fan.
 
@@ -417,3 +421,49 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 3. If using minced garlic, just before the bacon is crispy, lower the heat and add it to the pan, cooking it until translucent. Add the tomato mix and butter, and simmer covered on low heat until the pasta is done.
 
 4. When the pasta is done, reserve 250ml of pasta water, drain the pasta, and then add it to the tomato sauce, stirring well. Judiciously add the pasta water, to add silkiness (usually only need 125ml). Mix well again and serve with the cheese and basil.
+
+## Garlicy Mac 'n' Cheese
+
+![](Images/2024-09-21-21-35-12-image.png)
+
+#### Serves 4 - 30 mins
+
+- 50g butter
+
+- 30g flour
+
+- 1 tsp minced garlic (tube garlic is fine)
+
+- 500ml milk
+
+- 750ml hot water
+
+- 1 tsp salt
+
+- 1/4 tsp pepper
+
+- 1 tsp garlic powder
+
+- 1 tsp english mustard / 1/2 tsp mustard powder
+
+- 300g macaroni pasta
+
+- 250g grated cheese - 1 Tesco pre-grated bag is good
+
+- Optional: 1 cup of peas / 1/2 head broccoli
+
+**Topping**
+
+- 30g panko breadcrumbs
+
+- 2 tsp dried parsley
+
+- 2 tbsp extra virgin olive oil
+
+- 1/4 tsp salt
+
+#### Directions
+
+1. Melt the butter in a casserole pot, add the flour (and garlic if raw) and cook it for 1 minute. Add the milk slowly, stirring to avoid lumps, then add the garlic (if tube), salt, pepper, garlic powder, mustard, and bring the mixture up to temperature, but not quite boiling, then add the pasta and set a timer for 8 mins.
+
+2. While the pasta cooks, make the topping, and put the broccoli on if adding. Once the pasta is done, add the cheese, stir until melted, then add the peas / broccoli. Check the pasta is pretty much cooked, then add the topping, and put it under the grill until ready.
