@@ -6,40 +6,41 @@
 
 #### Serves 4  - 30 mins
 
-- Optional: 18 fine asparagus spears
-
 - 25g butter
 
-- 2 small leeks, sliced into half moons approx 1cm thick
+- 2 leeks, sliced into half moons approx 1cm thick
 
 - 2 tbsp plain flour
 
-- 450ml fish stock
+- 500ml fish stock
 
 - 600ml full-fat milk
 
 - 50-100ml double cream (optional)
 
-- 2 small carrots, peeled and cut into small chunks
+- 2 carrots, peeled and cut into quarters
 
-- 1 large potato, peeled and cut into small chunks
+- 2 potatoes, peeled and cut into small chunks
 
 - 1 can of sweetcorn (drained)
 
-- 500g smoked haddock, skin removed and cut into chunks
+- Pack of asparagus (chopped into small sections) / green beans (chopped into 3)
 
-- Salt (~1/2 tsp) and freshly ground black pepper
+- 250-500g smoked haddock, skin removed and cut into chunks
 
-- FOR THE GARNISH 1 tbsp snipped chives
+- 3/4 tsp salt
+
+- 1/4 tsp black pepper
+
+- 1 tbsp snipped chives to garnish
+
+- Sour dough / crusty bread to serve
 
 #### Directions
 
-1. Cut off the tips of the asparagus spears, about chop the rest of the 5cm (2in) long, and finely spears. Chop all the other vegetables.
-2. Melt the butter in a saucepan, add the leeks and stir over a high heat for 2-3 minutes. Sprinkle in the flour and cook for 30 seconds, stirring. Blend in first the stock and then the milk, stirring until smooth, and bring to the boil.
-3. Add the carrots, potato, and sweetcorn, then season with salt and pepper. Bring back up to the boil, then cover with a lid, reduce the heat to low and simmer for 15 minutes, stirring occasionally, until the vegetables are tender.
-4. Optionally: Meanwhile, cook the asparagus (the tips and chopped pieces) in boiling salted water for 2 minutes, drain and refresh in cold water.
-5. Add the haddock to the hot soup and stir for 3-4 minutes until just cooked (don't over-stir as it will break up the chunks). Add the (optional) chopped asparagus and (optional) double cream, saving the tips for garnishing later, and stir.
-6. Spoon into warmed bowls, top with the chopped chives and 3 asparagus tips per bowl. Serve with crusty bread.
+1. Melt the butter in a saucepan, chop the leeks, add them and stir over a high heat for 2-3 minutes. Sprinkle in the flour and cook for 30 seconds, stirring. Add the stock, then the milk, stir, and bring to the boil.
+2. Add the carrots, potato, green beans (if using), and sweetcorn, then season with salt and pepper. Bring back up to the boil, then cover with a lid, reduce the heat to low and simmer for 10 mins, stirring occasionally, until the vegetables are tender. If using, add the asparagus, salt and pepper, and simmer for a further 3 mins.
+3. Add the haddock and stir for 4 minutes until just cooked. Add the double cream,  stir, and serve with chives on top and sour dough bread on the side.
 
 ## Leek and Potato
 
@@ -51,7 +52,7 @@
 - 2 garlic cloves, large, finely minced
 - 3 leeks, sliced into 2cm thick half moons
 - 1 kg potatoes (Sebago/Russet/Maris Piper), peeled a diced into 2.5cm cubes
-- 1 litre (4 cups) chicken stock (2 cubes)
+- 1 litre (4 cups) chicken stock (3 cubes)
 - 125 ml (1/2 cup) double cream
 - 0.5-1 tsp salt
 - 1/2 tsp black pepper
@@ -71,3 +72,33 @@
 5. Add the salt, pepper, maybe some aji no moto, optional parmesan, and then stir through cream.
 
 6. Serve, drizzled with cream and sprinkled with chives, extra pepper ,and croutons.
+
+## Cream of Vegetable Noodle Soup
+
+![Screenshot 2024-11-07 at 19.54.42.jpg](Images/b5c3fb4e3461a3c15f968879d585e128d1d65514.jpg)
+
+#### Serves 4 - 40 mins
+
+- 50g butter
+- 2 garlic cloves, minced, or 1 tsp paste
+- 1 onion, finely chopped
+- 2 carrots, diced
+- 2 celery sticks, diced
+- 1 red bell pepper, diced
+- 70g flour
+- 500 ml chicken stock
+- 4 tsp vegetable stock powder in 500ml water
+- 750 ml milk
+- 1 tsp thyme
+- 1/4 tsp salt
+- 1/3 tsp white pepper
+- 1 cup sweetcorn
+- 1 cup frozen peas
+- 200g linguine, broken into 4 pieces
+
+#### Directions
+
+1. Melt the butter in a large pot over medium high heat. Add the garlic and onion, cook for 2 minutes. Add the carrot and celery, cook for a further 2 minutes. Add the pepper and cook for another 1 minute. Add the flour and mix, cook for 1 minute.
+2. Add about half the chicken stock and mix. Once the flour is incorporated into the stock, add remaining stock, vegetable stock, milk, dried thyme, salt, pepper, corn and peas.
+3. Bring to simmer then lower heat slightly.
+4. Break the pasta into 4 pieces and add into pot. Cook for 10 minutes or until the pasta is just cooked. If the soup gets too thick, add some more water 1 cup at a time.

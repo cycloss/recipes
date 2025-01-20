@@ -368,3 +368,46 @@
 4. Heat 2 tbsp of olive oil in a pan on medium high heat, add the broccoli florets and a good pinch of salt, and saute for 3-4 mins. After this, add in the green beans with 80ml of water and a good few grinds of pepper, cook for 2 minutes with the lid on then put the veg aside in a plate.
 
 5. In the same pan, heat 2 tbsp of vegetable oil on high heat, add the chicken, season with salt, cook for 2-3 mins, mix, then cook for another 2-3 mins. Reduce to medium heat, add in the sauce and sesame seeds, then cook for 2-3 mins until it thickens. Check for seasoning and serve
+
+## Sizzling Beef Fried Rice
+
+![Screenshot 2024-10-10 at 22.42.19.jpg](Images/54b39dd955b791deffbca1e7f8f36ca6b20f99f7.jpg)
+
+#### Serves 4 - 30 mins
+
+**Marinade**
+
+- 300g/ 10 oz rump beef steak
+- 1/2 tsp dark soy sauce (Note 2)
+- 2 tsp oyster sauce (Note 3)
+- 2 tbsp water
+- 1 garlic clove / 1/2 tsp garlic paste
+- 1/4 tsp sugar
+- 1/3 tsp baking soda (bi-carbonate soda)
+
+**Rice**
+
+- 3 cups of rice cooked with slightly less water than usual
+- 2 1/2 tbsp plain oil, separated
+- Spring onions cut into 1.25cm lengths, white part separated from green part
+- 2 garlic cloves finely minced / 1 tsp garlic paste
+- 520g/ 1 lb (4 cups) cooked, day-old long grain white rice, (or other plain rice), refrigerated overnight (Note 5)
+- 200g/7 oz green beans , cut into 1.25 cm pieces (~ 2 heaped cups) (Note 6)
+  FRIED RICE SAUCE:
+- 2 tbsp fish sauce (Note 7)
+- 1 1/2 tbsp oyster sauce (Note 3)
+- 1/2 tsp sugar (any type)
+  SCRAMBLED EGG:
+- 2 eggs
+- 1/2 tsp sesame oil
+- Pinch of salt and pepper
+
+## Teriyaki Beef Bowls
+
+- 1 tbsp oil
+
+- 2 garlic cloves minced / 1 tsp garlic paste
+
+- 1 brown onion, finely chopped
+
+- 1 car

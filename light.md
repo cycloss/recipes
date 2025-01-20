@@ -4,36 +4,36 @@
 
 ![](Images/2022-07-12-09-44-30-image.png)
 
-##### Serves 3 - Time 30 mins
+##### Serves 4 - 30 mins
 
 ##### Ingredients
 
-- 750ml stock (2 cube vegetable and 1 cube fish)
+- 1250ml stock (3 cube vegetable and 2 cube fish)
+- 400ml dry white wine
 - 2 tbsp sunflower oil
-- 1 small fennel bulb, trimmed and finely chopped
+- 1 fennel bulb, trimmed and chopped into small pieces
 - 2 garlic cloves, minced
-- 225g risotto rice
-- 300ml dry white wine
-- 150g frozen petits pois
+- 500g risotto rice
+- ~150g asparagus, chopped into 5cm lengths
+- 300g frozen petits pois
 - Juice of half a lemon
-- 2 x 150g salmon fillets, skinned
-- 3 tbsp full-fat crème fraîche
-- 3 sprigs fresh tarragon, coarsely chopped
-- 30g Parmesan, grated, plus extra for sprinkling
+- 300g salmon fillet, skinned, chopped into large chunks (will fall apart a bit while cooking)
+- 4 generous tbsp full-fat crème fraîche
+- 60g Parmesan, grated, plus extra for sprinkling
+- Fresh tarragon, stems removed and coarsely chopped (about half of a tesco 20g bag)
 - salt and freshly ground black pepper
-- Optional: courgettes cut into slices and quartered, or asparagus tips
 
 ##### Directions
 
-1. Make stock and pour it into a saucepan and keep warm over a low heat.
+1. Make stock and pour it into a saucepan with the wine and keep warm over a low heat.
 
-2. Pour the oil into a large frying pan over a medium-high heat. Add the fennel and fry for about 4 minutes, or until softened, but not browned, stirring often. Add the garlic and rice and fry for a minute, stirring constantly, until the grains of rice are coated in the oil.
+2. Chop the fennel, and add it into a large frying pan with oil over a medium-high heat, frying for about 4 minutes, or until softened, but not browned, stirring often. Chop the garlic and measure the rice. Add the garlic and rice and fry for a minute, stirring constantly, until the grains of rice are coated in the oil.
 
-3. Pour the wine into the stock, stir and bring to a gentle simmer. Add a ladleful of the hot stock mixture to the rice and simmer, stirring continuously. Wait until the stock is almost fully absorbed before adding the next ladleful. Continue to add the stock, a ladleful at a time, and cook the risotto for 15–20 minutes, or until you are left with about 250ml stock in the saucepan and the rice is nearly cooked.
+3. Recruit someone to do this: Add a ladleful of the hot stock mixture to the rice and simmer, stirring continuously. Wait until the stock is almost fully absorbed before adding the next ladleful. This should take 15–20 minutes, or until you are left with about 250ml stock in the saucepan and the rice is nearly cooked.
 
-4. Add the petits pois and lemon juice. Ladle in some of the remaining stock and keep stirring for a couple of minutes. Add the salmon slices, crème fraîche, tarragon and Parmesan. Stir and continue to cook until the salmon is done to your liking.
+4. While step 3 is being done, skin and chop the salmon, chop the asparagus, and weigh out the petit pois.
 
-5. Season to taste with salt and pepper and serve immediately, sprinkled with extra parmesan and garnished with pea shoots.
+5. When step 3 is done, add the asparagus and cook for 2 mins, adding a generous amount of pepper while cooking. Then add the petits pois, lemon juice, and the remaining stock and keep stirring for 2 mins of minutes. Add the salmon slices, crème fraîche, tarragon and Parmesan. Stir, test for seasoning, and continue to cook until the salmon is done to your liking, then serve.
 
 ## Ratatouille
 
@@ -286,3 +286,84 @@
 2. Finely dice all the **dice** ingredients into 1cm cubes
 
 3. Once cooked, add the rice and **seasoning** ingredients, mix well and serve
+
+## Mushroom Risotto
+
+![](Images/2025-01-13-15-04-11-image.png)
+
+#### Serves 4 - 30 mins
+
+- 1 pack mushrooms, sliced and halved
+- 25g butter
+- 2 garlic cloves, minced
+- 1/4 tsp each salt and pepper
+
+**Risotto**
+
+- 2 garlic clove, minced
+- 1 onion, finely chopped
+- 120 ml dry white wine
+- 500g risotto rice
+- 1750ml marigold vegetable stock
+- 1 cup peas
+- 50g butter
+- 100g parmesan cheese
+- 1/4 tsp pepper
+
+**To Serve**
+
+- Chives
+- Parmesan cheese
+
+#### Directions
+
+1. Add the butter in a large pot over medium heat, then once melted, add the mushrooms and cook until almost golden brown (~4 min) (chop the garlic and onion while waiting), then add the garlic, S+P, and continue to cook until golden brown (~1.5 min). Then remove into a bowl.
+
+2. Turn heat down to medium. In the same pot, melt risotto butter, garlic, and onion, and cook 2 minutes until onion is translucent.
+
+3. Add the wine to deglaze, and allow to simmer rapidly for 2 minutes, scraping the base of the pot, until mostly evaporated.
+
+4. Add the rice and stir for 1 minute until semi translucent. Then add stock ladle by ladle until fully absorbed, stirring occasionally. This should take 15-20 mins. Add all the stock, or until the rice is soft enough.
+
+5. To finish, add the set aside mushrooms, peas, butter, parmesan, and pepper, and stir to incorporate. Serve with chives on top and extra parmesan.
+
+## Bacon Risotto
+
+![](Images/2025-01-16-09-52-00-image.png)
+
+#### Serves 4 - 30 mins
+
+- 1 pack bacon, sliced into small pieces
+- 25g butter
+- 2 garlic cloves, minced
+- 1/4 tsp pepper
+
+**Risotto**
+
+- 2 garlic clove, minced
+- 1 onion, finely chopped
+- 120 ml dry white wine
+- 500g risotto rice
+- 1750ml marigold vegetable stock
+- 1 cup peas
+- 1 cup sweetcorn
+- 50g butter
+- 100g parmesan cheese
+- 1/4 tsp pepper
+
+**To Serve**
+
+- Chives
+- Parmesan cheese
+
+#### Directions
+
+1. Add the butter in a large pot over medium heat, then once melted, add the bacon and cook until crispy (developing a good fond on the bottom of the pan). (chop the garlic and onion while waiting), then add the garlic and pepper, and continue to cook for a minute until the garlic is cooked. Then remove into a bowl.
+
+2. Turn heat down to medium. In the same pot, melt risotto butter, garlic, and onion, and cook 2 minutes until onion is translucent.
+
+3. Add the wine to deglaze, and allow to simmer rapidly for 2 minutes, scraping the base of the pot, until mostly evaporated.
+
+4. Add the rice and stir for 1 minute until semi translucent. Then add stock ladle by ladle until fully absorbed, stirring occasionally. This should take 15-20 mins. Add all the stock, or until the rice is soft enough.
+
+5. To finish, add the set aside bacon, peas, sweetcorn, butter, parmesan, and pepper, and stir to incorporate. Serve with chives on top and extra parmesan.

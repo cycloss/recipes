@@ -129,35 +129,34 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 ##### Ingredients
 
-- 30g / 2 tbsp butter
-- 2 chicken breasts, cut in half lengthways to make them half as thin
-- 120g bacon
-- 1/2 tsp each salt and pepper
+- 15g / 1 tbsp butter
+- 2 chicken breasts, chopped into small pieces
+- 120g smoked streaky bacon, chopped into small pieces
 - 300g dry or 600g fresh fettuccine/linguine
-- 2 garlic cloves , minced
+- 2 garlic cloves, minced
 - 125ml white wine
 
 ##### Sauce
 
 - 200ml chicken stock (1 stock cube)
 - 315ml double cream
-- 75g parmesan , grated, and some to serve
+- 75g parmesan, grated
+- 1/2 tsp salt
+- 1/3 tsp pepper
 - 70g baby spinach
 - 100g sun dried tomato cut into small strips
 
 ##### Directions
 
-- Cut the chicken, and sprinkle with S&P, melt half the butter in a large pan on high heat, and cook chicken each side 2 mins until golden. While chicken is cooking, chop the garlic and tomatoes, and make the stock. Put chicken aside on a plate when cooked, then cook the bacon until slightly crispy, then put with chicken. Take off the heat.
+1. Chop the chicken, melt half the butter in a large stainless steel pan (needed to develop a fond) on high heat, and cook chicken until cooked through. While chicken is cooking, chop the bacon, then when the chicken is done, put it aside on a plate, cook the bacon until crispy, and put that with the chicken. 
 
-- Put the pasta water on to boil
+2. While the bacon is cooking, put the pasta water on to boil, chop the garlic and tomatoes, make the stock, and grate the parmesan.
 
-- In the chicken bacon juices of the pan on medium heat, add the remaining butter, and fry the garlic for 30 seconds, then add the wine until mostly evaporated, stirring to scrape the brown bits off the bottom of the pan. Then add all of the sauce ingredients and simmer for 3-5 mins until it thickens.
+3. Put the pasta on.
 
-- While the sauce is simmering, shred the chicken with 2 forks, and chop bacon into bits.
+4. When the bacon is done, in the chicken bacon juices of the pan on medium heat, add the garlic and fry for 30 seconds, then add the wine until mostly evaporated, stirring to scrape the brown bits off the bottom of the pan. Then add all of the sauce ingredients apart from the baby spinach and tomato, mix until incorporated, then add the chicken, bacon, baby spinach and tomato.
 
-- Drain the pasta, keeping a mug full, just in case it needs more lubrication.
-
-- Add the pasta, chicken, and bacon to the sauce, and toss well. Add some of the pasta water if more lubrication is needed. Serve with parmesan.
+5. Drain the pasta, keeping a mug full, just in case it needs more lubrication. Add it to the sauce and mix in.
 
 ## Lively Prawn & Crab Pasta
 

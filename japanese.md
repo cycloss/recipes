@@ -12,17 +12,19 @@
 
 - 500g potatoes, chopped into bite sized pieces
 
-- 500g brown onions, chopped into ~2cm pieces
+- 3 brown onions, chopped into ~2cm pieces
+
+- 250g carrots
 
 - 1440ml (6 cups) of water
 
 - 200g Japanese curry roux blocks (S&B Torokeru etc)
 
-- rice, to serve
+- Rice, to serve
 
 #### Directions
 
-1. Chop the chicken, potatoes, and brown onions.
+1. Chop the chicken, potatoes, carrots, and brown onions.
 
 2. Heat a large saucepan on medium heat, and stir fry the chopped ingredients for 5 minutes.
 
@@ -262,15 +264,15 @@
 
 **Broth**
 
-- 400ml water
+- 1000ml water
 
 - 2 tbsp sugar
 
-- 4 tbsp soy sauce
+- 5 tbsp soy sauce
+
+- 2 tbsp hontsuyu
 
 - 4 tbsp cooking sake (sub shaoxing wine)
-
-- 4 tbsp soy sauce
 
 - 4 tbsp mirin
 
@@ -279,10 +281,6 @@
 **Finish**
 
 - 150g of greens (beans, snow peas, midget trees etc)
-
-- 4 tbsp of hontsuyu
-
-- 400ml water
 
 - Rice
 
@@ -295,10 +293,6 @@
 3. Add the vegetables, mixing to cover them with oil from the pork, and fry for a few minutes with the lid on. While frying, mix and then add the broth ingredients.
 
 4. Put the rice on, and when it's 5 minutes from being done, add the greens to the pan.
-
-5. Once the rice is done, pour off the broth from the stew, and add another 400ml(?) of water to it, along with the hontsuyu
-
-N.B: store the broth separate from the vegetables, otherwise they will absorb all the liquid
 
 ## Japanese Salmon
 

@@ -379,7 +379,7 @@
 **To Finish**
 
 - 1 tbsp cornflower mixed with water to make a slurry
-- 60g baby spinach
+- 1 pack baby spinach
 - Rice
 
 #### Directions
@@ -418,7 +418,7 @@
 
 - 6 makrut / kaffir lime leaves
 
-- ~600g chicken thigh, chopped into small pieces
+- ~600g chicken thigh, chopped into small pieces (or another large aubergine for a vegetarian version)
 
 - 1 large aubergine, chopped into small strips (chop into layers vertically, chop them in half vertically, and then each layer across into strips)
 
@@ -434,7 +434,7 @@
 
 1. Put the rice on
 
-2. Heat the oil in a large pan over medium heat, add the curry paste, garlic, ginger, and lemon grass, cooking them for 2-3 mins until reduced a bit. While that's cooking, chop the chicken.
+2. Heat the oil in a large pan over medium heat, add the curry paste, garlic, ginger, and lemon grass, frying them for 2-3 mins until reduced a bit. While that's cooking, chop the chicken.
 
 3. Add the coconut milk, chicken stock, fish sauce, sugar, lime leaves, and chicken pieces, and simmer for 7 minutes with the lid on. While that's cooking, chop the aubergines.
 
