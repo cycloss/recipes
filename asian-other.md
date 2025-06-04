@@ -248,7 +248,7 @@
 - 4 tsp fish sauce
 - 2 tsp white sugar
 - ~100ml water (add more if too dry or if you want it more saucy)
-- 1-2 tbsp cornflower
+- 1 tbsp cornflower
 
 **To Serve**
 
@@ -443,3 +443,37 @@
 5. Add the mangetout, and cook for 2 minutes.
 
 6. Turn off the heat, stir in the basil leaves and lime / lemon juice. The sauce should be on the thin side. Serve with the rice.
+
+## Lentil Dal
+
+![Screenshot 2025-06-04 at 21.47.41.jpg](Images/2df012955b447bc253c72c877205356f09677b3a.jpg)
+
+#### Serves 5 - 1 hour
+
+- 50g butter
+- 4 garlic cloves, finely minced
+- 1.5 tbsp ginger, finely minced
+- 1 onion, finely chopped
+- 2 tbsp mild curry powder
+- 1/2 tsp tumeric powder
+- 1/4 tsp cayenne pepper
+- 1/2(?) tsp salt
+- 1/2 tsp black pepper
+- 1 cup dried lentils, brown, red, or green (NOT french green)
+- 1 can coconut milk, full fat
+- 1 can chopped tomatoes
+- 750ml vegetable stock
+
+**Serving**
+
+- coriander, finely chopped
+- Yogurt, optional
+- Basmati rice
+
+#### Directions
+
+1. Melt butter in a pot over medium heat. Add onion, garlic and ginger. Slowly cook, stirring every now and then for 10 minutes until tinged with gold and the onion is sweet.
+
+2. Turn heat up to high, add curry powder and turmeric, stir for 1.5 mins to bloom the spices.
+
+3. Lower to medium heat, add remaining ingredients and stir, bring to simmer, then place lid on, simmering for 30 mins. After 30 mins, lentils should be soft, sauce should be thickened and creamy. Too thick, add water. Too thin, simmer with lid off for 10 mins. Serve with coriander, rice, and yoghurt.

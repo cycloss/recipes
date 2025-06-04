@@ -142,7 +142,11 @@ Stir in the crème fraiche and bring the sauce to the boil one last time. Scatte
 
 - 1 courgette, roughly diced
 
-- 1 tin of chopped tomatoes
+- 2 tins of chopped tomatoes
+
+- 1/4 tsp chilli flakes
+
+- 1/4 tsp pepper
 
 - 1.5 tbsp tomato puree
 
@@ -150,11 +154,9 @@ Stir in the crème fraiche and bring the sauce to the boil one last time. Scatte
 
 - Fresh pasta
 
-- S&P
-
 #### Directions
 
-Chop the shallots, garlic, fennel, celery and courgette. Line up your chipolatas on the grill pan and grill for about 5 minutes on each side until well browned and cooked through. When the sausages are in, stir-fry all chopped veg for 2 minutes or until just starting to soften. Add the tinned tomatoes and the tomato puree, and a good pinch of s&p, then keep stirring for another minute. Pour in the chicken to a stock and bring to the boil, then reduce simmer. Put on the pasta water. Cut the cooked chipolatas in half and put them into the pan and let the whole lot bubble away for 5 minutes or so. Put the pasta on. Serve when pasta done.
+Chop the shallots, garlic, fennel, celery and courgette. Line up your chipolatas on the grill pan and grill for about 5 minutes on each side until well browned and cooked through. When the sausages are in, stir-fry all chopped veg for 2 minutes or until just starting to soften. Add the tinned tomatoes, chilli flakes, pepper, and tomato puree, then keep stirring for another minute. Pour in the chicken to a stock and bring to the boil, then reduce simmer. Put on the pasta water. Cut the cooked chipolatas in half and put them into the pan and let the whole lot bubble away for 5 minutes or so. Put the pasta on. Serve when pasta done.
 
 ## Chorizo Goulash
 

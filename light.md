@@ -179,11 +179,12 @@
 
 - 700g peeled potatoes, cut in half, and cut into 0.5cm thick slices
 - 1 onion, quartered and sliced
-- 1/2 cup / 125 ml olive oil
-- 1/4 tsp salt
+- 100ml olive oil
+- 1/2 tsp salt
 - 1 cup of peas
 - 8 eggs
 - 1/2 tsp salt
+- 1/4 tsp pepper
 - Pepper
 - To serve: garlic mayo
 

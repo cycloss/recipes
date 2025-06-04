@@ -6,52 +6,45 @@
 
 #### Serves 3 - Time 20mins
 
-**Fry:**
-
-- 200g chicken sliced into small pieces, or prawns cut into quarters, or beef strips.
-- 1/2 a green cabbage , finely shredded
-- 1.5 tbsp sunflower oil
+- 1.5 tbsp oil
+- 200g chicken breast sliced into small stips (butterfly first), or prawns cut into quarters, or beef strips.
 - 2 cloves garlic, finely chopped (prevents burning)
-- 200g chow mein noodles (sharwoods medium egg are perfect)
+- 250g chow mein noodles (sharwoods yellow medium egg nests)
+- 1 pack stir fry veg if cheating (Tesco sweet and crunchy are great)
+
+**Vegetables (if not cheating)**
+
+- 1/2 a green cabbage , finely shredded
 - 1 carrot , julienned (thin batons)
 - 1.5 cups bean sprouts
 - Bunch of spring onions sliced diagonally
 
 **Sauce:**
 
-- 65ml water
-
-- 2 tsp cornflour
-
-- 2 tbsp soy sauce , all purpose or light
-
-- 2 tbsp oyster sauce (sub Hoisin)
-
-- 1 1/2 tbsp Chinese cooking wine OR Mirin
-
-- 2 tsp sugar (reduce to 1 tsp if using Mirin)
-
+- 100ml water
+- 1 tbsp cornflour
+- 2 tbsp soy sauce, all purpose or light
+- 2 tbsp oyster sauce
+- 1.5 tbsp Chinese cooking wine
+- 2 tsp sugar
 - 1/2 tsp sesame oil
-
-- 1/2 - 1/4 tsp White pepper
+- 1/3 tsp White pepper
 
 #### Directions
 
-1. Chop the chicken and marinate in 1 tbs soy sauce for 10 minutes.
+1. Chop the chicken and vegetables if not cheating.
 
-2. Chop all the vegetables.
+2. Put noodle water on to boil.
 
-3. Put water on to boil.
+3. Heat a pan with the oil on medium high heat, add the chicken, cooking until it's browned a bit, then reduce the heat to medium and add the garlic for a minute.
 
-4. Heat a pan with the oil on medium. Fry garlic for 20 seconds, then add the chicken, cooking until it's almost cooked through.
+4. Throw the noodles into the water and set a timer to cook them 2 minutes under done (they will cook further when added to the vegetables). 4 mins works great for the noodles recommended.
 
-5. Throw the noodles into the water and set a timer to cook them 1 minute under done (they will cook further when added to the vegetables).
+5. Add all the other vegetables to the pan with some water and steam/fry for 3-4 minutes or until noodles are done.
 
-6. Add all the other vegetables to the pan with some water and steam/fry for 3-4 minutes or until noodles are done.
+6. Make the sauce.
 
-7. Make the sauce.
-
-8. Drain noodles, but keep some of the water. Add the noodles, sauce, and bean sprouts into the fried vegetables and mix. If needed, add noodle water until the noodle mixture is slippery. Done.
+7. Drain noodles and add them with the sauce into pan and mix until the mixture thickens slightly and becomes slippery due to the cornflower.
 
 ## Beef Stir Fry Noodles with Honey Pepper Sauce
 
@@ -411,3 +404,48 @@
 - 1 brown onion, finely chopped
 
 - 1 car
+
+## Beef in Black Bean Sauce
+
+![](Images/2025-06-04-21-36-58-image.png)
+
+#### Serves 3 - 1 hour
+
+**Tenderising beef**
+
+- ~400g beef sliced into strips (steak is best)
+- 1 tbsp light soy sauce
+- 1 tsp dark soy sauce
+- 1 tbsp oyster sauce
+- 2 tsp cornflour / cornstarch
+- 0.25 tsp baking soda (bi-carbonate)
+- 1 tbsp toasted sesame oil
+
+**Frying**
+
+- 75g Chinese salted/fermented black beans (slightly soft)
+- 1 brown onion, cut into 2.5cm squares
+- 1 green pepper, cut into 2.5cm squares
+- 4 garlic cloves, finely minced
+- 50 ml vegetable oil
+- 1 tbsp shaoxing rice wine
+- Rice to serve
+
+**Sauce**
+
+- 2 tbsp light soy sauce
+- 2 tsp white sugar
+- 20 g cornflour
+- 500 ml water
+
+#### Directions
+
+1. Put the black beans in a bowl with water to hydrate them
+
+2. Put all the marinading ingredients apart from the sesame oil in a bowl, mix together, mix in the beef, then mix in the sesame oil and marinade for 1 hour
+
+3. When the marinading is done, put the rice on, then chop the vegetables and garlic, and make the sauce
+
+4. Put the oil in a wok/stainless steel pan on high heat, and add the beef, searing it for 30-60 secs, then remove to a plate, keeping some oil in the pan
+
+5. Add the black beans and stir for 20 secs, add the garlic and stir for 10 secs, add the pepper and onion stirring for 1 min, add the beef back, pour in the rice wine around the edges of the pan, then pour in the sauce and stir until it thickens. Serve with the rice.

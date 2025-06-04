@@ -154,7 +154,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 3. Put the pasta on.
 
-4. When the bacon is done, in the chicken bacon juices of the pan on medium heat, add the garlic and fry for 30 seconds, then add the wine until mostly evaporated, stirring to scrape the brown bits off the bottom of the pan. Then add all of the sauce ingredients apart from the baby spinach and tomato, mix until incorporated, then add the chicken, bacon, baby spinach and tomato.
+4. When the bacon is done, in the chicken bacon juices of the pan on medium heat, add the garlic and fry for 30 seconds, then remove the bacon to the chicken plate, and add the wine until mostly evaporated, stirring to scrape the brown bits off the bottom of the pan. Then add all of the sauce ingredients apart from the baby spinach and tomato, mix until incorporated, then add the chicken, bacon, baby spinach and tomato.
 
 5. Drain the pasta, keeping a mug full, just in case it needs more lubrication. Add it to the sauce and mix in.
 
