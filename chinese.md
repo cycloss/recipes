@@ -449,3 +449,59 @@
 4. Put the oil in a wok/stainless steel pan on high heat, and add the beef, searing it for 30-60 secs, then remove to a plate, keeping some oil in the pan
 
 5. Add the black beans and stir for 20 secs, add the garlic and stir for 10 secs, add the pepper and onion stirring for 1 min, add the beef back, pour in the rice wine around the edges of the pan, then pour in the sauce and stir until it thickens. Serve with the rice.
+
+## Egg Foo Young
+
+![](Images/2025-11-06-11-00-47-image.png)
+
+#### Serves 2 - 30 mins
+
+**Omelette**
+
+- 6 eggs
+- 2 cups bean sprouts
+- 4 spring onions, sliced
+- 1/4 tsp salt
+- 1/8 tsp white pepper
+- 2 tbsp vegetable oil
+- 1 tsp sesame oil
+- 1 garlic clove , finely chopped
+- ~120g chopped raw prawns
+
+**Sauce**
+
+- 4 tsp cornflour
+- 1 1/2 tbsp light soy sauce, or all purpose
+- 2 tsp Oyster Sauce
+- 1 tbsp Shaoxing wine
+- 1/2 tsp sesame oil
+- 250 ml water
+- 1/8 tsp of white pepper
+
+**To Serve**
+
+- Rice
+
+- Broccoli
+
+#### Directions
+
+**Omlette**
+
+1. Put on the rice.
+
+2. Whisk eggs in a bowl, add beansprouts, green onions, pork or prawns, salt and pepper, and mix through.
+
+3. Heat 1/2 tbsp vegetable oil and drizzle of sesame oil in a non stick pan over medium heat. Add a bit of garlic and quickly sauté (10 seconds) and push into centre of pan.
+
+4. Ladle in 1/4 of batter. Use spatular to push edges in to form a round(ish) shape, and cook until the underside is light golden (about 1 1/2 minutes) then flip and cook the other side for 1 minute. Repeat with remaining egg to make 4 omelettes. Make the sauce (see below) and put on the broccoli while cooking.
+
+5. Slide omelette onto plate. Pour over sauce. Sprinkle with sesame seeds and green onions, if using. Serve with a side of rice and steamed vegetables of choice.
+
+**Sauce**
+
+1. Mix cornflour and soy sauce. Then add remaining ingredients.
+
+2. Pour into a saucepan over medium heat. Bring to simmer, stirring constantly. Simmer for 1 minute until sauce thickens to thin syrup consistency. Remove from stove, set aside.
+
+3. MICROWAVE option: Microwave on high for 1 1/2 minutes. Stir very well, microwave for another 1 1/2 minutes until thickened. Mix well again.

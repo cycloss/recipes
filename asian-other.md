@@ -455,11 +455,11 @@
 - 1.5 tbsp ginger, finely minced
 - 1 onion, finely chopped
 - 2 tbsp mild curry powder
-- 1/2 tsp tumeric powder
+- 1/2 tsp turmeric powder
 - 1/4 tsp cayenne pepper
-- 1/2(?) tsp salt
+- 1/2 tsp salt
 - 1/2 tsp black pepper
-- 1 cup dried lentils, brown, red, or green (NOT french green)
+- 1.5 cup dried split lentils, brown, red, or green (NOT french green)
 - 1 can coconut milk, full fat
 - 1 can chopped tomatoes
 - 750ml vegetable stock
@@ -472,8 +472,8 @@
 
 #### Directions
 
-1. Melt butter in a pot over medium heat. Add onion, garlic and ginger. Slowly cook, stirring every now and then for 10 minutes until tinged with gold and the onion is sweet.
+1. Melt butter in a pot over medium heat. Add onion, garlic and ginger. Slowly cook, stirring every now and then for 10 minutes until tinged with gold and the onion is sweet. Put the rice on while cooking.
 
-2. Turn heat up to high, add curry powder and turmeric, stir for 1.5 mins to bloom the spices.
+2. Turn heat up to high, add curry powder, turmeric, and cayenne peppe, stir for 1.5 mins to bloom the spices.
 
 3. Lower to medium heat, add remaining ingredients and stir, bring to simmer, then place lid on, simmering for 30 mins. After 30 mins, lentils should be soft, sauce should be thickened and creamy. Too thick, add water. Too thin, simmer with lid off for 10 mins. Serve with coriander, rice, and yoghurt.

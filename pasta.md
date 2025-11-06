@@ -111,7 +111,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 1. Place the eggs and yolks in a large bowl and whisk to combine, then grate and stir in the cheese and pepper.
 
-2. Put 3 litres of water on to boil and chop the guanciale.
+2. Put 2 litres of water on to boil with 1/2 tbsp of salt, and chop the guanciale.
 
 3. Place guanciale in a cool non stick pan and bring up to medium high heat. Cook for 4 to 5 minutes until golden. If using bacon, add a touch of oil. Turn off the heat and add the garlic, stirring to combine.
 
@@ -320,7 +320,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 - 300g pasta (macaroni is fine)
 - 1.5 tbsp olive oil
-- ~500g of mixed seafood: salmon, smoked haddock, prawns etc. Small prawns preferred as they disperse better
+- ~500g of mixed seafood: salmon, smoked haddock, prawns etc. Small prawns preferred as they disperse better. I usually use 400g bag of mixed fish, and 250g bag of small prawns 
 - 3 leeks, sliced into semi-circles
 - 3 garlic cloves, minced
 
@@ -331,7 +331,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 - 2.5 cups milk
 - 1 chicken stock cube (could try 1 cube of fish stock as well?)
 - 0.5 cups of double cream
-- Salt and Pepper
+- 1/3 tsp Salt and 1/3 tsp Pepper
 
 **Topping**
 

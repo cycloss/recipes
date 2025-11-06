@@ -32,7 +32,7 @@
 
 - Blitz the biscuits in a food processor to a small crumb, and add the melted butter – then pulse in the food processor a few times until the mixture is combined.
 
-- Tip the biscuit mixture into a 8″/20cm deep springform tin and press down firmly (I use a spatula and then a flat potato masher with small holes).
+- Tip the biscuit mixture into a 8″/20cm deep springform tin and press down firmly (I use a flat potato masher with small holes).
 
 #### For the Cheesecake Filling
 
@@ -45,3 +45,19 @@
 - Spread the mix over the biscuit base, smooth over, then drizzle over the melted white chocolate, add the fresh raspberries in concentric circles, then dust with icing sugar. (I don't do the whipped cream).
 
 - Chill in the fridge for at least an hour, preferably overnight so it will definitely be set.
+
+## Nutella Ice Cream
+
+![Screenshot 2025-08-18 at 20.29.32.jpg](Images/6231d33800eb285ebe3ae5f9817a944f84bdce31.jpg)
+
+#### Serves 4 - Overnight
+
+- 600ml double cream
+
+- 1 tin condensed milk
+
+- 1 300ml jar of Nutella
+
+#### Directions
+
+- Mix together in food processor with dough hook then pour out into a container and freeze overnight.

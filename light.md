@@ -60,12 +60,12 @@
 - 2 tsp dried/fresh thyme leaves
 - 1 tsp salt
 - 1/3 tsp black pepper
-- Try leave out next time or use only 1/4 tbsp balsamic vinegar
+- 1 tsp balsamic vinegar
 - 1 tbsp tomato paste
 - 1 tsp white sugar
-- 1 tsp sweet paprika?
-- 1/4 tsp oregano?
-- For serving consider the following: rustic bread / fried egg / fish / rice
+- 1/4 tsp oregano
+- Optional garnish: handful of chopped basil
+- To serve: garlic bread / rustic bread
 
 ##### Directions
 
@@ -79,9 +79,9 @@
 
 5. Reduce to a medium heat, add another 1 tbsp olive oil, then add the onion with a pinch of the salt, cooking it for 2 minutes, then add the garlic and cook for a further minute.
 
-6. Add another tbsp of olive oil and all the stewing ingredients into the large pot and mix. Once the mixture is hot, reduce heat to a low simmer, and cook for 20 – 25 minutes with the pot lid off, stirring every now and then, until all the vegetables are cooked through and the liquid has reduced. The mixture should be thick enough so you can pile it on a plate (ie. not watery), but still very moist and juicy.
+6. Add another tbsp of olive oil and all the stewing ingredients into the large pot and mix. Once the mixture is hot, reduce heat to a low simmer, and cook for 20 minutes with the pot lid off, stirring every now and then until all the vegetables are cooked through and the liquid has reduced, adding water if it gets too thick. The mixture should be thick enough so you can pile it on a plate (ie. not watery), but still very moist and juicy.
 
-7. Once stewed, taste and add more salt if needed. Stir through basil then serve immediately, drizzled with extra virgin olive oil and a sprinkle of extra basil on top, if desired
+7. Once stewed, taste and add more salt if needed, then serve immediately, drizzled with extra virgin olive oil and a sprinkle of extra basil on top, if being fancy.
 
 ## Vinaigrette
 
@@ -185,7 +185,6 @@
 - 8 eggs
 - 1/2 tsp salt
 - 1/4 tsp pepper
-- Pepper
 - To serve: garlic mayo
 
 #### Directions
@@ -368,3 +367,11 @@
 4. Add the rice and stir for 1 minute until semi translucent. Then add stock ladle by ladle until fully absorbed, stirring occasionally. This should take 15-20 mins. Add all the stock, or until the rice is soft enough.
 
 5. To finish, add the set aside bacon, peas, sweetcorn, butter, parmesan, and pepper, and stir to incorporate. Serve with chives on top and extra parmesan.
+
+6. small shop and cafe and maize area
+
+7. charge maze separately
+
+8. 
+
+9. nothing
