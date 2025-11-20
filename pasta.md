@@ -466,3 +466,35 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 1. Melt the butter in a casserole pot, add the flour (and garlic if raw) and cook it for 1 minute. Add the milk slowly, stirring to avoid lumps, then add the garlic (if tube), salt, pepper, garlic powder, mustard, and bring the mixture up to temperature, but not quite boiling, then add the pasta and set a timer for 8 mins.
 
 2. While the pasta cooks, make the topping, and put the broccoli on if adding. Once the pasta is done, add the cheese, stir until melted, then add the peas / broccoli. Check the pasta is pretty much cooked, then add the topping, and put it under the grill until ready.
+
+## Vodka Pasta
+
+![Screenshot 2025-11-20 at 16.44.35.jpg](Images/728856f3696ea6942a4ddc6cb64dd09c973915a9.jpg)
+
+#### Serves 4 - 30 mins
+
+- 500g penne or fuselli
+- 1/2 tbsp salt, for pasta water
+- 1.5 tbsp olive oil
+- 1 onion, finely diced
+- 2 garlic cloves, minced
+- 80ml vodka
+- 1/2 cup tomato puree
+- 300ml double cream
+- 1/2 tsp chilli flakes
+- 3/4 tsp salt
+- 1/3 tsp black pepper
+- 1 cup of peas
+- 1 cup of sweetcorn
+- 50g freshly grated parmesan, plus more for serving
+- 1 cup pasta cooking water
+- 2 tsp parsley to garnish (optional)
+- Garlic bread to serve
+
+#### Directions
+
+1. Put the pasta water on to boil, and then pasta in when it's boiling. Put garlic bread in oven.
+
+2. Sauté garlic and onion until translucent, add and cook off tomato paste for 2 mins, add vodka and cook off the alcohol.
+
+3. Lower heat and add cream, chilli flakes, S&P, simmer a few mins, add in the peas and sweetcorn and bring back to simmer, stir in parmesan at end. Toss with pasta and 1/2 cup pasta water, adding more if needed. Serve with garlic bread.
