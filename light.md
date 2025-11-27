@@ -368,10 +368,26 @@
 
 5. To finish, add the set aside bacon, peas, sweetcorn, butter, parmesan, and pepper, and stir to incorporate. Serve with chives on top and extra parmesan.
 
-6. small shop and cafe and maize area
+## Bacon, Spinach, and Mozzarella Frittata
 
-7. charge maze separately
+![Screenshot 2025-11-27 at 14.06.27.jpg](Images/65691597a034a85f98d69b1d6d2db8841abe24d1.jpg)
 
-8. 
+#### Serves 4 - 45 mins
 
-9. nothing
+- 10 eggs
+- 1/4 tsp salt (lots of salt from bacon)
+- 1/2 tsp pepper
+- 1 tsp oil
+- 300g smoked bacon, chopped
+- 2 garlic cloves, minced
+- 1 tbsp butter
+- 2 big handfuls baby spinach
+- 150g grated mozzarella cheese (not soft)
+
+#### Directions
+
+1. Chop the bacon and add to a medium sized non stick pan, cooking until golden. While cooking, preheat oven to 180C, and whisk the eggs, salt, and pepper.
+2. Turn the heat down to medium, add the garlic to the pan, and cook for 30 seconds. Then add the spinach and toss until wilted, then remove about 1/3 of the bacon spinach into a bowl.
+3. Add the butter into the pan with the bacon mixture, melt, then Pour in about 2/3 of the egg mixture, then scatter over half the cheese. Then pour over remaining egg mixture and scatter the reserved bacon and spinach and then the cheese.
+4. Cook for about 3 minutes until the sides are just set but not golden, then transfer to oven and cook for 8 minutes until the centre is just set and the cheese is melted on top. Finish with the grill for a bit of brown on top.
+5. Rest for a few minutes then slice and serve.
