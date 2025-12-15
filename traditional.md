@@ -339,37 +339,31 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 #### Serves 4 - 2 hrs
 
-- 6 pheasant breasts (could probably do chicken)
+- 6 pheasant/chicken breasts, sliced into bitesized pieces
 - 2 tbsp oil
 - 100g smoked streaky bacon, cut into small pieces
-- 1 onion, roughly chopped (not diced)
+- 1 onion, quartered and sliced
 - 2 sticks celery, sliced thinly on the diagonal
 - 25g plain flour
 - 300ml apple juice
 - 300ml chicken stock
-- 1 tbsp fruit jelly, such as redcurrant or quince jelly
+- 1 tbsp redcurrant jelly
 - 2 tbsp Worcestershire sauce
 - 3 bay leaves
-- 250g button mushrooms, halved
-- gravy browning (optional)
+- 1/2 tsp pepper
+- 1/3 tsp salt
+- 250g button mushrooms, sliced
 - mashed potato, to serve
-- salt and freshly ground black pepper
 
 #### Directions
 
-1. Preheat the oven 160C/140C Fan/Gas 3.
+1. Preheat the oven 160C. Chop the breast meat. Heat 1 tablespoon of the oil in a casserole dish placed over medium-high heat. Add the breast meat and fry until brown all over. Remove with a slotted spoon and set aside.
 
-2. To prepare the meat, remove the breast meat and legs from the birds. Set aside the carcasses to make stock for another time. Remove the skin from all the meat and cut the the breast meat into 3cm/1¼in cubes. Season the breast meat and legs with salt and pepper.
+2. Add the remaining oil and fry the bacon for a few minutes until crisp. Add the onion and celery, and fry over a high heat for few minutes until softened, then sprinkle in the flour and stir to cook it a bit.
 
-3. Heat 1 tablespoon of the oil in a casserole dish placed over a medium heat. Add the meat and fry until brown all over. Remove with a slotted spoon and set aside.
+3. Gradually pour in the apple juice and stock and bring to the boil. Add the redcurrant jelly, Worcestershire sauce, bay leaves, salt and pepper and return the meat to the pan.
 
-4. Add the remaining oil and fry the bacon for a few minutes until crisp. Add the onion and celery, and fry over a high heat for few minutes until softened.
-
-5. Sprinkle in the flour and stir. Gradually pour in the apple juice and stock and bring to the boil. Add the redcurrant jelly, Worcestershire sauce and bay leaves and return the meat to the pan.
-
-6. Bring everything back to the boil, stirring. Season with salt and pepper and a few drops of gravy browning, if using. Cover and cook in the oven for about 1–1½ hours, or until tender. Add the mushrooms and cook for a further 30 minutes.
-
-7. Remove the bay leaves and serve piping hot with mashed potato.
+4. Cover and cook in the oven for about 1 hour. Add the mushrooms and cook for a further 30 minutes. Serve
 
 ## Chicken Fricassee
 
@@ -923,11 +917,11 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 #### Serves 4 - 1.5 hrs
 
-- 1 onion (150g), peeled and cut into 6 wedges
+- 1 onion (150g), peeled and cut into 8 wedges
 
-- 7 garlic cloves, peeled but whole
+- 7 garlic cloves, peeled but whole and crushed slightly
 
-- 8 large / 12 medium portobello mushrooms (about 650g), stems removed
+- 8 large / 12 medium portobello mushrooms (about 650g)
 
 - Broccoli to serve
 
@@ -949,24 +943,22 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 - 4 tins (1kg drained weight) good-quality jarred butter beans - drained
 
-- 1½ tbsp lemon juice
+- 2 tbsp lemon juice
 
 - 2 tbsp olive oil
 
-- 3/4 tsp+ salt
+- 1 tsp salt
 
-- Water
-
-- Pepper
+- 60ml water + more if needed
 
 #### Directions
 
 1. Preheat the oven to 150°C fan.
 
-2. Put all the sauce ingredients into a large ovenproof pan with a lid, and mix them together. The add the garlic and onion, and arrange the mushrooms on top so they are domed side up. Cover with the lid, then transfer to the oven for 1 hour. 
+2. Put all the sauce ingredients into a large ovenproof pan with a lid, and mix them together. The add the garlic and onion, and arrange the mushrooms on top so they are domed side up. Cover with the lid, then transfer to the oven for 45 mins. 
 
-3. While the mushrooms are cooking, add all of the mash ingredients to a medium saucepan, and use a stick blender to blend until smooth, adjusting the salt where required. Leave cold for now.
+3. While the mushrooms are cooking, add all of the mash ingredients to a medium saucepan, and use a stick blender to blend until smooth, adjusting the water and lemon juice as required. Leave cold for now.
 
-4. Once the mushrooms have had an hour, take them out and turn them over, replacing the lid, and return to the oven for 20 minutes more. Start heating the butter bean mash on gentle heat.
+4. Once the mushroom timer is done, take them out and turn them over, replacing the lid, and return to the oven for 20 minutes more. Start heating the butter bean mash on gentle heat. Put the broccoli in the water and put it on when the second mushroom timer is nearly done.
 
-5. Once the mushrooms have finished, remove them with tongs and put them on chopping board. Pour the sauce (including garlic and onion) into a heat proof bowl and blitz it with a food processor until fairly smooth. Return the mixture to the saucepan, place the mushrooms on top, and then cook for about 5 minutes for all the flavours to come together. While this is cooking, put the broccoli on, and when done serve everything.
+5. Once the mushrooms have finished, remove them with tongs and put them on chopping board and cut them in half. Pour the sauce (including garlic and onion) into a heat proof bowl (don't try do it in the pan - it will splash everywhere) and blitz it with a food processor until fairly smooth. Return the mixture to the saucepan, place the mushrooms on top, and then cook for about 5 minutes for all the flavours to come together.

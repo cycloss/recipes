@@ -61,3 +61,31 @@
 #### Directions
 
 - Mix together in food processor with dough hook then pour out into a container and freeze overnight.
+
+## Chocolate Brownies
+
+![Screenshot 2025-12-15 at 17.21.15.jpg](Images/b3a978b7eb054e7270e16e6abe93a59a2c64fd42.jpg)
+
+#### Serves 10 - 1 hr
+
+- 200g salted butter
+- 400g dark chocolate
+- 175g brown sugar
+- 3 eggs
+- 1 tsp vanilla extract
+- 75g plain flour
+- 30g cocoa powder
+
+#### Directions
+
+1. Preheat oven to 180°C/160°C fan.
+
+2. Break up half of the chocolate - 200g - and place it in a heatproof bowl (my mixing bowl works fine), in the microwave for 30 second bursts (takes me 4) until melted, stirring after each burst.
+
+3. While melting, chop up the rest of the chocolate into small chunks by chopping the bar diagonally.
+
+4. Add the sugar and vanilla, mix to a paste, then add eggs and mix well until smooth and molten, then add the flour, cocoa and stir until smooth. Stir in chopped chocolate, pour into pan lined with banking paper.
+
+5. Bake 28 minutes, then check with a knife, and if it needs more do so in two minute intervals.
+
+6. Rest for 10 minutes before lifting out of the pan. Allow to cool for at least 20 minutes before cutting.

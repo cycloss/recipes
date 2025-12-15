@@ -477,3 +477,9 @@
 2. Turn heat up to high, add curry powder, turmeric, and cayenne peppe, stir for 1.5 mins to bloom the spices.
 
 3. Lower to medium heat, add remaining ingredients and stir, bring to simmer, then place lid on, simmering for 30 mins. After 30 mins, lentils should be soft, sauce should be thickened and creamy. Too thick, add water. Too thin, simmer with lid off for 10 mins. Serve with coriander, rice, and yoghurt.
+
+## Golden Coconut Curry
+
+![Screenshot 2025-12-09 at 18.31.05.jpg](Images/796f2c2dd703d554726a3b02131dd94d6cfe5b49.jpg)
+
+#### Serves 4 - 1 hour

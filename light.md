@@ -383,6 +383,7 @@
 - 1 tbsp butter
 - 2 big handfuls baby spinach
 - 150g grated mozzarella cheese (not soft)
+- To serve: hash browns
 
 #### Directions
 
