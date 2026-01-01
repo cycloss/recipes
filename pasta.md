@@ -401,12 +401,13 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 - 400g fusilli pasta
 - 150g (half a pack) of smoked streaky bacon, finely sliced
 - 1 can tinned tomatoes
-- 1/2 (3/4?) tsp sugar
+- 1/2 tsp sugar
 - 1/2 tsp salt
 - 1 tsp oregano
 - 1 tsp smoked paprika
-- 1/2 tsp chilli flakes?
+- 1/3 tsp chilli flakes
 - 1/2 tsp black pepper, freshly cracked
+- 1 tbsp tomato paste
 - 1 tsp garlic paste / 4 cloves minced
 - 45g butter
 - Cheese and chopped basil to serve
@@ -417,7 +418,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 2. Put the water on to boil, and open the can of tomatoes, adding the sugar, salt, oregano, paprika, chilli flakes, and garlic paste to it, so it's ready to pour into the pan.
 
-3. If using minced garlic, just before the bacon is crispy, lower the heat and add it to the pan, cooking it until translucent. Add the tomato mix and butter, and simmer covered on low heat until the pasta is done.
+3. If using minced garlic, just before the bacon is crispy, lower the heat and add it to the pan, cooking it until translucent. Add the tomato mix (minus butter), and simmer covered on low heat until the pasta is done, adding the butter just before the pasta is done.
 
 4. When the pasta is done, reserve 250ml of pasta water, drain the pasta, and then add it to the tomato sauce, stirring well. Judiciously add the pasta water, to add silkiness (usually only need 125ml). Mix well again and serve with the cheese and basil.
 

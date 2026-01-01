@@ -482,4 +482,40 @@
 
 ![Screenshot 2025-12-09 at 18.31.05.jpg](Images/796f2c2dd703d554726a3b02131dd94d6cfe5b49.jpg)
 
-#### Serves 4 - 1 hour
+#### Serves 4 - 45 mins
+
+- 2 tbsp vegetable oil
+- 3 star anise
+- 0.5 tsp cinnamon powder
+- 1 onion, finely diced
+- 500g chicken, cut into bitesized pieces
+- 1 tsp garlic, finely grated or use paste
+- 1 tsp ginger, finely grated or use paste
+- 1.5 tsp turmeric powder
+- 500ml chicken stock
+- 400g (1 can) coconut cream
+- Large head of broccoli, florets cut small
+- 2 tbsp cornflower
+- Lime juice: start with 1tsp as still testing (brings something more to the recipe)
+- Optional: 1 cup chopped coriander leaves, lightly packed, plus extra for garnish
+- Optional: crispy fried onions
+- Rice to serve
+
+**Spice Mix**
+
+- 1 tsp cooking/kosher salt
+- 2 tsp garam masala
+- 1.5 tsp coriander powder
+- 0.5 tsp cumin powder
+
+#### Directions
+
+1. Chop the chicken and onion, and mix the spices from the spice mix in a small bowl. Put the rice on.
+
+2. Heat the oil in a large pan over medium high heat. Toast the star anise and cinnamon for 2 minutes. Add onion, cook for 2 minutes. Add chicken, cook for 3 minutes or it's no longer pink on the outside (still raw inside). Add garlic, ginger and turmeric, cook for 1 minute. Add spice mix and stir for 30 seconds.
+
+3. Add stock and coconut cream, stir and bring to a simmer, and cook for 12 minutes.
+
+4. Add broccoli, chopping into small florets, add the cornflower as a slurry to thicken, and add the lime juice, bring back to a simmer and cook for 3 minutes or until softened and thickened. Add more cornflower if necessary and lime (still testing amount).
+
+5. Cool for 5 minutes, this will allow the sauce to thicken slightly. Then stir in coriander and serve with rice. Garnish with extra coriander and crispy fried onions.
