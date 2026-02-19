@@ -184,29 +184,31 @@ Chop the shallots, garlic, fennel, celery and courgette. Line up your chipolatas
 
 - 1 red pepper sliced
 
-- 300ml beef stock
+- 750ml beef stock
+
+- 2 tbsp tomato paste
+
+- ?? tbsp Maggi seasoning (sub soy sauce 1.5 tbsp)
 
 - 175ml sour cream
 
 - 1 tbsp chopped fresh parsley
 
-- cooked long-grain rice
+- long-grain rice to serve
 
 #### Directions
 
 Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
-1. Heat the oil and butter in a large ovenproof frying pan and fry the beef and chorizo for 5-7 minutes, or until browned all over.
+1. Put the rice on
 
-2. Lower the heat, and fry the onions and garlic in the same pan for 3-4 minutes, or until softened. Stir in the flour and cook for a further 2-3 minutes.
+2. Heat the oil in a large ovenproof frying pan and fry the beef and chorizo for 5-7 minutes, or until browned all over.
 
-3. Add the paprika, chillies and pepper and stir until well combined. Pour in the beef stock, and stew for 30-35 minutes (or until the rice is done). Add another tablespoon of flour if not thick enough.
+3. Lower the heat, and fry the onions and garlic in the same pan for 3-4 minutes, or until softened. Stir in the butter and flour and cook for a further 2-3 minutes.
 
-4. Put on the rice
+4. Add the paprika, chillies, red pepper, and tomato paste, and stir until well combined. Pour in the beef stock, and stew for 30-35 minutes (or until the rice is done). Add another tablespoon of flour if not thick enough.
 
-5. Add S&P. Stir in the soured cream and parsley until well combined.
-
-6. Serve the goulash with long-grain rice
+5. Add S&P. Stir in the soured cream and parsley until well combined. Serve with long-grain rice
 
 ## Chicken Pie
 
