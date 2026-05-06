@@ -80,11 +80,11 @@
 
 1. Preheat oven to 180°C/160°C fan.
 
-2. Break up half of the chocolate - 200g - and place it in a heatproof bowl (my mixing bowl works fine), in the microwave for 30 second bursts (takes me 4) until melted, stirring after each burst.
+2. Break up half of the chocolate - 200g - and place it in a bowl (my mixing bowl works fine) with the butter, and microwave for 30 second bursts (takes me 4) until melted, stirring after each burst.
 
-3. While melting, chop up the rest of the chocolate into small chunks by chopping the bar diagonally.
+3. While melting, chop up the rest of the chocolate into small chunks - about each square cut diagonally is right.
 
-4. Add the sugar and vanilla, mix to a paste, then add eggs and mix well until smooth and molten, then add the flour, cocoa and stir until smooth. Stir in chopped chocolate, pour into pan lined with banking paper.
+4. Into the melted chocolate butter mixture, add the sugar and vanilla, then mix to a paste, then add the eggs whisked and mix well until smooth and molten, then add the flour, cocoa and stir until smooth. Stir in chopped chocolate, pour into a baking tray lined with baking paper.
 
 5. Bake 28 minutes, then check with a knife, and if it needs more do so in two minute intervals.
 

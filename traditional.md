@@ -80,47 +80,43 @@
 
 ## Coq au Stock
 
-![](Images/coqAuStock.jpeg)
+![](Images/coq-au-stock.jpg)
 
 #### Serves 2 - 1 hr
 
 - Knob of butter
 
-- 1 tbsp olive oil
+- ~500g chicken, cut into small pieces
 
-- 6 chicken leg portions, bone-in and skin-on
+- 1 pack of streaky bacon, cut into 1cm slices
 
-- onion, diced
-
-- 6 rashers of streaky bacon, cut into 1cm slices
+- 1 onion, diced
 
 - 4 cloves garlic, chopped
 
 - 200g mushrooms, roughly chopped
 
-- salt and pepper
+- 150ml white wine
 
-- 250ml chicken stock (1 cube)
+- 1/3 tsp pepper
 
-- 175g green beans, trimmed
+- 250ml chicken stock
+
+- 2 tbsp cornflower
 
 - 100g crème fraiche
 
-- To serve ½ bunch of chives, finely chopped
-
-- Mashed potato
+- To serve, rice / mashed potato
 
 #### Directions
 
-Melt the butter and oil in a very large frying pan over a medium to high heat. When the butter is bubbling, lay the chicken portions into the pan to brown, skin-side down. Aim for a deep golden brown all over - this should take about 8 minutes. When the legs are brown, transfer them onto a plate.
+- Melt the butter and oil in a very large frying pan over a medium to high heat, add the chicken in 2 batches, browning and transferring to a plate.
 
-Scrape the chopped onion and bacon slices into the pan and fry over a medium to high heat for about 4 minutes, or until the onion starts to soften. Add the garlic and mushrooms along with a good pinch of salt and pepper and continue stir-frying for a further 2 minutes.
+- Add the bacon and brown it, then add the and onion until translucent then lower head and add the garlic and mushrooms until soft, then the wine to deglaze.
 
-Lay the chicken pieces back into the pan, skin-side down, and pour in the chicken stock. Crank up the heat and bring the liquid to the boil, then lower the heat to a simmer. Place a lid on top and leave the chicken to cook for 25 minutes.
+- Add the chicken pieces back into the pan, and pour in the chicken stock and add the pepper, simmering for 5 mins.
 
-After 20 minutes, carefully remove the lid and scatter the green beans over the top, then place the lid back on and cook for a further 5 minutes, until the chicken is fully cooked.
-
-Stir in the crème fraiche and bring the sauce to the boil one last time. Scatter with the chopped chives and serve.
+- Add the cornflower as a slurry until thick, then stir in the creme fraiche and serve.
 
 ## Crunchy Sausage Casserole
 
@@ -189,6 +185,8 @@ Chop the shallots, garlic, fennel, celery and courgette. Line up your chipolatas
 - 2 tbsp tomato paste
 
 - ?? tbsp Maggi seasoning (sub soy sauce 1.5 tbsp)
+
+- 1 tbsp magi or soy sauce(?)
 
 - 175ml sour cream
 
@@ -441,28 +439,27 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 - ~500g boneless, skinless chicken thigh or breast cut into slices about the size of one mouthful
 - Salt & Pepper
-- 150g bacon (diced)
+- 150-250g bacon (diced)
 
 **The Sauce**
 
 - 2 tablespoons butter
 - 1 onion, diced
 - 4 cloves garlic, minced
-- 1 tablespoon fresh chopped parsley (optional)
-- 1 teaspoon each of thyme and rosemary (be generous)
-- 100ml dry white wine (Pinot Grigio/Gris, Sauv Blanc, Riesling)
+- 1 teaspoon each of thyme and rosemary
+- 125ml dry white wine
 - 350ml double cream
 - 2 tablespoons Dijon mustard
 - 1 chicken stock cube
-- 1/2 teaspoon freshly ground black pepper, to taste
+- 1/3 tsp pepper
+- 3/4 tsp salt
 - 100g grated Parmesan cheese
-- 2 good handfuls of baby spinach leaves
+- 1 pack (250g) of baby spinach
 
 **To Serve**
 
 - Greens
-
-- Mash
+- Mash / pasta
 
 #### Directions
 
@@ -476,7 +473,7 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 5. Reduce heat to medium low, important as the cream will split if boiled. Pour in the Dijon mustard first to cool down the mixture, then add the cream, and mix through heating gently for a further minute to allow the sauce to thicken.
 
-6. Add the Parmesan and half of the bacon (all if you can't be bothered with it as a topping), and allow to melt through the sauce. Season with a generous amount of pepper.
+6. Add the Parmesan and half of the bacon (all if you can't be bothered with it as a topping), and allow to melt through the sauce. Add the salt and pepper.
 
 7. Add the spinach and allow to wilt. Return chicken to the skillet and reheat. Add some water if too thick.
 

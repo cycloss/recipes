@@ -55,7 +55,7 @@ When there is 15 mins left for the sauce, put the spaghetti on. When ready, serv
 - 1/2 tsp smoked paprika
 - 1/2 tsp chilli flakes
 - 3/4 tsp salt
-- Good grind of pepper
+- 1/2 tsp pepper
 
 #### TO SERVE
 

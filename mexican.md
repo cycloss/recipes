@@ -4,7 +4,7 @@
 
 ![](Images/chilli.jpeg)
 
-#### Serves 5, time 40mins
+#### Serves 5 - 1.5 hrs
 
 **Chilli Spice Mix**
 
@@ -28,17 +28,17 @@
 
 - 500g beef mince / ground beef
 
+- 3 cans of chopped tomatoes
+
 - 3 tbsp tomato paste
 
-- 800g can crushed tomato
-
-- 420g can red kidney beans , drained
+- 1 can red kidney beans , drained
 
 - 2 beef bouillon cubes , crumbled
 
 - 1 1/2 tsp sugar
 
-- 1/2 – 1 1/2 cups / 125 – 375 ml water
+- 1/2 cup of water
 
 - Salt and pepper
 
@@ -53,9 +53,7 @@
 - Heat oil in a large skillet over medium high heat. Add garlic and onion, cook for 1 minute, until onion is translucent.
 - Turn heat up to high and add beef and bell pepper. Cook, breaking it up as you go by chopping it with a wooden spoon until mostly browned.
 - Add Chilli Spice Mix. Cook until beef is browned all over. (This step helps release extra flavour from the spices)
-- Add remaining ingredients, with 1/2 cup of water for Quick Cook or 1 1/2 cups for Slow Cook. Bring to simmer, then adjust heat per step below:
-- Quick Cook – 20 to 40 minutes, uncovered, on medium low heat so it’s bubbling gently; OR
-- Slow Cook – 1.5 hours to 2 hours, covered, on low heat so it’s bubbling very gently. (Note 3 Slow Cooker)
+- Simmer for 1 hour, uncovered, on medium low heat so it’s bubbling gently
 - Adjust salt and pepper to taste in the last few mins of cooking.
 - Serve over rice, or ladle into bowls and serve with corn chips or warm tortillas on the side with Toppings of choice (Note 6). See Note 7 for more serving options. My usual: Either over rice or with corn chips, always with sour cream, cheese and coriander.
 
@@ -63,7 +61,7 @@
 
 ![](Images/2022-05-20-08-44-41-image.png)
 
-#### Serves 4 - Time 30 mins
+#### Serves 4 - 30 mins
 
 **Burrito seasoning:**
 
