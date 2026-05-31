@@ -1,5 +1,8 @@
 # Breakfast
 
+- [Ultimate Fish Finger Sandwich](#ultimate-fish-finger-sandwich)
+- [Custardy Scrambled Egg](#custardy-scrambled-egg)
+
 ## Ultimate Fish Finger Sandwich
 
 Photo pending

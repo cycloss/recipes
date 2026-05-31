@@ -1,5 +1,8 @@
 # Drinks
 
+- [Banana, Oats, and Medjool Dates](#banana-oats-and-medjool-dates)
+- [Yoghurt, Vanilla Bean, and Honey](#yoghurt-vanilla-bean-and-honey)
+
 ## Banana, Oats, and Medjool Dates
 
 ![](Images/2023-01-24-18-52-43-image.png)

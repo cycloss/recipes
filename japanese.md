@@ -1,5 +1,18 @@
 # Japanese & Chinese
 
+- [Japanese Curry](#japanese-curry)
+- [Japanese Garlic Butter Rice](#japanese-garlic-butter-rice)
+- [Matsuya Umatoma](#matsuya-umatoma)
+- [Japanese Chinese-style Fried Rice (チャーハン)](#japanese-chinese-style-fried-rice-チャーハン)
+- [Salmon Teriyaki Noodles](#salmon-teriyaki-noodles)
+- [Firecracker Rice](#firecracker-rice)
+- [Niku Jaga (Japanese stew)](#niku-jaga-japanese-stew)
+- [Japanese Salmon](#japanese-salmon)
+- [Yakisoba](#yakisoba)
+- [Oyakodon](#oyakodon)
+- [Simple Side Dishes](#simple-side-dishes)
+- [Cream Stew](#cream-stew)
+
 ## Japanese Curry
 
 ![](Images/japanese-curry.png)
@@ -310,11 +323,15 @@
 
 - 0.5 tbsp vegetable oil
 
+- Rice and tender stem broccoli to serve
+
 #### Directions
 
 - Add everything to a sealable bag / container, mix well, and marinade for a minimum of 3 hours, preferably overnight.
 
-- Heat a non stick pan on medium heat (no higher as the sugar in the mirin will burn) and cook the salmon skin side down first until colour appears (2-3 mins), then drizzle over the marinade and cook each of the remaining 3 sides in turn until coral.
+- Heat a non stick pan on medium heat (no higher as the sugar in the mirin will burn) and cook the salmon skin side down first until colour appears (2-3 mins), then fry the other sides until golden and coral inside, then take the fillets out of the pan and set aside.
+
+- Add the marinade to the pan and reduce it until it thickens, then plate up the salmon, broccoli, and rice, and drizzle over the thickened sauce.
 
 ## Yakisoba
 

@@ -1,5 +1,9 @@
 # Pudding
 
+- [White Chocolate & Raspberry Cheese](#white-chocolate--raspberry-cheese)
+- [Nutella Ice Cream](#nutella-ice-cream)
+- [Chocolate Brownies](#chocolate-brownies)
+
 ## White Chocolate & Raspberry Cheese
 
 ![Screenshot 2024-01-31 at 16.28.57.jpg](Images/ff422d831609e99f56e995488a2058c9b5e351b2.jpg)

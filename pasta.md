@@ -1,5 +1,19 @@
 # Pasta and Light
 
+- [Pasta Putanesca](#pasta-putanesca)
+- [Spaghetti Bolognese](#spaghetti-bolognese)
+- [Linguine with Chilli, Crab and Watercress](#linguine-with-chilli-crab-and-watercress)
+- [Carbonara](#carbonara)
+- [Creamy Chicken Pasta](#creamy-chicken-pasta)
+- [Lively Prawn & Crab Pasta](#lively-prawn--crab-pasta)
+- [Creamy Tuna Pasta Bake](#creamy-tuna-pasta-bake)
+- [One-pot Orecchiette Puttanesca](#one-pot-orecchiette-puttanesca)
+- [Seafood Gratin Pasta Bake](#seafood-gratin-pasta-bake)
+- [Meatless Bolognaise](#meatless-bolognaise)
+- [Tomato, Bacon & Butter Fusilli](#tomato-bacon--butter-fusilli)
+- [Garlicy Mac 'n' Cheese](#garlicy-mac-n-cheese)
+- [Vodka Pasta](#vodka-pasta)
+
 ## Pasta Putanesca
 
 ![](Images/putanesca.jpeg)
@@ -45,17 +59,19 @@ When there is 15 mins left for the sauce, put the spaghetti on. When ready, serv
 - 1 onion , finely chopped (brown, yellow or white)
 - 500g beef mince (ground beef) OR half pork, half beef (Note 1)
 - 125ml (1/2 cup) of red wine
-- 2 beef stock cubes
 - 2 cans tinned tomatoes
-- 2 tbsp tomato paste
+- 2 beef stock cubes
 - 2 tsp white sugar , if needed (Note 3)
-- 2 tsp Worcestershire sauce
 - 2 dried bay leaves
-- 2 sprigs fresh thyme (or 1/2 tsp dried thyme or oregano)
+- 1/2 tsp dried thyme
+- 1/2 tsp dried oregano
 - 1/2 tsp smoked paprika
 - 1/2 tsp chilli flakes
-- 3/4 tsp salt
+- 1/2 tsp salt
 - 1/2 tsp pepper
+- 2 tbsp tomato paste
+- 2 tsp Worcestershire sauce
+- 1 tbsp soy sauce
 
 #### TO SERVE
 
@@ -72,7 +88,7 @@ When there is 15 mins left for the sauce, put the spaghetti on. When ready, serv
 
 - Adjust salt and pepper to taste right at the end. Serve over spaghetti – though if you have the time, I recommend tossing the sauce and pasta per steps below.
 
-## LINGUINE WITH CHILLI, CRAB AND WATERCRESS
+## Linguine with Chilli, Crab and Watercress
 
 ![](Images/2022-01-27-09-23-20-image.png)
 
@@ -148,7 +164,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 ##### Directions
 
-1. Chop the chicken, melt half the butter in a large stainless steel pan (needed to develop a fond) on high heat, and cook chicken until cooked through. While chicken is cooking, chop the bacon, then when the chicken is done, put it aside on a plate, cook the bacon until crispy, and put that with the chicken. 
+1. Chop the chicken, melt half the butter in a large stainless steel pan (needed to develop a fond) on high heat, and cook chicken until cooked through. While chicken is cooking, chop the bacon, then when the chicken is done, put it aside on a plate, cook the bacon until crispy, and put that with the chicken.
 
 2. While the bacon is cooking, put the pasta water on to boil, chop the garlic and tomatoes, make the stock, and grate the parmesan.
 
@@ -320,7 +336,7 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 
 - 300g pasta (macaroni is fine)
 - 1.5 tbsp olive oil
-- ~500g of mixed seafood: salmon, smoked haddock, prawns etc. Small prawns preferred as they disperse better. I usually use 400g bag of mixed fish, and 250g bag of small prawns 
+- ~500g of mixed seafood: salmon, smoked haddock, prawns etc. Small prawns preferred as they disperse better. I usually use 400g bag of mixed fish, and 250g bag of small prawns
 - 3 leeks, sliced into semi-circles
 - 3 garlic cloves, minced
 

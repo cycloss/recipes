@@ -1,5 +1,12 @@
 # Mexican
 
+- [Chilli Con Carne](#chilli-con-carne)
+- [Chicken Burritos](#chicken-burritos)
+- [Hot Wings](#hot-wings)
+- [Chicken Fajitas](#chicken-fajitas)
+- [Quesedillas](#quesedillas)
+- [Avocado Dipping Sauce](#avocado-dipping-sauce)
+
 ## Chilli Con Carne
 
 ![](Images/chilli.jpeg)

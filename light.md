@@ -1,5 +1,17 @@
 # Light
 
+- [Salmon & Tarragon Risotto](#salmon--tarragon-risotto)
+- [Ratatouille](#ratatouille)
+- [Vinaigrette](#vinaigrette)
+- [Vibrant Crunchy Wild Rice Salad](#vibrant-crunchy-wild-rice-salad)
+- [French Omelette](#french-omelette)
+- [Spanish Omelette](#spanish-omelette)
+- [Shakshuka](#shakshuka)
+- [Josh's Bird Food](#joshs-bird-food)
+- [Mushroom Risotto](#mushroom-risotto)
+- [Bacon Risotto](#bacon-risotto)
+- [Bacon, Spinach, and Mozzarella Frittata](#bacon-spinach-and-mozzarella-frittata)
+
 ## Salmon & Tarragon Risotto
 
 ![](Images/2022-07-12-09-44-30-image.png)

@@ -1,5 +1,9 @@
 # Soups
 
+- [Smoked Haddock Chowder](#smoked-haddock-chowder)
+- [Leek and Potato](#leek-and-potato)
+- [Cream of Vegetable Noodle Soup](#cream-of-vegetable-noodle-soup)
+
 ## Smoked Haddock Chowder
 
 ![](Images/chowder.jpeg)

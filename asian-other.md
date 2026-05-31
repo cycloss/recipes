@@ -1,5 +1,16 @@
 # Asian Other
 
+- [Goan Fish Curry](#goan-fish-curry)
+- [Butter Chicken](#butter-chicken)
+- [Thai Yellow Curry](#thai-yellow-curry)
+- [King Prawn Bhuna](#king-prawn-bhuna)
+- [Thai Cashew Chicken Stir Fry](#thai-cashew-chicken-stir-fry)
+- [Chicken Korma](#chicken-korma)
+- [Chicken Curry](#chicken-curry)
+- [Thai Green Curry](#thai-green-curry)
+- [Lentil Dal](#lentil-dal)
+- [Golden Coconut Curry](#golden-coconut-curry)
+
 ## Goan Fish Curry
 
 ![](Images/2022-03-04-10-11-57-image.png)

@@ -1,5 +1,12 @@
 # Sunday
 
+- [Slow Roast Pork, Potato Gratin, and Bacon Cabbage](#slow-roast-pork-potato-gratin-and-bacon-cabbage)
+- [Slow-roast shoulder of lamb boulangère](#slow-roast-shoulder-of-lamb-boulangère)
+- [Roast Chicken](#roast-chicken)
+- [Bang Bang Chicken](#bang-bang-chicken)
+- [Aubergine Dumpling Parmigiana](#aubergine-dumpling-parmigiana)
+- [Tartiflette](#tartiflette)
+
 ## Slow Roast Pork, Potato Gratin, and Bacon Cabbage
 
 ### Slow Roast Pork

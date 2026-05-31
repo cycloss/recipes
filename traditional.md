@@ -1,5 +1,19 @@
 # Traditional
 
+- [Sausage & Red Wine Casserole](#sausage--red-wine-casserole)
+- [Fish Pie](#fish-pie)
+- [Coq au Stock](#coq-au-stock)
+- [Crunchy Sausage Casserole](#crunchy-sausage-casserole)
+- [Chorizo Goulash](#chorizo-goulash)
+- [Chicken Pie](#chicken-pie)
+- [Beef and Mushroom Pie](#beef-and-mushroom-pie)
+- [Beef Stroganoff](#beef-stroganoff)
+- [Pheasant Stew](#pheasant-stew)
+- [Chicken Fricassee](#chicken-fricassee)
+- [Creamy salmon, leek & potato traybake](#creamy-salmon-leek--potato-traybake)
+- [Creamy Dijon Chicken](#creamy-dijon-chicken)
+- [Honey Garlic Pork](#honey-garlic-pork)
+
 ## Sausage & Red Wine Casserole
 
 ![](Images/casserole.jpeg)

@@ -1,5 +1,17 @@
 # Chinese
 
+- [Chow Mein](#chow-mein)
+- [Beef Stir Fry Noodles with Honey Pepper Sauce](#beef-stir-fry-noodles-with-honey-pepper-sauce)
+- [Chinese Satay Chicken](#chinese-satay-chicken)
+- [Chinese Pepper Steak](#chinese-pepper-steak)
+- [Quick and Easy Stir-Fry](#quick-and-easy-stir-fry)
+- [Kung Pao Chicken](#kung-pao-chicken)
+- [Lemon Chicken](#lemon-chicken)
+- [Sizzling Beef Fried Rice](#sizzling-beef-fried-rice)
+- [Teriyaki Beef Bowls](#teriyaki-beef-bowls)
+- [Beef in Black Bean Sauce](#beef-in-black-bean-sauce)
+- [Egg Foo Young](#egg-foo-young)
+
 ## Chow Mein
 
 ![](Images/2022-02-22-20-55-17-image.png)
