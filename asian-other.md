@@ -10,6 +10,7 @@
 - [Thai Green Curry](#thai-green-curry)
 - [Lentil Dal](#lentil-dal)
 - [Golden Coconut Curry](#golden-coconut-curry)
+- [Brazilian Chickpea Curry](#brazilian-chickpea-curry)
 
 ## Goan Fish Curry
 
@@ -19,7 +20,7 @@
 
 **Curry Paste**
 
-- 2 tbs smoked paprika 
+- 2 tbs smoked paprika
 - 1/2 tsp chilli powder
 - 1 tbsp coriander
 - 2 tsp cumin
@@ -247,7 +248,7 @@
 - 2 tbsp plain oil
 - 1 cup raw cashews, unsalted
 - 2 garlic clove, minced
-- 1 brown onion, cut into wedges (halved, cut lengthways 4-5 times into segments, then cut across) 
+- 1 brown onion, cut into wedges (halved, cut lengthways 4-5 times into segments, then cut across)
 - 400g chicken thighs, skinless and boneless, sliced into 1cm thin strips
 - 4 green onions, cut into 2.5cm lengths (not sliced), white part separated from green part
 - 1 red chilli, deseeded and finely sliced
@@ -354,7 +355,7 @@
 
 5. While the chicken cooks, use a stick blender to blend the sauce until a grainy consistency.
 
-6. When the chicken is cooked, reduce the heat to medium low, wait for the pan to reach that temperature, then add the blended sauce back. Simmer covered for 10 minutes. While simmering, chop the coriander. Once simmered, add the cream and stir through for a minute or so, then serve with rice and the coriander. 
+6. When the chicken is cooked, reduce the heat to medium low, wait for the pan to reach that temperature, then add the blended sauce back. Simmer covered for 10 minutes. While simmering, chop the coriander. Once simmered, add the cream and stir through for a minute or so, then serve with rice and the coriander.
 
 ## Chicken Curry
 
@@ -530,3 +531,37 @@
 4. Add broccoli, chopping into small florets, add the cornflower as a slurry to thicken, and add the lime juice, bring back to a simmer and cook for 3 minutes or until softened and thickened. Add more cornflower if necessary and lime (still testing amount).
 
 5. Cool for 5 minutes, this will allow the sauce to thicken slightly. Then stir in coriander and serve with rice. Garnish with extra coriander and crispy fried onions.
+
+## Brazilian Chickpea Curry
+
+![bcc](Images/brazilian-chickpea-curry.jpg)
+
+#### Serves 4 - 30 mins
+
+- 1.5 tbsp oil
+- 1 onion, diced
+- 2 garlic cloves, minced
+- 1 red bell pepper, cut into thin 3cm strips
+- 2 (3?) cans chickpeas, drained
+- 1 can coconut milk
+- 1 can chopped tomatoes
+- 250ml fish/veg/chicken stock
+- 1 tbsp paprika
+- 1 tbsp cumin
+- 1/2 – 1 tsp cayenne pepper (adjust to taste)
+- 1.5 tsp sugar
+- 0.5 tsp salt
+- 2 tsp fish sauce
+- 1.5 tbsp lime juice
+- 2 tbsp cornflour as a slurry
+- 2 handfuls of baby spinach leaves
+- Rice to serve
+- Corriander and yoghurt to serve
+
+#### Directions
+
+1. Put the rice on.
+2. At medium high, fry the onion and garlic in a large saucepan for 1 minute, then add the red pepper and cook for 2 minutes.
+3. Add remaining Curry ingredients except baby spinach and lime juice. Stir, bring to simmer then lower to medium low, and simmer for 15 minutes, or until the rice is done.
+4. Just before the rice is done, stir in spinach until just wilted, then stir in the lime juice.
+5. Serve over rice with a dollop of yogurt and coriander.
