@@ -562,6 +562,6 @@
 
 1. Put the rice on.
 2. At medium high, fry the onion and garlic in a large saucepan for 1 minute, then add the red pepper and cook for 2 minutes.
-3. Add remaining Curry ingredients except baby spinach and lime juice. Stir, bring to simmer then lower to medium low, and simmer for 15 minutes, or until the rice is done.
-4. Just before the rice is done, stir in spinach until just wilted, then stir in the lime juice.
+3. Add remaining Curry ingredients except baby spinach, lime juice, and cornflour. Stir, bring to simmer then lower to medium low, and simmer for 15 minutes, or until the rice is done.
+4. Just before the rice is done, stir in spinach until just wilted, then add in the lime juice and cornflour and stir for a minute or two until thickened.
 5. Serve over rice with a dollop of yogurt and coriander.

@@ -11,6 +11,7 @@
 - [Teriyaki Beef Bowls](#teriyaki-beef-bowls)
 - [Beef in Black Bean Sauce](#beef-in-black-bean-sauce)
 - [Egg Foo Young](#egg-foo-young)
+- [Cashew Chicken](#cashew-chicken)
 
 ## Chow Mein
 
@@ -517,3 +518,33 @@
 2. Pour into a saucepan over medium heat. Bring to simmer, stirring constantly. Simmer for 1 minute until sauce thickens to thin syrup consistency. Remove from stove, set aside.
 
 3. MICROWAVE option: Microwave on high for 1 1/2 minutes. Stir very well, microwave for another 1 1/2 minutes until thickened. Mix well again.
+
+## Cashew Chicken
+
+![cashew-chicken](Images/cashew-chicken.jpg)
+
+#### Serves 4 - 30 mins
+
+- 2 tbsp oil
+- 500g chicken, cut into bite sized pieces
+- 2 garlic cloves, minced
+- 1 brown onion, chopped into 1.75cm squares
+- 1 green pepper, chopped into 2cm squares
+- 100g cup cashews, roasted preferable but non roasted ok
+- Rice to serve
+
+**Sauce**
+
+- 1 tbsp cornflour
+- 3 tbsp light soy sauce
+- 1 1/2 tbsp Chinese cooking wine
+- 3 tbsp oyster sauce
+- 2 tsp sesame oil
+- 1/4 tsp white pepper
+- 85ml water
+
+#### Directions
+
+1. Put the rice on. Mix the sauce ingredients and chop the chicken, garlic, and onion
+2. Fry the chicken and onion for 3 mins, while frying chop the pepper, then add the pepper and fry for 2 mins more
+3. Add the sauce and cashews and bring to a simmer until the sauce thickens. Serve with rice.
