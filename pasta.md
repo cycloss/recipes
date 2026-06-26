@@ -13,6 +13,7 @@
 - [Tomato, Bacon & Butter Fusilli](#tomato-bacon--butter-fusilli)
 - [Garlicy Mac 'n' Cheese](#garlicy-mac-n-cheese)
 - [Vodka Pasta](#vodka-pasta)
+- [One-pot Pizza Mac](#one-pot-pizza-mac)
 
 ## Pasta Putanesca
 
@@ -515,3 +516,35 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 2. Sauté garlic and onion until translucent, add and cook off tomato paste for 2 mins, add vodka and cook off the alcohol.
 
 3. Lower heat and add cream, chilli flakes, S&P, simmer a few mins, add in the peas and sweetcorn and bring back to simmer, stir in parmesan at end. Toss with pasta and 1/2 cup pasta water, adding more if needed. Serve with garlic bread.
+
+## One-pot Pizza Mac
+
+![pizza-mac](Images/pizza-mac.jpg)
+
+#### Serves 4 - 30 mins
+
+- 1 tbsp olive oil
+- 125g pepperoni slices, chopped into 1cm squares
+- 1 brown onion, diced
+- 1 red pepper, chopped into 1cm squares
+- 2 garlic cloves, minced
+- 1 tsp dried oregano
+- 1 tsp dried basil
+- 1/3 tsp chilli flakes
+- 500ml beef stock
+- 2 tins of chopped tomatoes
+- 1/2 tsp salt
+- 1/2 tsp black pepper
+- 250g macaroni pasta
+
+**Topping**
+
+- 200g grated mozzerella cheese
+- 50g pepperoni slices
+- 20 kalamata olives (half a jar), chopped in half
+
+#### Directions
+
+1. Heat the oil in a large oven proof pan over medium high heat and cook the chopped pepperoni for a few minutes until gold at the edges. Add the onion, pepper, garlic, oregano, basli, and chlli flakes, then stir for a few more minutes until the onion is translucent.
+2. Add the stock, tomatoes, and salt and pepper, then bring to a simmer, then add the pasta, lower the heat to medium, then cook for 10 minutes, stirring regularly to prevent the base catching. When almost done, turn on the grill.
+3. Add the toppings: cheese, then pepperoni, then olives, then place under the grill until the cheese turns golden.

@@ -545,6 +545,6 @@
 
 #### Directions
 
-1. Put the rice on. Mix the sauce ingredients and chop the chicken, garlic, and onion
-2. Fry the chicken and onion for 3 mins, while frying chop the pepper, then add the pepper and fry for 2 mins more
+1. Put the rice on. Mix the sauce ingredients and chop the chicken, garlic, and onion.
+2. Fry the chicken and onion for 3 mins, while frying chop the pepper, then add the pepper and garlic, and fry for 2 mins more.
 3. Add the sauce and cashews and bring to a simmer until the sauce thickens. Serve with rice.
