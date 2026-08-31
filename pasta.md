@@ -33,15 +33,17 @@
 
 - 2 tbsp fresh basil, chopped
 
-- 2 heaped tablespoons of capers
-
 - 2 x 400g tins of chopped tinned tomatoes
 
 - 2 rounded tablespoons of tomato purée
 
-- 100g of anchovies, (a jar / tin)
+- 1/3 tsp pepper
 
-- 175g pitted black olives (optional) chopped
+- 2 heaped tablespoons of capers
+
+- 60g of anchovies, (a jar / tin), no need to chop, will disolve
+
+- 145g pitted kalamata olives (a jar), chopped
 
 - Garnish fresh basil chopped lots of freshly grated Parmesan cheese
 
@@ -548,3 +550,25 @@ Cook the pasta, reserving some of the water. Pour over the crab sauce, parmesan,
 1. Heat the oil in a large oven proof pan over medium high heat and cook the chopped pepperoni for a few minutes until gold at the edges. Add the onion, pepper, garlic, oregano, basli, and chlli flakes, then stir for a few more minutes until the onion is translucent.
 2. Add the stock, tomatoes, and salt and pepper, then bring to a simmer, then add the pasta, lower the heat to medium, then cook for 10 minutes, stirring regularly to prevent the base catching. When almost done, turn on the grill.
 3. Add the toppings: cheese, then pepperoni, then olives, then place under the grill until the cheese turns golden.
+
+# Katie's Anchovy Spaghetti
+
+![anchovy-spaghetti](Images/anchovy-spaghetti.jpg)
+
+#### Serves 4 - 30 mins
+
+- spaghetti for 4 (480g)
+- 125ml extra vigin olive oil
+- half a jar (1 tin?) of anchovies
+- 1 small onion, diced
+- 6 garlic cloves, thinly sliced
+- optional: ~15 cherry tomatoes(?), halved
+- optional: 1/2 tsp dried parsley(?)
+- parmesan/pecorino to serve
+
+#### Directions
+
+1. Put the pasta water on and add pasta once boiling
+2. Chop all the sauce ingredients
+3. In a large saute pan on medium-low heat, add the anchovies, onion, and garlic, and cook until the anchovies have melted and the onion is translucent, optional: then add the cherry tomatoes and dried parsley and cook for a few minutes
+4. Reserve a cup of pasta water and add some to the saute pan, drain the pasta, add it to the saute pan, stir, and serve with parmesan/pecorino
