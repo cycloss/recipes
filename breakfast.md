@@ -31,28 +31,24 @@ Photo pending
 
 #### Serves 1 - 15 mins
 
-- 3 medium eggs
+- 4 eggs (room temperature - cooks better)
 
-- 1/2 teaspoon of salt
-
-- Pinch of Pepper
-
-- 2 chive leaves + 1 to garnish
+- 1/5 teaspoon of salt
 
 - A good knob of butter
 
-- To serve: toast and shredded smoked salmon
+- To serve: buttered toast, chopped chives (dried is ok), and shredded smoked salmon (optional)
 
 #### Directions
 
-1. Put a pan on with the butter at low/medium heat, about a 4
+1. Put the toast int the toaster ready to toast. Whisk the eggs and salt, put a pan on with the butter at low/medium heat, about a 4, and pour the egg into the pan.
 
-2. Whisk the eggs, salt and pepper, and chop the chives finely with scissors into the egg mix (fold the chive leaves into a small parcel to make them quicker to chop)
-
-3. Pour the egg mixture into the pan. If the pan is too hot, the egg will immediately solidify on contact. This is absolutely not desired, and ruins the dish. It should start to semi solidify slowly after 10-20 seconds. Repeat the following three steps until the egg has a custardy consistency. It should take about 5-10 minutes. Any faster and the egg will have been cooked too hard:
+2. The egg should start to semi solidify slowly after 10-20 seconds (instantly solidifying means it's too hot). Repeat the following three steps until the egg has a custardy consistency. It should take about 5-10 minutes. Any faster and the egg will have been cooked too hard:
    
-   1. Once there is a thin layer of semi-solid egg on the bottom of the pan, make long, slow strokes across the bottom of the pan with a flat ended wooden spoon. If the egg has solidified fully to the point where it is dry when pulling it off the bottom, the pan was too hot, or the egg was left too long, and the dish is probably ruined.
+   1. Once there is a thin layer of semi-solid egg on the bottom of the pan, make long, slow strokes across the bottom of the pan with a flat ended wooden spoon or spatula. If the egg has solidified fully to the point where it is dry when pulling it off the bottom, the pan is too hot.
    
    2. After each pass, tap the egg curds of off the spoon, breaking them up if they are too big.
    
    3. With the spoon, spread the egg back out evenly across the pan and go back to step 1.
+
+3. Start the toaster when the egg is close to being done, then butter when done and pour over the egg, with chopped chives on top.

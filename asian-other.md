@@ -11,6 +11,7 @@
 - [Lentil Dal](#lentil-dal)
 - [Golden Coconut Curry](#golden-coconut-curry)
 - [Brazilian Chickpea Curry](#brazilian-chickpea-curry)
+- [Meah's Curry Sauces](#meahs-curry-sauces)
 
 ## Goan Fish Curry
 
@@ -565,3 +566,19 @@
 3. Add remaining Curry ingredients except baby spinach, lime juice, and cornflour. Stir, bring to simmer then lower to medium low, and simmer for 15 minutes, or until the rice is done.
 4. Just before the rice is done, stir in spinach until just wilted, then add in the lime juice and cornflour and stir for a minute or two until thickened.
 5. Serve over rice with a dollop of yogurt and coriander.
+
+## Meah's Curry Sauces
+
+![meahs-sauces](./Images/meahs-sauces.jpg)
+
+#### Serves 3-4 - 30 mins
+
+- 1 pot of Meah's curry sauce: https://www.curry-sauces.co.uk/products
+- ~500g chicken breast, sliced into bite sized chunks
+- Basmati rice to serve
+- Yoghurt to serve
+
+#### Directions
+
+1. Put the rice on.
+2. Chop the chicken and fry it in a large pan, then add the sauce and simmer until the rice is done, then serve with the rice and yoghurt.

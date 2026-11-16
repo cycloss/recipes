@@ -13,6 +13,15 @@
 - [Creamy salmon, leek & potato traybake](#creamy-salmon-leek--potato-traybake)
 - [Creamy Dijon Chicken](#creamy-dijon-chicken)
 - [Honey Garlic Pork](#honey-garlic-pork)
+- [Café de Paris butter](#café-de-paris-butter)
+- [Shepherd's / Cottage Pie](#shepherds--cottage-pie)
+- [Toad in the Hole with Onion Gravy](#toad-in-the-hole-with-onion-gravy)
+- [Swedish Meatballs](#swedish-meatballs)
+- [Saucy Meatballs](#saucy-meatballs)
+- [Chorizo & Chickpea Stew](#chorizo--chickpea-stew)
+- [French Sausage & Bean Casserole](#french-sausage--bean-casserole)
+- [Chicken Stew](#chicken-stew)
+- [Portobello Steaks and Butter Bean Mash](#portobello-steaks-and-butter-bean-mash)
 
 ## Sausage & Red Wine Casserole
 
@@ -576,7 +585,7 @@ Tip: chop the chorizo first, get it in the pan, then chop the rest.
 
 5. **To use –** Slice into 0.7cm slices, then let them soften to room temperature (so they melt easier). Place on hot steak so it melts – I use 2 slices each steak. **Leftovers** – fridge 3 days or freeze 2 months (pre sliced for ease of use).
 
-## Shepherds / Cottage Pie
+## Shepherd's / Cottage Pie
 
 ![](Images/2022-08-31-10-33-31-image.png)
 

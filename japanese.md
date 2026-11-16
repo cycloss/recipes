@@ -12,6 +12,7 @@
 - [Oyakodon](#oyakodon)
 - [Simple Side Dishes](#simple-side-dishes)
 - [Cream Stew](#cream-stew)
+- [Omurice](#omurice)
 
 ## Japanese Curry
 
